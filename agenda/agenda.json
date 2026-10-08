@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-08T17:48:17-03:00",
+  "gerado_em": "2026-10-08T18:03:19-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
   "posts": [
     {
@@ -26,10 +26,11 @@
       "dateTime": "2026-10-08T18:00:00",
       "tipo": "REEL",
       "draft": false,
-      "status": "PENDING",
+      "status": "PUBLISHED",
       "codigo": "",
       "local": "Casa com vista para a lagoa",
-      "midias": 1
+      "midias": 1,
+      "url": "https://www.instagram.com/reel/DeP2lFcjt1J/"
     },
     {
       "dateTime": "2026-10-09T06:00:00",
