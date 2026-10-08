@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Muller Imóveis RJ · Pedidos</title>
+<meta name="description" content="Escolha o que você quer pedir: edição de vídeo ou post no Instagram da Muller Imóveis RJ.">
+<meta name="robots" content="noindex">
+<link rel="icon" href="inicio/logo.png">
+<style>
+  @font-face{font-family:"Montserrat";src:url("inicio/Montserrat-Regular.ttf") format("truetype");font-weight:400;font-display:swap}
+  @font-face{font-family:"Montserrat";src:url("inicio/Montserrat-Medium.ttf") format("truetype");font-weight:500;font-display:swap}
+  :root{--bg:#000;--texto:#f5f3ee;--sec:#a1a1a6;--ouro:#c9a961;--linha:rgba(255,255,255,.18)}
+  *{box-sizing:border-box;margin:0;padding:0}
+  html,body{height:100%}
+  body{background:var(--bg);color:var(--texto);font-family:"Montserrat",-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif;
+       -webkit-font-smoothing:antialiased;display:flex;flex-direction:column;align-items:center;justify-content:center;
+       min-height:100svh;padding:48px 16px;text-align:center}
+  main{width:100%;max-width:440px;display:flex;flex-direction:column;align-items:center}
+  .logo{width:min(220px,62vw);height:auto;display:block;margin-bottom:56px}
+  .kicker{font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--sec);margin-bottom:28px}
+  .botoes{width:100%;display:flex;flex-direction:column;gap:16px}
+  a.botao{display:block;width:100%;padding:22px 24px;border:1px solid var(--linha);border-radius:14px;color:var(--texto);
+          text-decoration:none;text-align:left;transition:border-color .2s,background .2s;position:relative}
+  a.botao:hover,a.botao:focus-visible{border-color:var(--ouro);background:rgba(201,169,97,.06);outline:none}
+  a.botao .titulo{display:block;font-size:19px;font-weight:500;letter-spacing:-.01em;margin-bottom:6px}
+  a.botao .desc{display:block;font-size:14px;color:var(--sec);line-height:1.45;text-wrap:pretty;padding-right:28px}
+  a.botao::after{content:"";position:absolute;right:22px;top:50%;width:10px;height:10px;border-right:1.5px solid var(--ouro);
+                 border-top:1.5px solid var(--ouro);transform:translateY(-50%) rotate(45deg)}
+  footer{margin-top:56px;font-size:12px;color:var(--sec);letter-spacing:.04em}
+  footer a{color:var(--sec);text-decoration:none}
+  @media (prefers-reduced-motion:reduce){a.botao{transition:none}}
+</style>
+</head>
+<body>
+<main>
+  <img class="logo" src="inicio/logo.png" alt="Muller Imóveis RJ" width="417" height="314">
+  <p class="kicker">O que você quer pedir?</p>
+  <nav class="botoes" aria-label="Pedidos">
+    <a class="botao" href="https://form.jotform.com/262793696293071">
+      <span class="titulo">Edição de vídeo</span>
+      <span class="desc">Envie o vídeo bruto e peça o corte e a edição para o Instagram.</span>
+    </a>
+    <a class="botao" href="https://form.jotform.com/262795035203051">
+      <span class="titulo">Post no Instagram</span>
+      <span class="desc">Cole o link do imóvel no site e escolha o dia e o horário do post.</span>
+    </a>
+  </nav>
+</main>
+<footer><a href="https://www.instagram.com/mullerimoveis.rj/">@mullerimoveis.rj</a></footer>
+</body>
+</html>
