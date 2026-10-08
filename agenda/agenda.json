@@ -1,15 +1,16 @@
 {
- "gerado_em": "2026-10-08T07:47:47-03:00",
+ "gerado_em": "2026-10-08T07:52:25-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
  "posts": [
   {
    "dateTime": "2026-10-08T07:10:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9866",
    "local": "Rio Mar, Barra da Tijuca",
-   "midias": 6
+   "midias": 6,
+   "url": "https://www.instagram.com/p/DeOsDg9mvwi/"
   },
   {
    "dateTime": "2026-10-08T11:40:00",
