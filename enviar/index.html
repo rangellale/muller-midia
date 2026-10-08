@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Pasta de envio</title>
+<link rel="icon" href="../inicio/logo.png">
+<style>
+  body{margin:0;min-height:100svh;display:flex;align-items:center;justify-content:center;background:#000;color:#F5F3EE;
+       font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif;text-align:center;padding:24px 16px}
+  p{font-size:17px;line-height:1.5;margin:0 0 20px}
+  a{display:inline-block;padding:14px 24px;background:#C9A961;color:#000;text-decoration:none;border-radius:10px;font-weight:600}
+  .n{color:#C9A961;font-weight:600}
+</style>
+<script>
+  var fallback = 'https://drive.google.com/drive/folders/1MQk16phs2ftUYjihVHaXC8mdQrKpPe2T';
+  fetch('envio.json?t=' + Date.now(), {cache:'no-store'})
+    .then(function(r){ return r.json(); })
+    .then(function(j){ location.replace(j.url || fallback); })
+    .catch(function(){ location.replace(fallback); });
+</script>
+</head>
+<body>
+<div>
+  <p>Abrindo a pasta <span class="n">PEDIDO 01</span>...</p>
+  <a href="https://drive.google.com/drive/folders/1MQk16phs2ftUYjihVHaXC8mdQrKpPe2T">Abrir a pasta</a>
+</div>
+</body>
+</html>
