@@ -9,22 +9,41 @@
 <style>
   body{margin:0;min-height:100svh;display:flex;align-items:center;justify-content:center;background:#000;color:#F5F3EE;
        font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif;text-align:center;padding:24px 16px}
-  p{font-size:17px;line-height:1.5;margin:0 0 20px}
-  a{display:inline-block;padding:14px 24px;background:#C9A961;color:#000;text-decoration:none;border-radius:10px;font-weight:600}
-  .n{color:#C9A961;font-weight:600}
+  main{max-width:420px;width:100%}
+  .k{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:#86868b;margin-bottom:10px}
+  h1{font-size:28px;font-weight:600;margin:0 0 6px}
+  p{font-size:16px;line-height:1.5;color:#a1a1a6;margin:0 0 22px}
+  a.b{display:block;padding:16px 20px;border-radius:12px;text-decoration:none;font-weight:600;font-size:17px;margin-bottom:12px}
+  a.drive{background:#C9A961;color:#000}
+  a.voltar{border:1px solid rgba(255,255,255,.25);color:#F5F3EE}
+  ol{text-align:left;color:#a1a1a6;font-size:14px;line-height:1.6;margin:26px 0 0;padding-left:20px}
 </style>
-<script>
-  var fallback = 'https://drive.google.com/drive/folders/1MQk16phs2ftUYjihVHaXC8mdQrKpPe2T';
-  fetch('envio.json?t=' + Date.now(), {cache:'no-store'})
-    .then(function(r){ return r.json(); })
-    .then(function(j){ location.replace(j.url || fallback); })
-    .catch(function(){ location.replace(fallback); });
-</script>
 </head>
 <body>
-<div>
-  <p>Abrindo a pasta <span class="n">PEDIDO 01</span>...</p>
-  <a href="https://drive.google.com/drive/folders/1MQk16phs2ftUYjihVHaXC8mdQrKpPe2T">Abrir a pasta</a>
-</div>
+<main>
+  <div class="k">Pasta da vez</div>
+  <h1 id="nome">PEDIDO 01</h1>
+  <p>Coloque o vídeo nesta pasta e anote o número dela.</p>
+  <a class="b drive" id="drive" href="https://drive.google.com/drive/folders/1MQk16phs2ftUYjihVHaXC8mdQrKpPe2T" target="_blank" rel="noopener">Abrir a pasta no Drive</a>
+  <a class="b voltar" href="https://form.jotform.com/262798736205064" id="voltar">Voltar ao formulário</a>
+  <ol>
+    <li>Toque em "Abrir a pasta no Drive" e solte o vídeo lá.</li>
+    <li>Espere o upload terminar.</li>
+    <li>Volte para o navegador e toque em "Voltar ao formulário".</li>
+  </ol>
+</main>
+<script>
+  fetch('envio.json?t=' + Date.now(), {cache:'no-store'})
+    .then(function(r){ return r.json(); })
+    .then(function(j){ if (j.url) { document.getElementById('drive').href = j.url; }
+                       if (j.pasta) { document.getElementById('nome').textContent = j.pasta; } })
+    .catch(function(){});
+  document.getElementById('voltar').addEventListener('click', function(ev){
+    // Aba aberta pelo formulario: fechar devolve a aba do formulario ja preenchido.
+    window.close();
+    setTimeout(function(){ location.href = 'https://form.jotform.com/262798736205064'; }, 400);
+    ev.preventDefault();
+  });
+</script>
 </body>
 </html>
