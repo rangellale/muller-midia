@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-08T20:04:11-03:00",
+  "gerado_em": "2026-10-08T20:19:24-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
   "posts": [
     {
@@ -31,6 +31,17 @@
       "local": "Casa com vista para a lagoa",
       "midias": 1,
       "url": "https://www.instagram.com/reel/DeP2lFcjt1J/"
+    },
+    {
+      "dateTime": "2026-10-08T20:15:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PUBLISHED",
+      "codigo": "",
+      "local": "Story (vídeo)",
+      "midias": 1,
+      "url": "https://www.instagram.com/stories/mullerimoveis.rj/4003726227801187005",
+      "metricool_id": 391613944
     },
     {
       "dateTime": "2026-10-09T06:00:00",
