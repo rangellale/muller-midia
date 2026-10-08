@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-08T10:48:59-03:00",
+ "gerado_em": "2026-10-08T12:09:59-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
  "posts": [
   {
@@ -13,14 +13,14 @@
    "url": "https://www.instagram.com/p/DeOsDg9mvwi/"
   },
   {
-   "dateTime": "2026-10-08T13:50:00",
+   "dateTime": "2026-10-08T15:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9956",
-   "local": "Rio Mar, Barra da Tijuca",
-   "midias": 6,
-   "metricool_id": 391111828
+   "codigo": "MU9845",
+   "local": "Blue Houses, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 391277634
   },
   {
    "dateTime": "2026-10-08T18:00:00",
@@ -40,6 +40,26 @@
    "local": "Processo de compra (setor jurídico)",
    "midias": 1,
    "metricool_id": 391066831
+  },
+  {
+   "dateTime": "2026-10-09T16:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8234",
+   "local": "Interlagos de Itaúna, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 391277743
+  },
+  {
+   "dateTime": "2026-10-10T07:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9956",
+   "local": "Rio Mar, Barra da Tijuca",
+   "midias": 6,
+   "metricool_id": 391259567
   },
   {
    "dateTime": "2026-10-10T18:00:00",
