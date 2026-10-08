@@ -1,69 +1,33 @@
 {
-  "gerado_em": "2026-10-07T23:57:00-03:00",
-  "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-07 a 2026-10-12",
-  "posts": [
-    {
-      "dateTime": "2026-10-07T06:00:00",
-      "tipo": "POST",
-      "draft": false,
-      "status": "PUBLISHED",
-      "codigo": "MU9071",
-      "local": "Parque das Palmeiras, Recreio dos Bandeirantes",
-      "midias": 8
-    },
-    {
-      "dateTime": "2026-10-07T10:00:00",
-      "tipo": "POST",
-      "draft": false,
-      "status": "PUBLISHED",
-      "codigo": "MU9941",
-      "local": "Riviera Del Sol, Recreio dos Bandeirantes",
-      "midias": 7
-    },
-    {
-      "dateTime": "2026-10-07T15:00:00",
-      "tipo": "POST",
-      "draft": false,
-      "status": "PUBLISHED",
-      "codigo": "MU9114",
-      "local": "Riviera Del Sol, Recreio dos Bandeirantes",
-      "midias": 8
-    },
-    {
-      "dateTime": "2026-10-07T18:05:00",
-      "tipo": "REEL",
-      "draft": false,
-      "status": "PUBLISHED",
-      "codigo": "",
-      "local": "Apartamento decorado, Barra da Tijuca",
-      "midias": 1
-    },
-    {
-      "dateTime": "2026-10-08T07:10:00",
-      "tipo": "POST",
-      "draft": false,
-      "status": "PENDING",
-      "codigo": "MU9866",
-      "local": "Rio Mar, Barra da Tijuca",
-      "midias": 6
-    },
-    {
-      "dateTime": "2026-10-08T18:00:00",
-      "tipo": "REEL",
-      "draft": false,
-      "status": "PENDING",
-      "codigo": "",
-      "local": "Casa com vista para a lagoa, Alphaville",
-      "midias": 1
-    },
-    {
-      "dateTime": "2026-10-10T18:00:00",
-      "tipo": "REEL",
-      "draft": false,
-      "status": "PENDING",
-      "codigo": "",
-      "local": "Casa de esquina, Alphaville",
-      "midias": 1
-    }
-  ]
+ "gerado_em": "2026-10-08T00:48:00-03:00",
+ "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
+ "posts": [
+  {
+   "dateTime": "2026-10-08T07:10:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9866",
+   "local": "Rio Mar, Barra da Tijuca",
+   "midias": 6
+  },
+  {
+   "dateTime": "2026-10-08T18:00:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Casa com vista para a lagoa",
+   "midias": 1
+  },
+  {
+   "dateTime": "2026-10-10T18:00:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Casa de esquina no Alphaville",
+   "midias": 1
+  }
+ ]
 }
