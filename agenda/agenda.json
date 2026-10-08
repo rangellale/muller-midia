@@ -1,84 +1,84 @@
 {
- "gerado_em": "2026-10-08T12:36:54-03:00",
- "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
- "posts": [
-  {
-   "dateTime": "2026-10-08T07:10:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9866",
-   "local": "Rio Mar, Barra da Tijuca",
-   "midias": 6,
-   "url": "https://www.instagram.com/p/DeOsDg9mvwi/"
-  },
-  {
-   "dateTime": "2026-10-08T15:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9845",
-   "local": "Blue Houses, Barra da Tijuca",
-   "midias": 8,
-   "metricool_id": 391277634
-  },
-  {
-   "dateTime": "2026-10-08T18:00:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Casa com vista para a lagoa",
-   "midias": 1
-  },
-  {
-   "dateTime": "2026-10-09T13:20:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Processo de compra (setor jurídico)",
-   "midias": 1,
-   "metricool_id": 391066831
-  },
-  {
-   "dateTime": "2026-10-09T16:30:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU8234",
-   "local": "Interlagos de Itaúna, Barra da Tijuca",
-   "midias": 8,
-   "metricool_id": 391277743
-  },
-  {
-   "dateTime": "2026-10-10T07:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9956",
-   "local": "Rio Mar, Barra da Tijuca",
-   "midias": 6,
-   "metricool_id": 391259567
-  },
-  {
-   "dateTime": "2026-10-10T15:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9402",
-   "local": "Rio Mar, Barra da Tijuca",
-   "midias": 7,
-   "metricool_id": 391303409
-  },
-  {
-   "dateTime": "2026-10-10T18:00:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Casa de esquina no Alphaville",
-   "midias": 1
-  }
- ]
+  "gerado_em": "2026-10-08T12:48:41-03:00",
+  "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
+  "posts": [
+    {
+      "dateTime": "2026-10-08T07:10:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PUBLISHED",
+      "codigo": "MU9866",
+      "local": "Rio Mar, Barra da Tijuca",
+      "midias": 6,
+      "url": "https://www.instagram.com/p/DeOsDg9mvwi/"
+    },
+    {
+      "dateTime": "2026-10-08T15:00:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU9845",
+      "local": "Blue Houses, Barra da Tijuca",
+      "midias": 8,
+      "metricool_id": 391277634
+    },
+    {
+      "dateTime": "2026-10-08T18:00:00",
+      "tipo": "REEL",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Casa com vista para a lagoa",
+      "midias": 1
+    },
+    {
+      "dateTime": "2026-10-09T13:20:00",
+      "tipo": "REEL",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Processo de compra (setor jurídico)",
+      "midias": 1,
+      "metricool_id": 391066831
+    },
+    {
+      "dateTime": "2026-10-09T16:30:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU8234",
+      "local": "Interlagos de Itaúna, Barra da Tijuca",
+      "midias": 8,
+      "metricool_id": 391277743
+    },
+    {
+      "dateTime": "2026-10-10T07:00:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU9956",
+      "local": "Rio Mar, Barra da Tijuca",
+      "midias": 6,
+      "metricool_id": 391259567
+    },
+    {
+      "dateTime": "2026-10-10T15:00:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU9402",
+      "local": "Rio Mar, Barra da Tijuca",
+      "midias": 7,
+      "metricool_id": 391303409
+    },
+    {
+      "dateTime": "2026-10-10T18:00:00",
+      "tipo": "REEL",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Casa de esquina no Alphaville",
+      "midias": 1
+    }
+  ]
 }
