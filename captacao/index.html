@@ -260,12 +260,13 @@ footer{margin-top:48px;border-top:1px solid var(--line);padding-top:16px;color:v
   $('#hora').textContent = (D.gerado_em||'').slice(11,16);
   const R = D.resumo, novos = D.candidatos.filter(c=>c.novo).length, novos48 = D.candidatos.filter(c=>diasAtras(c.first_seen)<2).length;
   const nCasas = D.candidatos.filter(c=>(c.rep.tipo||'casa')!=='terreno').length, nTerr = D.candidatos.length - nCasas;
-  const porTipo = `${nCasas} ${nCasas===1?'casa':'casas'} · ${nTerr} ${nTerr===1?'terreno':'terrenos'}`;
   $('#h1n').textContent = D.candidatos.length;
-  $('#h1s').textContent = porTipo + (novos ? ` · ${novos} novos hoje` : ' · nenhum novo hoje');
+  $('#h1s').textContent = novos ? `${novos} novos hoje · ${novos48} nas últimas 48 horas` : 'nenhum novo hoje';
   $('#kpis').innerHTML = [
     ['acc', novos, 'Novos hoje', `${novos48} nas últimas 48 horas`],
-    ['', D.candidatos.length, 'A captar', porTipo],
+    ['', D.candidatos.length, 'A captar', 'casas e terrenos'],
+    ['', nCasas, 'Casas', 'a captar'],
+    ['', nTerr, 'Terrenos', 'a captar'],
     ['', R.casados, 'Já com a Muller', 'imóveis do mercado casados'],
     ['', R.ext_grupos, 'Mercado monitorado', `${R.ext_total} anúncios em ${Object.keys(R.por_fonte).length} fontes`],
     ['', R.muller_casas_alvo, 'Inventário Muller', `casas e terrenos no alvo · ${R.muller_total} anúncios ativos`],
