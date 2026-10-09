@@ -280,9 +280,9 @@ footer{margin-top:48px;border-top:1px solid var(--line);padding-top:16px;color:v
   }));
 
   // filtros
-  const def = {bairro:'', fonte:'', q:'', per:'', busca:'', ord:'recentes', tipo:''};
+  const def = {bairro:'', fonte:'', q:'', per:'', busca:'', ord:'recentes', tipo:'casa'};
   const state = Object.assign({}, def, {shown:40});
-  try{ Object.assign(state, JSON.parse(localStorage.getItem('captacao.filtros.v5')||'{}'), {shown:40}); }catch(e){}
+  try{ Object.assign(state, JSON.parse(localStorage.getItem('captacao.filtros.v6')||'{}'), {shown:40}); }catch(e){}
   const bairros = [...new Set(D.candidatos.map(c=>c.rep.bairro).filter(Boolean))].sort();
   $('#fBairro').innerHTML = [''].concat(bairros).map(b=>`<button class="chip" data-b="${esc(b)}" aria-pressed="${state.bairro===b}">${b?bairroNome(b):'todos'}</button>`).join('');
   const fontes = [...new Set(D.candidatos.flatMap(c=>c.grupo.map(d=>d.source)))].sort();
@@ -295,7 +295,7 @@ footer{margin-top:48px;border-top:1px solid var(--line);padding-top:16px;color:v
     [...$('#fTipo').children].forEach(x=>x.setAttribute('aria-pressed', String(x.dataset.t===state.tipo)));
     [...$('#fBairro').children].forEach(x=>x.setAttribute('aria-pressed', String(x.dataset.b===state.bairro)));
   }
-  function save(){ try{ localStorage.setItem('captacao.filtros.v5', JSON.stringify(state)); }catch(e){} }
+  function save(){ try{ localStorage.setItem('captacao.filtros.v6', JSON.stringify(state)); }catch(e){} }
   function passes(c){
     const r = c.rep;
     if(state.bairro && r.bairro!==state.bairro) return false;
