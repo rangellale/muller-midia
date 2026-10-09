@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-09T13:49:00-03:00",
+  "gerado_em": "2026-10-09T14:04:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
   "posts": [
     {
@@ -101,6 +101,17 @@
       "midias": 1,
       "metricool_id": 391066831,
       "url": "https://www.instagram.com/reel/DeR7O6fDnmV/"
+    },
+    {
+      "dateTime": "2026-10-09T14:07:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Story (vídeo)",
+      "midias": 1,
+      "url": "",
+      "metricool_id": 392233499
     },
     {
       "dateTime": "2026-10-09T16:30:00",
