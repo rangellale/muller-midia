@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-09T20:18:00-03:00",
+  "gerado_em": "2026-10-09T20:33:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
   "posts": [
     {
@@ -157,6 +157,26 @@
       "metricool_id": 391908815
     },
     {
+      "dateTime": "2026-10-10T09:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Story (vídeo)",
+      "midias": 1,
+      "metricool_id": 392462829
+    },
+    {
+      "dateTime": "2026-10-10T12:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Story (vídeo)",
+      "midias": 1,
+      "metricool_id": 392462891
+    },
+    {
       "dateTime": "2026-10-10T15:00:00",
       "tipo": "POST",
       "draft": false,
@@ -167,6 +187,16 @@
       "metricool_id": 391908875
     },
     {
+      "dateTime": "2026-10-10T16:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Story (vídeo)",
+      "midias": 1,
+      "metricool_id": 392462967
+    },
+    {
       "dateTime": "2026-10-10T18:00:00",
       "tipo": "REEL",
       "draft": false,
@@ -174,6 +204,16 @@
       "codigo": "",
       "local": "Casa de esquina no Alphaville",
       "midias": 1
+    },
+    {
+      "dateTime": "2026-10-10T19:00:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Story (vídeo)",
+      "midias": 1,
+      "metricool_id": 392463128
     }
   ]
 }
