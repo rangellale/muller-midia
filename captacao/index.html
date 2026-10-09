@@ -1,6 +1,21 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Captação Muller</title>
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Muller Imóveis RJ">
+<meta property="og:title" content="Captação Muller: casas e terrenos a captar">
+<meta property="og:description" content="Barra da Tijuca e Recreio: imóveis à venda no mercado que ainda não estão com a Muller. Atualizado todo dia.">
+<meta property="og:url" content="https://rangellale.github.io/muller-midia/captacao/">
+<meta property="og:image" content="https://rangellale.github.io/muller-midia/captacao/og.jpg">
+<meta property="og:image:secure_url" content="https://rangellale.github.io/muller-midia/captacao/og.jpg">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:locale" content="pt_BR">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Captação Muller: casas e terrenos a captar">
+<meta name="twitter:image" content="https://rangellale.github.io/muller-midia/captacao/og.jpg">
+<meta name="description" content="Barra da Tijuca e Recreio: imóveis à venda no mercado que ainda não estão com a Muller. Atualizado todo dia.">
 <meta name="robots" content="noindex, nofollow">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap">
 <style>
@@ -57,7 +72,8 @@ a{color:inherit}
 .side label{display:block;font-size:10.5px;font-weight:600;text-transform:uppercase;letter-spacing:.14em;color:var(--fg2);margin:18px 0 8px}
 .side label:first-child{margin-top:0}
 .side select,.side input[type=search],.side input[type=number]{width:100%;font:inherit;font-size:13px;font-weight:400;background:var(--card);color:var(--fg);border:1px solid var(--line-strong);border-radius:2px;padding:9px 11px}
-.side .two{display:flex;gap:8px}
+.side .acts{display:flex;gap:8px;margin-top:22px}
+.side .acts .btn{flex:1;justify-content:center}
 .chips{display:flex;gap:6px;flex-wrap:wrap}
 .chip{border:1px solid var(--line-strong);background:transparent;color:var(--fg2);border-radius:2px;padding:6px 12px;font:inherit;font-size:12px;font-weight:500;cursor:pointer;min-width:36px;letter-spacing:.02em}
 .chip[aria-pressed="true"]{background:var(--primary);border-color:var(--primary);color:var(--primary-ink)}
@@ -184,7 +200,7 @@ footer{margin-top:48px;border-top:1px solid var(--line);padding-top:16px;color:v
   <select id="fOrd"><option value="recentes">Mais recentes</option><option value="area-desc">Maior área</option></select>
   <label>Período</label>
   <div class="chips" id="fPer"><button class="chip" data-p="" aria-pressed="true">tudo</button><button class="chip" data-p="1">hoje</button><button class="chip" data-p="2">48 horas</button><button class="chip" data-p="7">7 dias</button></div>
-  <button class="btn ghost" id="fLimpar" style="margin-top:10px">Limpar filtros</button>
+  <div class="acts"><button class="btn" id="fBuscar">Buscar</button><button class="btn ghost" id="fLimpar">Limpar</button></div>
 </aside>
 
 <main>
@@ -462,6 +478,9 @@ footer{margin-top:48px;border-top:1px solid var(--line);padding-top:16px;color:v
   $('#fPer').addEventListener('click', e=>{ const b=e.target.closest('.chip'); if(b) upd(()=>state.per=b.dataset.p); });
   $('#fTipo').addEventListener('click', e=>{ const b=e.target.closest('.chip'); if(b) upd(()=>state.tipo=b.dataset.t); });
   $('#fLimpar').addEventListener('click', ()=>upd(()=>Object.assign(state, def)));
+  const buscar = ()=>{ upd(()=>{}); $('#fBusca').blur(); document.querySelector('main').scrollIntoView({behavior:'smooth', block:'start'}); };
+  $('#fBuscar').addEventListener('click', buscar);
+  $('#fBusca').addEventListener('keydown', e=>{ if(e.key==='Enter'){ e.preventDefault(); buscar(); } });
   $('#cMore').addEventListener('click', ()=>{ state.shown+=40; render(); });
   syncUI(); render();
 
