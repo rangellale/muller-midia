@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-09T05:49:00-03:00",
+  "gerado_em": "2026-10-09T06:05:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
   "posts": [
     {
@@ -47,12 +47,14 @@
       "dateTime": "2026-10-09T06:00:00",
       "tipo": "POST",
       "draft": false,
-      "status": "PENDING",
+      "status": "PUBLISHED",
       "codigo": "MU8026",
       "local": "Alphaville, Barra da Tijuca",
       "midias": 6,
       "id": 391346060,
-      "uuid": "-2805330148786811340"
+      "uuid": "-2805330148786811340",
+      "url": "https://www.instagram.com/p/DeRJQJuD1XH/",
+      "metricool_id": 391346060
     },
     {
       "dateTime": "2026-10-09T10:40:00",
