@@ -267,9 +267,6 @@ footer{margin-top:48px;border-top:1px solid var(--line);padding-top:16px;color:v
     ['', D.candidatos.length, 'A captar', 'casas e terrenos'],
     ['', nCasas, 'Casas', 'a captar'],
     ['', nTerr, 'Terrenos', 'a captar'],
-    ['', R.casados, 'Já com a Muller', 'imóveis do mercado casados'],
-    ['', R.ext_grupos, 'Mercado monitorado', `${R.ext_total} anúncios em ${Object.keys(R.por_fonte).length} fontes`],
-    ['', R.muller_casas_alvo, 'Inventário Muller', `casas e terrenos no alvo · ${R.muller_total} anúncios ativos`],
   ].map(([c,n,l,s]) => `<div class="kpi"><div class="n ${c}">${n}</div><div class="l">${l}</div><div class="s">${s}</div></div>`).join('');
   const errs = Object.entries(D.erros||{});
   if(errs.length) $('#erros').innerHTML = `<div class="err"><b>Fontes com erro hoje:</b> ` + errs.map(([s,e])=>`${fn(s)} (${esc(e)})`).join('; ') + `</div>`;
