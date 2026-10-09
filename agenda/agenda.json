@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-09T13:19:00-03:00",
+  "gerado_em": "2026-10-09T13:34:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
   "posts": [
     {
@@ -95,11 +95,12 @@
       "dateTime": "2026-10-09T13:20:00",
       "tipo": "REEL",
       "draft": false,
-      "status": "PENDING",
+      "status": "PUBLISHED",
       "codigo": "",
       "local": "Processo de compra (setor jurídico)",
       "midias": 1,
-      "metricool_id": 391066831
+      "metricool_id": 391066831,
+      "url": "https://www.instagram.com/reel/DeR7O6fDnmV/"
     },
     {
       "dateTime": "2026-10-09T16:30:00",
