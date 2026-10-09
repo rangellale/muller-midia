@@ -65,7 +65,8 @@
       "local": "Riviera Del Sol, Recreio dos Bandeirantes",
       "midias": 6,
       "id": 391406055,
-      "uuid": "1222978486672509785"
+      "uuid": "1222978486672509785",
+      "metricool_id": 391908626
     },
     {
       "dateTime": "2026-10-09T13:20:00",
@@ -85,7 +86,7 @@
       "codigo": "MU8234",
       "local": "Interlagos de Itaúna, Barra da Tijuca",
       "midias": 8,
-      "metricool_id": 391277743
+      "metricool_id": 391908732
     },
     {
       "dateTime": "2026-10-10T07:00:00",
@@ -95,7 +96,7 @@
       "codigo": "MU9956",
       "local": "Rio Mar, Barra da Tijuca",
       "midias": 6,
-      "metricool_id": 391259567
+      "metricool_id": 391908815
     },
     {
       "dateTime": "2026-10-10T15:00:00",
@@ -105,7 +106,7 @@
       "codigo": "MU9402",
       "local": "Rio Mar, Barra da Tijuca",
       "midias": 7,
-      "metricool_id": 391303409
+      "metricool_id": 391908875
     },
     {
       "dateTime": "2026-10-10T18:00:00",
