@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-09T10:33:00-03:00",
+  "gerado_em": "2026-10-09T10:49:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
   "posts": [
     {
@@ -71,13 +71,25 @@
       "dateTime": "2026-10-09T10:40:00",
       "tipo": "POST",
       "draft": false,
-      "status": "PENDING",
+      "status": "PUBLISHED",
       "codigo": "MU9060",
       "local": "Riviera Del Sol, Recreio dos Bandeirantes",
       "midias": 6,
       "id": 391406055,
       "uuid": "1222978486672509785",
-      "metricool_id": 391908626
+      "metricool_id": 391908626,
+      "url": "https://www.instagram.com/p/DeRo4i5DgTH/"
+    },
+    {
+      "dateTime": "2026-10-09T10:47:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PUBLISHING",
+      "codigo": "",
+      "local": "Story (vídeo)",
+      "midias": 1,
+      "url": "",
+      "metricool_id": 392070738
     },
     {
       "dateTime": "2026-10-09T13:20:00",
