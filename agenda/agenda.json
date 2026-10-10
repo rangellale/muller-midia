@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T15:03-03:00",
+ "gerado_em": "2026-10-10T15:31-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
  "posts": [
   {
@@ -220,6 +220,39 @@
    "metricool_id": 392519784
   },
   {
+   "dateTime": "2026-10-10T20:30:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: quiz Quanto custa?",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392887869
+  },
+  {
+   "dateTime": "2026-10-10T20:50:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: reveal R$ 4.250.000",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392887889
+  },
+  {
+   "dateTime": "2026-10-11T10:00:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: Domingo em casa",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392887908
+  },
+  {
    "dateTime": "2026-10-11T12:40:00",
    "tipo": "REEL",
    "draft": false,
@@ -228,6 +261,39 @@
    "local": "Riviera del Sol, Recreio dos Bandeirantes",
    "midias": 1,
    "metricool_id": 392821506
+  },
+  {
+   "dateTime": "2026-10-11T13:30:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: quiz Quanto custa?",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392887923
+  },
+  {
+   "dateTime": "2026-10-11T13:50:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: reveal R$ 15.900.000",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392887939
+  },
+  {
+   "dateTime": "2026-10-11T18:30:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: corte 9,9 s do Reel Riviera ",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392887959
   },
   {
    "dateTime": "2026-10-12T17:10:00",
