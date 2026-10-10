@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-09T21:48:00-03:00",
+  "gerado_em": "2026-10-09T23:48:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
   "posts": [
     {
@@ -164,7 +164,7 @@
       "codigo": "",
       "local": "Story (vídeo)",
       "midias": 1,
-      "metricool_id": 392462829
+      "metricool_id": 392519591
     },
     {
       "dateTime": "2026-10-10T12:30:00",
@@ -174,7 +174,7 @@
       "codigo": "",
       "local": "Story (vídeo)",
       "midias": 1,
-      "metricool_id": 392462891
+      "metricool_id": 392519706
     },
     {
       "dateTime": "2026-10-10T15:00:00",
@@ -194,7 +194,7 @@
       "codigo": "",
       "local": "Story (vídeo)",
       "midias": 1,
-      "metricool_id": 392462967
+      "metricool_id": 392519740
     },
     {
       "dateTime": "2026-10-10T18:00:00",
@@ -213,7 +213,7 @@
       "codigo": "",
       "local": "Story (vídeo)",
       "midias": 1,
-      "metricool_id": 392463128
+      "metricool_id": 392519784
     }
   ]
 }
