@@ -243,6 +243,16 @@
       "metricool_id": 392950410
     },
     {
+      "dateTime": "2026-10-11T08:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU7754",
+      "local": "Story (checklist)",
+      "midias": 1,
+      "metricool_id": 392952816
+    },
+    {
       "dateTime": "2026-10-11T10:00:00",
       "tipo": "STORY",
       "draft": false,
@@ -252,6 +262,16 @@
       "midias": 1,
       "url": null,
       "metricool_id": 392950432
+    },
+    {
+      "dateTime": "2026-10-11T11:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU9560",
+      "local": "Story (tira_filme)",
+      "midias": 1,
+      "metricool_id": 392952835
     },
     {
       "dateTime": "2026-10-11T12:40:00",
@@ -286,6 +306,26 @@
       "metricool_id": 392950482
     },
     {
+      "dateTime": "2026-10-11T15:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU7754",
+      "local": "Story (pergunta_aberta)",
+      "midias": 1,
+      "metricool_id": 392952851
+    },
+    {
+      "dateTime": "2026-10-11T17:00:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU9560",
+      "local": "Story (ticket_visita)",
+      "midias": 1,
+      "metricool_id": 392952863
+    },
+    {
       "dateTime": "2026-10-11T18:30:00",
       "tipo": "STORY",
       "draft": false,
@@ -295,6 +335,16 @@
       "midias": 1,
       "url": null,
       "metricool_id": 392950498
+    },
+    {
+      "dateTime": "2026-10-11T20:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU7754",
+      "local": "Story (split_editorial)",
+      "midias": 1,
+      "metricool_id": 392952876
     },
     {
       "dateTime": "2026-10-12T17:10:00",
