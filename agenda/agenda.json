@@ -1,0 +1,440 @@
+{
+ "gerado_em": "2026-10-10T16:12-03:00",
+ "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
+ "posts": [
+  {
+   "dateTime": "2026-10-08T07:10:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU9866",
+   "local": "Rio Mar, Barra da Tijuca",
+   "midias": 6,
+   "url": "https://www.instagram.com/p/DeOsDg9mvwi/"
+  },
+  {
+   "dateTime": "2026-10-08T15:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU9845",
+   "local": "Blue Houses, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 391277634
+  },
+  {
+   "dateTime": "2026-10-08T18:00:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Casa com vista para a lagoa",
+   "midias": 1,
+   "url": "https://www.instagram.com/reel/DeP2lFcjt1J/"
+  },
+  {
+   "dateTime": "2026-10-08T20:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4003726227801187005",
+   "metricool_id": 391613944
+  },
+  {
+   "dateTime": "2026-10-09T06:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU8026",
+   "local": "Alphaville, Barra da Tijuca",
+   "midias": 6,
+   "id": 391346060,
+   "uuid": "-2805330148786811340",
+   "url": "https://www.instagram.com/p/DeRJQJuD1XH/",
+   "metricool_id": 391346060
+  },
+  {
+   "dateTime": "2026-10-09T09:58:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4004140015436965143",
+   "metricool_id": 392033117
+  },
+  {
+   "dateTime": "2026-10-09T10:40:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU9060",
+   "local": "Riviera Del Sol, Recreio dos Bandeirantes",
+   "midias": 6,
+   "id": 391406055,
+   "uuid": "1222978486672509785",
+   "metricool_id": 391908626,
+   "url": "https://www.instagram.com/p/DeRo4i5DgTH/"
+  },
+  {
+   "dateTime": "2026-10-09T10:47:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4004164892499748191",
+   "metricool_id": 392070738
+  },
+  {
+   "dateTime": "2026-10-09T13:20:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Processo de compra (setor jurídico)",
+   "midias": 1,
+   "metricool_id": 391066831,
+   "url": "https://www.instagram.com/reel/DeR7O6fDnmV/"
+  },
+  {
+   "dateTime": "2026-10-09T14:07:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4004265412912108421",
+   "metricool_id": 392233499
+  },
+  {
+   "dateTime": "2026-10-09T15:07:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4004295592616263711",
+   "metricool_id": 392235510
+  },
+  {
+   "dateTime": "2026-10-09T16:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU8234",
+   "local": "Interlagos de Itaúna, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 391908732,
+   "url": "https://www.instagram.com/p/DeSQ_cvjNYZ/"
+  },
+  {
+   "dateTime": "2026-10-09T18:13:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4004389588495629673",
+   "metricool_id": 392393124
+  },
+  {
+   "dateTime": "2026-10-10T07:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU9956",
+   "local": "Rio Mar, Barra da Tijuca",
+   "midias": 6,
+   "metricool_id": 391908815,
+   "url": "https://www.instagram.com/p/DeT0u2dlNvz/"
+  },
+  {
+   "dateTime": "2026-10-10T09:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "metricool_id": 392519591,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4004851040536497659"
+  },
+  {
+   "dateTime": "2026-10-10T12:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "metricool_id": 392519706,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4004941705248770548"
+  },
+  {
+   "dateTime": "2026-10-10T15:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU9402",
+   "local": "Rio Mar, Barra da Tijuca",
+   "midias": 7,
+   "metricool_id": 391908875,
+   "url": "https://www.instagram.com/p/DeUrqzdmxBo/"
+  },
+  {
+   "dateTime": "2026-10-10T16:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "metricool_id": 392519740
+  },
+  {
+   "dateTime": "2026-10-10T18:00:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Casa de esquina no Alphaville",
+   "midias": 1
+  },
+  {
+   "dateTime": "2026-10-10T19:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "metricool_id": 392519784
+  },
+  {
+   "dateTime": "2026-10-10T20:30:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: quiz Quanto custa?",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392905704
+  },
+  {
+   "dateTime": "2026-10-10T20:50:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: reveal R$ 4.250.000",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392905719
+  },
+  {
+   "dateTime": "2026-10-11T10:00:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: Domingo em casa",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392905727
+  },
+  {
+   "dateTime": "2026-10-11T12:40:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Riviera del Sol, Recreio dos Bandeirantes",
+   "midias": 1,
+   "metricool_id": 392821506
+  },
+  {
+   "dateTime": "2026-10-11T13:30:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: quiz Quanto custa?",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392905743
+  },
+  {
+   "dateTime": "2026-10-11T13:50:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: reveal R$ 15.900.000",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392905761
+  },
+  {
+   "dateTime": "2026-10-11T18:30:00",
+   "tipo": "STORY",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story piloto: corte 9,9 s do Reel Riviera ",
+   "midias": 1,
+   "url": null,
+   "metricool_id": 392905781
+  },
+  {
+   "dateTime": "2026-10-12T17:10:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
+   "midias": 1,
+   "metricool_id": 392811830
+  },
+  {
+   "dateTime": "2026-10-13T10:00:00",
+   "tipo": "POST",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "MU8355",
+   "local": "Rio Mar, Barra da Tijuca",
+   "midias": 8,
+   "url": null,
+   "metricool_id": 392863220
+  },
+  {
+   "dateTime": "2026-10-13T13:20:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes",
+   "midias": 1,
+   "metricool_id": 392823173
+  },
+  {
+   "dateTime": "2026-10-14T16:00:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra da Tijuca",
+   "midias": 1,
+   "metricool_id": 392811924
+  },
+  {
+   "dateTime": "2026-10-15T12:10:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
+   "midias": 1,
+   "metricool_id": 392823202
+  },
+  {
+   "dateTime": "2026-10-16T14:35:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes (marcar conversa)",
+   "midias": 1,
+   "metricool_id": 392811399
+  },
+  {
+   "dateTime": "2026-10-16T17:40:00",
+   "tipo": "REEL",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra e Recreio (lista de links, duplicado)",
+   "midias": 1,
+   "metricool_id": 392798827
+  },
+  {
+   "dateTime": "2026-10-17T13:35:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra e Recreio (sem lista de links)",
+   "midias": 1,
+   "metricool_id": 392823237
+  },
+  {
+   "dateTime": "2026-10-17T14:30:00",
+   "tipo": "REEL",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio (negócio cresceu, duplicado)",
+   "midias": 1,
+   "metricool_id": 392798870
+  },
+  {
+   "dateTime": "2026-10-18T15:50:00",
+   "tipo": "REEL",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra e Recreio (20, 30 casas, duplicado)",
+   "midias": 1,
+   "metricool_id": 392798914
+  },
+  {
+   "dateTime": "2026-10-18T17:15:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra e Recreio (20 ou 30 casas)",
+   "midias": 1,
+   "metricool_id": 392811467
+  },
+  {
+   "dateTime": "2026-10-19T12:00:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes (família cresceu)",
+   "midias": 1,
+   "metricool_id": 392823271
+  },
+  {
+   "dateTime": "2026-10-19T13:00:00",
+   "tipo": "REEL",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio (marcar conversa, duplicado)",
+   "midias": 1,
+   "metricool_id": 392799046
+  },
+  {
+   "dateTime": "2026-10-20T17:55:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Cobertura (2 andares)",
+   "midias": 1,
+   "metricool_id": 392823294
+  }
+ ]
+}
