@@ -223,35 +223,35 @@
     {
       "dateTime": "2026-10-10T20:30:00",
       "tipo": "STORY",
-      "draft": true,
+      "draft": false,
       "status": "PENDING",
       "codigo": "",
       "local": "Story piloto: quiz Quanto custa?",
       "midias": 1,
       "url": null,
-      "metricool_id": 392928036
+      "metricool_id": 392950399
     },
     {
       "dateTime": "2026-10-10T20:50:00",
       "tipo": "STORY",
-      "draft": true,
+      "draft": false,
       "status": "PENDING",
       "codigo": "",
       "local": "Story piloto: reveal R$ 4.250.000",
       "midias": 1,
       "url": null,
-      "metricool_id": 392928040
+      "metricool_id": 392950410
     },
     {
       "dateTime": "2026-10-11T10:00:00",
       "tipo": "STORY",
-      "draft": true,
+      "draft": false,
       "status": "PENDING",
       "codigo": "",
       "local": "Story piloto: Domingo em casa",
       "midias": 1,
       "url": null,
-      "metricool_id": 392928056
+      "metricool_id": 392950432
     },
     {
       "dateTime": "2026-10-11T12:40:00",
@@ -266,35 +266,35 @@
     {
       "dateTime": "2026-10-11T13:30:00",
       "tipo": "STORY",
-      "draft": true,
+      "draft": false,
       "status": "PENDING",
       "codigo": "",
       "local": "Story piloto: quiz Quanto custa?",
       "midias": 1,
       "url": null,
-      "metricool_id": 392928092
+      "metricool_id": 392950464
     },
     {
       "dateTime": "2026-10-11T13:50:00",
       "tipo": "STORY",
-      "draft": true,
+      "draft": false,
       "status": "PENDING",
       "codigo": "",
       "local": "Story piloto: reveal R$ 15.900.000",
       "midias": 1,
       "url": null,
-      "metricool_id": 392928137
+      "metricool_id": 392950482
     },
     {
       "dateTime": "2026-10-11T18:30:00",
       "tipo": "STORY",
-      "draft": true,
+      "draft": false,
       "status": "PENDING",
       "codigo": "",
       "local": "Story piloto: corte 9,9 s do Reel Riviera ",
       "midias": 1,
       "url": null,
-      "metricool_id": 392905781
+      "metricool_id": 392950498
     },
     {
       "dateTime": "2026-10-12T17:10:00",
