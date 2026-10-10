@@ -172,11 +172,12 @@
    "dateTime": "2026-10-10T12:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "Story (vídeo)",
    "midias": 1,
-   "metricool_id": 392519706
+   "metricool_id": 392519706,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4004941705248770548"
   },
   {
    "dateTime": "2026-10-10T15:00:00",
