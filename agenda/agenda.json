@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T13:12:00-03:00",
+ "gerado_em": "2026-10-10T14:39-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
  "posts": [
   {
@@ -237,6 +237,17 @@
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
    "metricool_id": 392811830
+  },
+  {
+   "dateTime": "2026-10-13T10:00:00",
+   "tipo": "POST",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "MU8355",
+   "local": "Rio Mar, Barra da Tijuca",
+   "midias": 8,
+   "url": null,
+   "metricool_id": 392863220
   },
   {
    "dateTime": "2026-10-13T13:20:00",
