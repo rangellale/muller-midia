@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T13:03:00-03:00",
+ "gerado_em": "2026-10-10T13:12:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
  "posts": [
   {
@@ -226,7 +226,7 @@
    "codigo": "",
    "local": "Riviera del Sol, Recreio dos Bandeirantes",
    "midias": 1,
-   "metricool_id": 392811771
+   "metricool_id": 392821506
   },
   {
    "dateTime": "2026-10-12T17:10:00",
@@ -246,7 +246,7 @@
    "codigo": "",
    "local": "Recreio dos Bandeirantes",
    "midias": 1,
-   "metricool_id": 392811887
+   "metricool_id": 392821551
   },
   {
    "dateTime": "2026-10-14T16:00:00",
@@ -266,7 +266,7 @@
    "codigo": "",
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
-   "metricool_id": 392811970
+   "metricool_id": 392821617
   },
   {
    "dateTime": "2026-10-16T14:35:00",
@@ -296,7 +296,7 @@
    "codigo": "",
    "local": "Barra e Recreio (sem lista de links)",
    "midias": 1,
-   "metricool_id": 392811430
+   "metricool_id": 392821660
   },
   {
    "dateTime": "2026-10-17T14:30:00",
@@ -336,7 +336,7 @@
    "codigo": "",
    "local": "Recreio dos Bandeirantes (família cresceu)",
    "midias": 1,
-   "metricool_id": 392811496
+   "metricool_id": 392821697
   },
   {
    "dateTime": "2026-10-19T13:00:00",
