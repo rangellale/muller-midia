@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T12:18:00-03:00",
+ "gerado_em": "2026-10-10T12:50:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
  "posts": [
   {
@@ -220,52 +220,142 @@
   {
    "dateTime": "2026-10-11T12:40:00",
    "tipo": "REEL",
-   "draft": true,
+   "draft": false,
    "status": "PENDING",
    "codigo": "",
    "local": "Riviera del Sol, Recreio dos Bandeirantes",
    "midias": 1,
-   "metricool_id": 392796406
+   "metricool_id": 392811771
   },
   {
    "dateTime": "2026-10-12T17:10:00",
    "tipo": "REEL",
-   "draft": true,
+   "draft": false,
    "status": "PENDING",
    "codigo": "",
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
-   "metricool_id": 392796471
+   "metricool_id": 392811830
   },
   {
    "dateTime": "2026-10-13T13:20:00",
    "tipo": "REEL",
-   "draft": true,
+   "draft": false,
    "status": "PENDING",
    "codigo": "",
    "local": "Recreio dos Bandeirantes",
    "midias": 1,
-   "metricool_id": 392796511
+   "metricool_id": 392811887
   },
   {
    "dateTime": "2026-10-14T16:00:00",
    "tipo": "REEL",
-   "draft": true,
+   "draft": false,
    "status": "PENDING",
    "codigo": "",
    "local": "Barra da Tijuca",
    "midias": 1,
-   "metricool_id": 392796555
+   "metricool_id": 392811924
   },
   {
    "dateTime": "2026-10-15T12:10:00",
    "tipo": "REEL",
-   "draft": true,
+   "draft": false,
    "status": "PENDING",
    "codigo": "",
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
-   "metricool_id": 392796587
+   "metricool_id": 392811970
+  },
+  {
+   "dateTime": "2026-10-16T14:35:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes (marcar conversa)",
+   "midias": 1,
+   "metricool_id": 392811399
+  },
+  {
+   "dateTime": "2026-10-16T17:40:00",
+   "tipo": "REEL",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra e Recreio (lista de links, duplicado)",
+   "midias": 1,
+   "metricool_id": 392798827
+  },
+  {
+   "dateTime": "2026-10-17T13:35:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra e Recreio (sem lista de links)",
+   "midias": 1,
+   "metricool_id": 392811430
+  },
+  {
+   "dateTime": "2026-10-17T14:30:00",
+   "tipo": "REEL",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio (negócio cresceu, duplicado)",
+   "midias": 1,
+   "metricool_id": 392798870
+  },
+  {
+   "dateTime": "2026-10-18T15:50:00",
+   "tipo": "REEL",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra e Recreio (20, 30 casas, duplicado)",
+   "midias": 1,
+   "metricool_id": 392798914
+  },
+  {
+   "dateTime": "2026-10-18T17:15:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra e Recreio (20 ou 30 casas)",
+   "midias": 1,
+   "metricool_id": 392811467
+  },
+  {
+   "dateTime": "2026-10-19T12:00:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes (família cresceu)",
+   "midias": 1,
+   "metricool_id": 392811496
+  },
+  {
+   "dateTime": "2026-10-19T13:00:00",
+   "tipo": "REEL",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio (marcar conversa, duplicado)",
+   "midias": 1,
+   "metricool_id": 392799046
+  },
+  {
+   "dateTime": "2026-10-20T17:55:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Cobertura (2 andares)",
+   "midias": 1,
+   "metricool_id": 392811528
   }
  ]
 }
