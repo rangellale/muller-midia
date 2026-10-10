@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-10T12:03:00-03:00",
+ "gerado_em": "2026-10-10T12:18:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
  "posts": [
   {
@@ -220,32 +220,52 @@
   {
    "dateTime": "2026-10-11T12:40:00",
    "tipo": "REEL",
-   "draft": false,
+   "draft": true,
    "status": "PENDING",
    "codigo": "",
    "local": "Riviera del Sol, Recreio dos Bandeirantes",
    "midias": 1,
-   "metricool_id": 392780399
+   "metricool_id": 392796406
   },
   {
    "dateTime": "2026-10-12T17:10:00",
    "tipo": "REEL",
-   "draft": false,
+   "draft": true,
    "status": "PENDING",
    "codigo": "",
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
-   "metricool_id": 392781086
+   "metricool_id": 392796471
   },
   {
    "dateTime": "2026-10-13T13:20:00",
    "tipo": "REEL",
-   "draft": false,
+   "draft": true,
    "status": "PENDING",
    "codigo": "",
    "local": "Recreio dos Bandeirantes",
    "midias": 1,
-   "metricool_id": 392781764
+   "metricool_id": 392796511
+  },
+  {
+   "dateTime": "2026-10-14T16:00:00",
+   "tipo": "REEL",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra da Tijuca",
+   "midias": 1,
+   "metricool_id": 392796555
+  },
+  {
+   "dateTime": "2026-10-15T12:10:00",
+   "tipo": "REEL",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
+   "midias": 1,
+   "metricool_id": 392796587
   }
  ]
 }
