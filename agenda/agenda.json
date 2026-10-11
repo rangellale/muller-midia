@@ -266,6 +266,16 @@
    "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005545344457767866"
   },
   {
+   "dateTime": "2026-10-11T09:10:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7754",
+   "local": "Story (checklist, repost das 08h30)",
+   "midias": 1,
+   "metricool_id": 393241319
+  },
+  {
    "dateTime": "2026-10-11T10:00:00",
    "tipo": "STORY",
    "draft": false,
@@ -367,7 +377,7 @@
    "codigo": "MU8072",
    "local": "Mansões, Barra",
    "midias": 8,
-   "metricool_id": 393050317
+   "metricool_id": 393247858
   },
   {
    "dateTime": "2026-10-11T20:30:00",
