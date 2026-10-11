@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T17:50:00-03:00",
+ "gerado_em": "2026-10-11T18:40:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -127,11 +127,12 @@
    "dateTime": "2026-10-11T18:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "metricool_id": 392950498
+   "metricool_id": 392950498,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005847343135476194"
   },
   {
    "dateTime": "2026-10-11T18:40:00",
@@ -179,7 +180,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "MU9402 MU9866 MU8355 MU9123",
-   "local": "Rio Mar, Barra da Tijuca (4 casas)",
+   "local": "Rio Mar, Barra da Tijuca",
    "midias": 6,
    "metricool_id": 393336188
   },
@@ -199,7 +200,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra da Tijuca e Recreio (10 anos Muller)",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
    "metricool_id": 393238518
   },
@@ -216,7 +217,7 @@
   {
    "dateTime": "2026-10-13T10:00:00",
    "tipo": "POST",
-   "draft": false,
+   "draft": true,
    "status": "PENDING",
    "codigo": "MU8355",
    "local": "Rio Mar, Barra da Tijuca",
@@ -239,7 +240,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Recreio dos Bandeirantes (forma de pagamento)",
+   "local": "Recreio dos Bandeirantes",
    "midias": 1,
    "metricool_id": 393238553
   },
@@ -249,7 +250,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra da Tijuca (condomínios)",
+   "local": "Barra da Tijuca",
    "midias": 1,
    "metricool_id": 393238868
   },
@@ -259,7 +260,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra da Tijuca e Recreio (já visitou muitas casas)",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
    "metricool_id": 393239407
   },
@@ -269,7 +270,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Recreio dos Bandeirantes (condomínio)",
+   "local": "Recreio dos Bandeirantes",
    "midias": 1,
    "metricool_id": 392971517
   },
@@ -279,7 +280,7 @@
    "draft": true,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra e Recreio (consultoria)",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
    "metricool_id": 392798827
   }
