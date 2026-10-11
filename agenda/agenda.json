@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-10T16:12-03:00",
+  "gerado_em": "2026-10-10T23:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
   "posts": [
     {
@@ -244,6 +244,16 @@
       "metricool_id": 392950410
     },
     {
+      "dateTime": "2026-10-11T06:15:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU9696",
+      "local": "Riviera Del Sol, Recreio",
+      "midias": 7,
+      "metricool_id": 393050223
+    },
+    {
       "dateTime": "2026-10-11T08:30:00",
       "tipo": "STORY",
       "draft": false,
@@ -307,6 +317,16 @@
       "metricool_id": 392950482
     },
     {
+      "dateTime": "2026-10-11T14:20:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU9123",
+      "local": "Rio Mar, Barra",
+      "midias": 8,
+      "metricool_id": 393050261
+    },
+    {
       "dateTime": "2026-10-11T15:30:00",
       "tipo": "STORY",
       "draft": false,
@@ -336,6 +356,16 @@
       "midias": 1,
       "url": null,
       "metricool_id": 392950498
+    },
+    {
+      "dateTime": "2026-10-11T18:40:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU8072",
+      "local": "Mansões, Barra",
+      "midias": 8,
+      "metricool_id": 393050317
     },
     {
       "dateTime": "2026-10-11T20:30:00",
