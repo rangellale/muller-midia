@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T09:01-03:00",
+ "gerado_em": "2026-10-11T09:19-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-08 a 2026-10-13",
  "posts": [
   {
@@ -269,11 +269,12 @@
    "dateTime": "2026-10-11T09:10:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU7754",
    "local": "Story (checklist, repost das 08h30)",
    "midias": 1,
-   "metricool_id": 393241319
+   "metricool_id": 393241319,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005565414864135556"
   },
   {
    "dateTime": "2026-10-11T10:00:00",
