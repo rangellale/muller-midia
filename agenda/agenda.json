@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T17:38:00-03:00",
+ "gerado_em": "2026-10-11T17:50:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -178,7 +178,7 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9402, MU9866, MU8355, MU9123",
+   "codigo": "MU9402 MU9866 MU8355 MU9123",
    "local": "Rio Mar, Barra da Tijuca (4 casas)",
    "midias": 6,
    "metricool_id": 393336188
@@ -199,7 +199,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "10 anos de Muller Imóveis",
+   "local": "Barra da Tijuca e Recreio (10 anos Muller)",
    "midias": 1,
    "metricool_id": 393238518
   },
@@ -216,7 +216,7 @@
   {
    "dateTime": "2026-10-13T10:00:00",
    "tipo": "POST",
-   "draft": true,
+   "draft": false,
    "status": "PENDING",
    "codigo": "MU8355",
    "local": "Rio Mar, Barra da Tijuca",
@@ -239,7 +239,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Forma de pagamento diferenciada, Recreio",
+   "local": "Recreio dos Bandeirantes (forma de pagamento)",
    "midias": 1,
    "metricool_id": 393238553
   },
@@ -249,7 +249,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Condomínios fechados da Barra",
+   "local": "Barra da Tijuca (condomínios)",
    "midias": 1,
    "metricool_id": 393238868
   },
@@ -259,7 +259,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Quem já visitou muitas casas",
+   "local": "Barra da Tijuca e Recreio (já visitou muitas casas)",
    "midias": 1,
    "metricool_id": 393239407
   },
@@ -269,7 +269,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Reunião para comprar casa no Recreio",
+   "local": "Recreio dos Bandeirantes (condomínio)",
    "midias": 1,
    "metricool_id": 392971517
   },
@@ -279,7 +279,7 @@
    "draft": true,
    "status": "PENDING",
    "codigo": "",
-   "local": "Lista de links vs. estudo do caso",
+   "local": "Barra e Recreio (consultoria)",
    "midias": 1,
    "metricool_id": 392798827
   }
