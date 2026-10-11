@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T14:19:48-03:00",
+ "gerado_em": "2026-10-11T14:34:00-03:00",
  "fonte": "Metricool brand 7250391",
  "posts": [
   {
@@ -94,11 +94,11 @@
    "dateTime": "2026-10-11T14:20:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9123",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 8,
-   "url": "",
+   "url": "https://www.instagram.com/p/DeXLq4MGx2O/",
    "metricool_id": 393050261
   },
   {
@@ -183,8 +183,8 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9402, MU9866, MU8355, MU9123",
-   "local": "Rio Mar, Barra da Tijuca (4 casas)",
+   "codigo": "MU9402 MU9866 MU8355 MU9123",
+   "local": "Rio Mar, Barra da Tijuca",
    "midias": 6,
    "url": "",
    "metricool_id": 393336188
@@ -206,7 +206,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "10 anos de Muller",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
    "url": "",
    "metricool_id": 393238518
@@ -228,7 +228,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Forma de pagamento, Recreio",
+   "local": "Recreio dos Bandeirantes",
    "midias": 1,
    "url": "",
    "metricool_id": 393238553
@@ -239,7 +239,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Condomínios da Barra",
+   "local": "Barra da Tijuca",
    "midias": 1,
    "url": "",
    "metricool_id": 393238868
@@ -250,7 +250,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Já visitou muitas casas",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
    "url": "",
    "metricool_id": 393239407
@@ -261,7 +261,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Reunião de café, Recreio",
+   "local": "Recreio dos Bandeirantes",
    "midias": 1,
    "url": "",
    "metricool_id": 392971517
@@ -272,7 +272,7 @@
    "draft": true,
    "status": "PENDING",
    "codigo": "",
-   "local": "Atendimento Muller",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
    "url": "",
    "metricool_id": 392798827
