@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T11:25-03:00",
+ "gerado_em": "2026-10-11T11:30-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391, 2026-10-11 a 2026-10-16",
  "posts": [
   {
@@ -18,7 +18,7 @@
    "draft": false,
    "status": "PUBLISHED",
    "codigo": "",
-   "local": "Story",
+   "local": "",
    "midias": 1,
    "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005545344457767866"
   },
@@ -28,7 +28,7 @@
    "draft": false,
    "status": "PUBLISHED",
    "codigo": "",
-   "local": "Story",
+   "local": "",
    "midias": 1,
    "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005565414864135556"
   },
@@ -38,7 +38,7 @@
    "draft": false,
    "status": "PUBLISHED",
    "codigo": "",
-   "local": "Story",
+   "local": "",
    "midias": 1,
    "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005591790325654726"
   },
@@ -57,7 +57,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Riviera del Sol, Recreio (porteira fechada)",
+   "local": "Riviera del Sol, Recreio dos Bandeirantes",
    "midias": 1
   },
   {
@@ -111,7 +111,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Story (vídeo)",
+   "local": "Story",
    "midias": 1
   },
   {
@@ -138,7 +138,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Story (vídeo)",
+   "local": "Story",
    "midias": 1
   },
   {
@@ -147,7 +147,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Story (vídeo)",
+   "local": "Story",
    "midias": 1
   },
   {
@@ -156,7 +156,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Story (vídeo)",
+   "local": "Story",
    "midias": 1
   },
   {
@@ -165,7 +165,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "10 anos de Muller Imóveis",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1
   },
   {
@@ -183,7 +183,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Forma de pagamento no Recreio",
+   "local": "Recreio dos Bandeirantes",
    "midias": 1
   },
   {
@@ -192,7 +192,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Condomínio fechado na Barra",
+   "local": "Barra da Tijuca",
    "midias": 1
   },
   {
@@ -201,7 +201,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Visitou muitas casas",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1
   },
   {
@@ -210,7 +210,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Reunião no Recreio",
+   "local": "Recreio dos Bandeirantes",
    "midias": 1
   },
   {
@@ -219,7 +219,7 @@
    "draft": true,
    "status": "PENDING",
    "codigo": "",
-   "local": "Atendimento Muller",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1
   }
  ]
