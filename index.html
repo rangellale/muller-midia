@@ -18,7 +18,8 @@
        min-height:100svh;padding:48px 16px;text-align:center}
   main{width:100%;max-width:440px;display:flex;flex-direction:column;align-items:center}
   .logo{width:min(220px,62vw);height:auto;display:block;margin-top:184px;margin-bottom:56px}
-  .kicker{font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--sec);margin-bottom:28px}
+  .kicker{font-size:12px;letter-spacing:.22em;text-transform:uppercase;color:var(--ouro);margin-bottom:10px}
+  .frase{font-size:22px;font-weight:500;letter-spacing:-.01em;line-height:1.3;color:var(--texto);text-wrap:balance;margin:0 0 30px}
   .botoes{width:100%;display:flex;flex-direction:column;gap:16px}
   a.botao{display:block;width:100%;padding:22px 24px;border:1px solid var(--linha);border-radius:14px;color:var(--texto);
           text-decoration:none;text-align:left;transition:border-color .2s,background .2s;position:relative}
@@ -35,8 +36,13 @@
 <body>
 <main>
   <img class="logo" src="inicio/logo.png" alt="Muller Imóveis RJ" width="417" height="314">
-  <p class="kicker">O que você quer pedir?</p>
+  <p class="kicker">A Muller mudou</p>
+  <p class="frase">Agora tudo acontece em segundos. Chegamos ao futuro.</p>
   <nav class="botoes" aria-label="Pedidos">
+    <a class="botao" href="https://tinyurl.com/muller-storypromax">
+      <span class="titulo">Story Pro Max</span>
+      <span class="desc">Envie os vídeos do imóvel na pasta e informe o código MU para os Stories.</span>
+    </a>
     <a class="botao" href="https://form.jotform.com/262798984961078">
       <span class="titulo">Post no Instagram</span>
       <span class="desc">Cole o link do imóvel no site e escolha o dia e o horário do post.</span>
@@ -48,10 +54,6 @@
     <a class="botao" href="https://form.jotform.com/262798736205064">
       <span class="titulo">Vídeo já editado</span>
       <span class="desc">Envie o vídeo pronto. A Muller gera a legenda, você escolhe a capa e o post é agendado.</span>
-    </a>
-    <a class="botao" href="https://tinyurl.com/muller-storypromax">
-      <span class="titulo">Story Pro Max</span>
-      <span class="desc">Envie os vídeos do imóvel na pasta e informe o código MU para os Stories.</span>
     </a>
   </nav>
 </main>
