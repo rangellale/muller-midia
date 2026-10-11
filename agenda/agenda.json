@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T14:50:00-03:00",
+ "gerado_em": "2026-10-11T15:25:00-03:00",
  "fonte": "Metricool brand 7250391",
  "posts": [
   {
@@ -10,8 +10,8 @@
    "codigo": "MU9696",
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": 7,
-   "url": "https://www.instagram.com/p/DeWUKTuFYIf/",
-   "metricool_id": 393050223
+   "metricool_id": 393050223,
+   "url": "https://www.instagram.com/p/DeWUKTuFYIf/"
   },
   {
    "dateTime": "2026-10-11T08:30:00",
@@ -21,8 +21,8 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005545344457767866",
-   "metricool_id": 392952816
+   "metricool_id": 392952816,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005545344457767866"
   },
   {
    "dateTime": "2026-10-11T09:10:00",
@@ -32,8 +32,8 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005565414864135556",
-   "metricool_id": 393241319
+   "metricool_id": 393241319,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005565414864135556"
   },
   {
    "dateTime": "2026-10-11T10:00:00",
@@ -43,8 +43,8 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005591790325654726",
-   "metricool_id": 392950432
+   "metricool_id": 392950432,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005591790325654726"
   },
   {
    "dateTime": "2026-10-11T11:30:00",
@@ -54,8 +54,8 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005635997516751445",
-   "metricool_id": 392952835
+   "metricool_id": 392952835,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005635997516751445"
   },
   {
    "dateTime": "2026-10-11T12:40:00",
@@ -65,8 +65,8 @@
    "codigo": "",
    "local": "Riviera del Sol, Recreio dos Bandeirantes",
    "midias": 1,
-   "url": "https://www.instagram.com/reel/DeXALifgG6e/",
-   "metricool_id": 393238489
+   "metricool_id": 393238489,
+   "url": "https://www.instagram.com/reel/DeXALifgG6e/"
   },
   {
    "dateTime": "2026-10-11T13:30:00",
@@ -76,8 +76,8 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005696535056449786",
-   "metricool_id": 392950464
+   "metricool_id": 392950464,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005696535056449786"
   },
   {
    "dateTime": "2026-10-11T13:50:00",
@@ -87,8 +87,8 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005706316055854022",
-   "metricool_id": 392950482
+   "metricool_id": 392950482,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005706316055854022"
   },
   {
    "dateTime": "2026-10-11T14:20:00",
@@ -98,8 +98,8 @@
    "codigo": "MU9123",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 8,
-   "url": "https://www.instagram.com/p/DeXLq4MGx2O/",
-   "metricool_id": 393050261
+   "metricool_id": 393050261,
+   "url": "https://www.instagram.com/p/DeXLq4MGx2O/"
   },
   {
    "dateTime": "2026-10-11T15:30:00",
@@ -176,7 +176,7 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "",
+   "codigo": "MU9402, MU9866, MU8355, MU9123",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 6,
    "metricool_id": 393336188
