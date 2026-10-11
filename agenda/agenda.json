@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T16:50:00-03:00",
+ "gerado_em": "2026-10-11T17:10:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -116,11 +116,12 @@
    "dateTime": "2026-10-11T17:00:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "metricool_id": 393336084
+   "metricool_id": 393336084,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005802707571446958"
   },
   {
    "dateTime": "2026-10-11T18:30:00",
@@ -177,7 +178,7 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9402, MU9866, MU8355, MU9123",
+   "codigo": "MU9402 MU9866 MU8355 MU9123",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 6,
    "metricool_id": 393336188
@@ -221,6 +222,16 @@
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 8,
    "metricool_id": 392863220
+  },
+  {
+   "dateTime": "2026-10-13T11:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "metricool_id": 393488134
   },
   {
    "dateTime": "2026-10-13T13:20:00",
