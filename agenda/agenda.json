@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T17:20:00-03:00",
+ "gerado_em": "2026-10-11T17:38:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -178,8 +178,8 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9402 MU9866 MU8355 MU9123",
-   "local": "Rio Mar, Barra da Tijuca",
+   "codigo": "MU9402, MU9866, MU8355, MU9123",
+   "local": "Rio Mar, Barra da Tijuca (4 casas)",
    "midias": 6,
    "metricool_id": 393336188
   },
@@ -199,7 +199,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
+   "local": "10 anos de Muller Imóveis",
    "midias": 1,
    "metricool_id": 393238518
   },
@@ -239,7 +239,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Recreio dos Bandeirantes",
+   "local": "Forma de pagamento diferenciada, Recreio",
    "midias": 1,
    "metricool_id": 393238553
   },
@@ -249,7 +249,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra da Tijuca",
+   "local": "Condomínios fechados da Barra",
    "midias": 1,
    "metricool_id": 393238868
   },
@@ -259,7 +259,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
+   "local": "Quem já visitou muitas casas",
    "midias": 1,
    "metricool_id": 393239407
   },
@@ -269,7 +269,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Recreio dos Bandeirantes",
+   "local": "Reunião para comprar casa no Recreio",
    "midias": 1,
    "metricool_id": 392971517
   },
@@ -279,7 +279,7 @@
    "draft": true,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
+   "local": "Lista de links vs. estudo do caso",
    "midias": 1,
    "metricool_id": 392798827
   }
