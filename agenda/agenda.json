@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T15:40:00-03:00",
+ "gerado_em": "2026-10-11T15:55:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -177,7 +177,7 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9402 MU9866 MU8355 MU9123",
+   "codigo": "MU9402, MU9866, MU8355, MU9123",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 6,
    "metricool_id": 393336188
@@ -258,7 +258,7 @@
    "draft": true,
    "status": "PENDING",
    "codigo": "",
-   "local": "Atendimento personalizado, Barra e Recreio",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
    "metricool_id": 392798827
   }
