@@ -10,27 +10,30 @@
    "codigo": "MU9696",
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": 7,
-   "url": "https://www.instagram.com/p/DeWUKTuFYIf/"
+   "url": "https://www.instagram.com/p/DeWUKTuFYIf/",
+   "metricool_id": 393050223
   },
   {
    "dateTime": "2026-10-11T08:30:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
+   "codigo": "MU7754",
+   "local": "Story (checklist)",
    "midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005545344457767866"
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005545344457767866",
+   "metricool_id": 392952816
   },
   {
    "dateTime": "2026-10-11T09:10:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
+   "codigo": "MU7754",
+   "local": "Story (checklist, repost das 08h30)",
    "midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005565414864135556"
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005565414864135556",
+   "metricool_id": 393241319
   },
   {
    "dateTime": "2026-10-11T10:00:00",
@@ -38,18 +41,20 @@
    "draft": false,
    "status": "PUBLISHED",
    "codigo": "",
-   "local": "",
+   "local": "Story piloto: Domingo em casa",
    "midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005591790325654726"
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005591790325654726",
+   "metricool_id": 392950432
   },
   {
    "dateTime": "2026-10-11T11:30:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": "",
-   "local": "Story",
-   "midias": 1
+   "codigo": "MU9560",
+   "local": "Story (tira_filme)",
+   "midias": 1,
+   "metricool_id": 392952835
   },
   {
    "dateTime": "2026-10-11T12:40:00",
@@ -58,7 +63,8 @@
    "status": "PENDING",
    "codigo": "",
    "local": "Riviera del Sol, Recreio dos Bandeirantes",
-   "midias": 1
+   "midias": 1,
+   "metricool_id": 393238489
   },
   {
    "dateTime": "2026-10-11T13:30:00",
@@ -66,8 +72,9 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Story",
-   "midias": 1
+   "local": "Story piloto: quiz Quanto custa?",
+   "midias": 1,
+   "metricool_id": 392950464
   },
   {
    "dateTime": "2026-10-11T13:50:00",
@@ -75,8 +82,9 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Story",
-   "midias": 1
+   "local": "Story piloto: reveal R$ 15.900.000",
+   "midias": 1,
+   "metricool_id": 392950482
   },
   {
    "dateTime": "2026-10-11T14:20:00",
@@ -85,25 +93,28 @@
    "status": "PENDING",
    "codigo": "MU9123",
    "local": "Rio Mar, Barra da Tijuca",
-   "midias": 8
+   "midias": 8,
+   "metricool_id": 393050261
   },
   {
    "dateTime": "2026-10-11T15:30:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": "",
-   "local": "Story",
-   "midias": 1
+   "codigo": "MU7754",
+   "local": "Story (pergunta_aberta)",
+   "midias": 1,
+   "metricool_id": 392952851
   },
   {
    "dateTime": "2026-10-11T17:00:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": "",
-   "local": "Story",
-   "midias": 1
+   "codigo": "MU9560",
+   "local": "Story (ticket_visita)",
+   "midias": 1,
+   "metricool_id": 392952863
   },
   {
    "dateTime": "2026-10-11T18:30:00",
@@ -111,8 +122,9 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Story",
-   "midias": 1
+   "local": "Story piloto: corte 9,9 s do Reel Riviera ",
+   "midias": 1,
+   "metricool_id": 392950498
   },
   {
    "dateTime": "2026-10-11T18:40:00",
@@ -121,16 +133,18 @@
    "status": "PENDING",
    "codigo": "MU8072",
    "local": "Mansões, Barra da Tijuca",
-   "midias": 8
+   "midias": 8,
+   "metricool_id": 393247858
   },
   {
    "dateTime": "2026-10-11T20:30:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": "",
-   "local": "Story",
-   "midias": 1
+   "codigo": "MU7754",
+   "local": "Story (split_editorial)",
+   "midias": 1,
+   "metricool_id": 392952876
   },
   {
    "dateTime": "2026-10-12T10:00:00",
@@ -138,8 +152,9 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Story",
-   "midias": 1
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "metricool_id": 393036095
   },
   {
    "dateTime": "2026-10-12T12:00:00",
@@ -147,8 +162,9 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Story",
-   "midias": 1
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "metricool_id": 393029274
   },
   {
    "dateTime": "2026-10-12T15:30:00",
@@ -156,8 +172,9 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Story",
-   "midias": 1
+   "local": "Story (vídeo)",
+   "midias": 1,
+   "metricool_id": 393036127
   },
   {
    "dateTime": "2026-10-12T17:10:00",
@@ -166,7 +183,8 @@
    "status": "PENDING",
    "codigo": "",
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
-   "midias": 1
+   "midias": 1,
+   "metricool_id": 393238518
   },
   {
    "dateTime": "2026-10-13T10:00:00",
@@ -175,7 +193,8 @@
    "status": "PENDING",
    "codigo": "MU8355",
    "local": "Rio Mar, Barra da Tijuca",
-   "midias": 8
+   "midias": 8,
+   "metricool_id": 392863220
   },
   {
    "dateTime": "2026-10-13T13:20:00",
@@ -184,7 +203,8 @@
    "status": "PENDING",
    "codigo": "",
    "local": "Recreio dos Bandeirantes",
-   "midias": 1
+   "midias": 1,
+   "metricool_id": 393238553
   },
   {
    "dateTime": "2026-10-14T16:00:00",
@@ -193,7 +213,8 @@
    "status": "PENDING",
    "codigo": "",
    "local": "Barra da Tijuca",
-   "midias": 1
+   "midias": 1,
+   "metricool_id": 393238868
   },
   {
    "dateTime": "2026-10-15T12:10:00",
@@ -202,7 +223,8 @@
    "status": "PENDING",
    "codigo": "",
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
-   "midias": 1
+   "midias": 1,
+   "metricool_id": 393239407
   },
   {
    "dateTime": "2026-10-16T14:35:00",
@@ -211,7 +233,8 @@
    "status": "PENDING",
    "codigo": "",
    "local": "Recreio dos Bandeirantes",
-   "midias": 1
+   "midias": 1,
+   "metricool_id": 392811399
   },
   {
    "dateTime": "2026-10-16T17:40:00",
@@ -220,7 +243,8 @@
    "status": "PENDING",
    "codigo": "",
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
-   "midias": 1
+   "midias": 1,
+   "metricool_id": 392798827
   }
  ]
 }
