@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T16:25:00-03:00",
+ "gerado_em": "2026-10-11T16:50:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -201,6 +201,16 @@
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
    "metricool_id": 393238518
+  },
+  {
+   "dateTime": "2026-10-12T18:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "metricool_id": 393483636
   },
   {
    "dateTime": "2026-10-13T10:00:00",
