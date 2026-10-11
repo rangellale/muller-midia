@@ -1,6 +1,6 @@
 {
- "gerado_em": "2026-10-11T15:25:00-03:00",
- "fonte": "Metricool brand 7250391",
+ "gerado_em": "2026-10-11T15:40:00-03:00",
+ "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
    "dateTime": "2026-10-11T06:15:00",
@@ -105,11 +105,12 @@
    "dateTime": "2026-10-11T15:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "metricool_id": 393336050
+   "metricool_id": 393336050,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4005756807565701886"
   },
   {
    "dateTime": "2026-10-11T17:00:00",
@@ -176,7 +177,7 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9402, MU9866, MU8355, MU9123",
+   "codigo": "MU9402 MU9866 MU8355 MU9123",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 6,
    "metricool_id": 393336188
@@ -257,7 +258,7 @@
    "draft": true,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
+   "local": "Atendimento personalizado, Barra e Recreio",
    "midias": 1,
    "metricool_id": 392798827
   }
