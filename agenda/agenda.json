@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-11T14:34:00-03:00",
+ "gerado_em": "2026-10-11T14:50:00-03:00",
  "fonte": "Metricool brand 7250391",
  "posts": [
   {
@@ -109,7 +109,6 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "",
    "metricool_id": 393336050
   },
   {
@@ -120,7 +119,6 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "",
    "metricool_id": 393336084
   },
   {
@@ -131,7 +129,6 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "",
    "metricool_id": 392950498
   },
   {
@@ -142,7 +139,6 @@
    "codigo": "MU8072",
    "local": "Mansões, Barra da Tijuca",
    "midias": 8,
-   "url": "",
    "metricool_id": 393247858
   },
   {
@@ -153,7 +149,6 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "",
    "metricool_id": 393336111
   },
   {
@@ -164,7 +159,6 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "",
    "metricool_id": 393036095
   },
   {
@@ -175,7 +169,6 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "",
    "metricool_id": 393029274
   },
   {
@@ -183,10 +176,9 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9402 MU9866 MU8355 MU9123",
+   "codigo": "",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 6,
-   "url": "",
    "metricool_id": 393336188
   },
   {
@@ -197,7 +189,6 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "url": "",
    "metricool_id": 393036127
   },
   {
@@ -208,7 +199,6 @@
    "codigo": "",
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
-   "url": "",
    "metricool_id": 393238518
   },
   {
@@ -219,7 +209,6 @@
    "codigo": "MU8355",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 8,
-   "url": "",
    "metricool_id": 392863220
   },
   {
@@ -230,7 +219,6 @@
    "codigo": "",
    "local": "Recreio dos Bandeirantes",
    "midias": 1,
-   "url": "",
    "metricool_id": 393238553
   },
   {
@@ -241,7 +229,6 @@
    "codigo": "",
    "local": "Barra da Tijuca",
    "midias": 1,
-   "url": "",
    "metricool_id": 393238868
   },
   {
@@ -252,7 +239,6 @@
    "codigo": "",
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
-   "url": "",
    "metricool_id": 393239407
   },
   {
@@ -263,7 +249,6 @@
    "codigo": "",
    "local": "Recreio dos Bandeirantes",
    "midias": 1,
-   "url": "",
    "metricool_id": 392971517
   },
   {
@@ -274,7 +259,6 @@
    "codigo": "",
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
-   "url": "",
    "metricool_id": 392798827
   }
  ]
