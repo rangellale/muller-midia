@@ -1,211 +1,222 @@
 {
- "gerado_em": "2026-10-12T17:49:45-03:00",
- "fonte": "Metricool getScheduledPosts brand 7250391",
- "posts": [
-  {
-   "dateTime": "2026-10-12T10:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9860",
-   "local": "Maramar, Recreio (vídeo corretor)",
-   "midias": 1,
-   "metricool_id": 393036095,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4006316899847801550"
-  },
-  {
-   "dateTime": "2026-10-12T12:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "Story (vídeo corretor)",
-   "midias": 1,
-   "metricool_id": 393029274,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4006378029312146575"
-  },
-  {
-   "dateTime": "2026-10-12T14:20:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9402, MU9866, MU8355, MU9123",
-   "local": "Rio Mar, Barra da Tijuca (comparativo)",
-   "midias": 6,
-   "metricool_id": 393336188,
-   "url": "https://www.instagram.com/p/DeZwfuejZsQ/"
-  },
-  {
-   "dateTime": "2026-10-12T15:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9860",
-   "local": "Maramar, Recreio (vídeo corretor)",
-   "midias": 1,
-   "metricool_id": 393036127,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4006481925594083593"
-  },
-  {
-   "dateTime": "2026-10-12T17:10:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "Barra da Tijuca e Recreio",
-   "midias": 1,
-   "metricool_id": 393238518,
-   "url": "https://www.instagram.com/reel/DeaD3QxidQh/"
-  },
-  {
-   "dateTime": "2026-10-12T18:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9952",
-   "local": "Jardins de Maria, Recreio (vídeo corretor)",
-   "midias": 1,
-   "metricool_id": 393483636
-  },
-  {
-   "dateTime": "2026-10-12T19:10:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU7244",
-   "local": "Alphaville, Barra da Tijuca",
-   "midias": 8,
-   "metricool_id": 394227409
-  },
-  {
-   "dateTime": "2026-10-13T06:05:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU8001",
-   "local": "Maramar, Recreio dos Bandeirantes",
-   "midias": 7,
-   "metricool_id": 394235239
-  },
-  {
-   "dateTime": "2026-10-13T10:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU8355",
-   "local": "Rio Mar, Barra da Tijuca",
-   "midias": 8,
-   "metricool_id": 394219872
-  },
-  {
-   "dateTime": "2026-10-13T11:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU8076",
-   "local": "Barra Bonita, Recreio (vídeo corretor)",
-   "midias": 1,
-   "metricool_id": 393488134
-  },
-  {
-   "dateTime": "2026-10-13T13:20:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Recreio dos Bandeirantes",
-   "midias": 1,
-   "metricool_id": 393238553
-  },
-  {
-   "dateTime": "2026-10-13T14:45:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9444, MU9310, MU8710, MU8460",
-   "local": "Art Life, Recreio (comparativo)",
-   "midias": 6,
-   "metricool_id": 394246403
-  },
-  {
-   "dateTime": "2026-10-13T15:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU8075, MU6172, MU9398",
-   "local": "3 casas, Quintas do Pontal",
-   "midias": 1,
-   "metricool_id": 394246457
-  },
-  {
-   "dateTime": "2026-10-13T20:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU7994, MU7810, MU9342, MU8649",
-   "local": "4 casas, Maramar",
-   "midias": 1,
-   "metricool_id": 394247945
-  },
-  {
-   "dateTime": "2026-10-14T16:00:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Barra da Tijuca",
-   "midias": 1,
-   "metricool_id": 393238868
-  },
-  {
-   "dateTime": "2026-10-15T12:10:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Barra da Tijuca e Recreio",
-   "midias": 1,
-   "metricool_id": 393239407
-  },
-  {
-   "dateTime": "2026-10-16T14:35:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Recreio dos Bandeirantes",
-   "midias": 1,
-   "metricool_id": 392971517
-  },
-  {
-   "dateTime": "2026-10-16T17:40:00",
-   "tipo": "REEL",
-   "draft": true,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Barra e Recreio (rascunho duplicado)",
-   "midias": 1,
-   "metricool_id": 392798827
-  },
-  {
-   "dateTime": "2026-10-17T13:35:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Barra da Tijuca e Recreio",
-   "midias": 1,
-   "metricool_id": 393239047
-  },
-  {
-   "dateTime": "2026-10-17T14:30:00",
-   "tipo": "REEL",
-   "draft": true,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Recreio (rascunho duplicado)",
-   "midias": 1,
-   "metricool_id": 392798870
-  }
- ]
+  "gerado_em": "2026-10-12T18:33:00-03:00",
+  "fonte": "Metricool getScheduledPosts brand 7250391",
+  "posts": [
+    {
+      "dateTime": "2026-10-12T10:00:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PUBLISHED",
+      "codigo": "MU9860",
+      "local": "Maramar, Recreio (vídeo corretor)",
+      "midias": 1,
+      "metricool_id": 393036095,
+      "url": "https://www.instagram.com/stories/mullerimoveis.rj/4006316899847801550"
+    },
+    {
+      "dateTime": "2026-10-12T12:00:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PUBLISHED",
+      "codigo": "",
+      "local": "Story (vídeo corretor)",
+      "midias": 1,
+      "metricool_id": 393029274,
+      "url": "https://www.instagram.com/stories/mullerimoveis.rj/4006378029312146575"
+    },
+    {
+      "dateTime": "2026-10-12T14:20:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PUBLISHED",
+      "codigo": "MU9402, MU9866, MU8355, MU9123",
+      "local": "Rio Mar, Barra da Tijuca (comparativo)",
+      "midias": 6,
+      "metricool_id": 393336188,
+      "url": "https://www.instagram.com/p/DeZwfuejZsQ/"
+    },
+    {
+      "dateTime": "2026-10-12T15:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PUBLISHED",
+      "codigo": "MU9860",
+      "local": "Maramar, Recreio (vídeo corretor)",
+      "midias": 1,
+      "metricool_id": 393036127,
+      "url": "https://www.instagram.com/stories/mullerimoveis.rj/4006481925594083593"
+    },
+    {
+      "dateTime": "2026-10-12T17:10:00",
+      "tipo": "REEL",
+      "draft": false,
+      "status": "PUBLISHED",
+      "codigo": "",
+      "local": "Barra da Tijuca e Recreio",
+      "midias": 1,
+      "metricool_id": 393238518,
+      "url": "https://www.instagram.com/reel/DeaD3QxidQh/"
+    },
+    {
+      "dateTime": "2026-10-12T18:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PUBLISHED",
+      "codigo": "MU9952",
+      "local": "Jardins de Maria, Recreio (vídeo corretor)",
+      "midias": 1,
+      "metricool_id": 393483636,
+      "url": "https://www.instagram.com/stories/mullerimoveis.rj/4006572150903256781"
+    },
+    {
+      "dateTime": "2026-10-12T19:10:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU7244",
+      "local": "Alphaville, Barra da Tijuca",
+      "midias": 8,
+      "metricool_id": 394227409
+    },
+    {
+      "dateTime": "2026-10-12T19:20:00",
+      "tipo": "REEL",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Dia das Crianças (criado fora da sessão)",
+      "midias": 1,
+      "metricool_id": 394398487
+    },
+    {
+      "dateTime": "2026-10-13T06:05:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU8001",
+      "local": "Maramar, Recreio dos Bandeirantes",
+      "midias": 7,
+      "metricool_id": 394235239
+    },
+    {
+      "dateTime": "2026-10-13T10:00:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU8355",
+      "local": "Rio Mar, Barra da Tijuca",
+      "midias": 8,
+      "metricool_id": 394219872
+    },
+    {
+      "dateTime": "2026-10-13T11:00:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU8076",
+      "local": "Barra Bonita, Recreio (vídeo corretor)",
+      "midias": 1,
+      "metricool_id": 393488134
+    },
+    {
+      "dateTime": "2026-10-13T13:20:00",
+      "tipo": "REEL",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Recreio dos Bandeirantes",
+      "midias": 1,
+      "metricool_id": 393238553
+    },
+    {
+      "dateTime": "2026-10-13T14:45:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU9444, MU9310, MU8710, MU8460",
+      "local": "Art Life, Recreio (comparativo)",
+      "midias": 6,
+      "metricool_id": 394246403
+    },
+    {
+      "dateTime": "2026-10-13T15:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU8075, MU6172, MU9398",
+      "local": "3 casas, Quintas do Pontal",
+      "midias": 1,
+      "metricool_id": 394246457
+    },
+    {
+      "dateTime": "2026-10-13T20:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU7994, MU7810, MU9342, MU8649",
+      "local": "4 casas, Maramar",
+      "midias": 1,
+      "metricool_id": 394247945
+    },
+    {
+      "dateTime": "2026-10-14T16:00:00",
+      "tipo": "REEL",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Barra da Tijuca",
+      "midias": 1,
+      "metricool_id": 393238868
+    },
+    {
+      "dateTime": "2026-10-15T12:10:00",
+      "tipo": "REEL",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Barra da Tijuca e Recreio",
+      "midias": 1,
+      "metricool_id": 393239407
+    },
+    {
+      "dateTime": "2026-10-16T14:35:00",
+      "tipo": "REEL",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Recreio dos Bandeirantes",
+      "midias": 1,
+      "metricool_id": 392971517
+    },
+    {
+      "dateTime": "2026-10-16T17:40:00",
+      "tipo": "REEL",
+      "draft": true,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Barra e Recreio (rascunho duplicado)",
+      "midias": 1,
+      "metricool_id": 392798827
+    },
+    {
+      "dateTime": "2026-10-17T13:35:00",
+      "tipo": "REEL",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Barra da Tijuca e Recreio",
+      "midias": 1,
+      "metricool_id": 393239047
+    },
+    {
+      "dateTime": "2026-10-17T14:30:00",
+      "tipo": "REEL",
+      "draft": true,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Recreio (rascunho duplicado)",
+      "midias": 1,
+      "metricool_id": 392798870
+    }
+  ]
 }
