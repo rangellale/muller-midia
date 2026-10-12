@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-12T18:40:00-03:00",
+  "gerado_em": "2026-10-12T18:47:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391",
   "posts": [
     {
@@ -87,6 +87,16 @@
       "local": "Dia das Crianças (institucional)",
       "midias": 1,
       "metricool_id": 394398487
+    },
+    {
+      "dateTime": "2026-10-12T19:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "Story (vídeo, criado fora da sessão)",
+      "midias": 1,
+      "metricool_id": 394409805
     },
     {
       "dateTime": "2026-10-13T06:05:00",
