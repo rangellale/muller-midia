@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-12T19:18:00-03:00",
+  "gerado_em": "2026-10-12T19:33:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391",
   "posts": [
     {
@@ -83,21 +83,23 @@
       "dateTime": "2026-10-12T19:20:00",
       "tipo": "REEL",
       "draft": false,
-      "status": "PENDING",
+      "status": "PUBLISHED",
       "codigo": "",
       "local": "Dia das Crianças (institucional)",
       "midias": 1,
-      "metricool_id": 394398487
+      "metricool_id": 394398487,
+      "url": "https://www.instagram.com/reel/DeaSzqaDh1Z/"
     },
     {
       "dateTime": "2026-10-12T19:30:00",
       "tipo": "STORY",
       "draft": false,
-      "status": "PENDING",
+      "status": "PUBLISHED",
       "codigo": "",
       "local": "Story (vídeo, criado fora da sessão)",
       "midias": 1,
-      "metricool_id": 394409805
+      "metricool_id": 394409805,
+      "url": "https://www.instagram.com/stories/mullerimoveis.rj/4006602357651484985"
     },
     {
       "dateTime": "2026-10-13T06:05:00",
