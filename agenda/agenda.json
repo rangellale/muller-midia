@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-12T14:40:00-03:00",
+  "gerado_em": "2026-10-12T15:56:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391",
   "posts": [
     {
@@ -120,30 +120,30 @@
       "tipo": "POST",
       "draft": false,
       "status": "PENDING",
-      "codigo": "MU9696, MU9060, MU9114, MU9560",
-      "local": "Riviera Del Sol, Recreio (comparativo)",
+      "codigo": "MU9444, MU9310, MU8710, MU8460",
+      "local": "Art Life, Recreio (comparativo)",
       "midias": 6,
-      "metricool_id": 394222346
+      "metricool_id": 394246403
     },
     {
       "dateTime": "2026-10-13T15:30:00",
       "tipo": "STORY",
       "draft": false,
       "status": "PENDING",
-      "codigo": "MU9071, MU9946, MU9560",
-      "local": "3 casas, Recreio",
+      "codigo": "MU8075, MU6172, MU9398",
+      "local": "3 casas, Quintas do Pontal",
       "midias": 1,
-      "metricool_id": 394222368
+      "metricool_id": 394246457
     },
     {
       "dateTime": "2026-10-13T20:30:00",
       "tipo": "STORY",
       "draft": false,
       "status": "PENDING",
-      "codigo": "MU9402, MU9866, MU8355, MU9123",
-      "local": "4 casas, Rio Mar",
+      "codigo": "MU7994, MU7810, MU9342, MU8649",
+      "local": "4 casas, Maramar",
       "midias": 1,
-      "metricool_id": 394222460
+      "metricool_id": 394247945
     },
     {
       "dateTime": "2026-10-14T16:00:00",
