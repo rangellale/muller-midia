@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-12T14:22:00-03:00",
+  "gerado_em": "2026-10-12T14:35:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391",
   "posts": [
     {
@@ -28,11 +28,12 @@
       "dateTime": "2026-10-12T14:20:00",
       "tipo": "POST",
       "draft": false,
-      "status": "PENDING",
+      "status": "PUBLISHED",
       "codigo": "MU9402, MU9866, MU8355, MU9123",
       "local": "Rio Mar, Barra da Tijuca",
       "midias": 6,
-      "metricool_id": 393336188
+      "metricool_id": 393336188,
+      "url": "https://www.instagram.com/p/DeZwfuejZsQ/"
     },
     {
       "dateTime": "2026-10-12T15:30:00",
@@ -65,6 +66,16 @@
       "metricool_id": 393483636
     },
     {
+      "dateTime": "2026-10-12T19:10:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU7244",
+      "local": "Alphaville, Barra da Tijuca",
+      "midias": 8,
+      "metricool_id": 394227409
+    },
+    {
       "dateTime": "2026-10-13T10:00:00",
       "tipo": "POST",
       "draft": false,
@@ -93,6 +104,36 @@
       "local": "Recreio dos Bandeirantes",
       "midias": 1,
       "metricool_id": 393238553
+    },
+    {
+      "dateTime": "2026-10-13T14:45:00",
+      "tipo": "POST",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "MU9696, MU9060, MU9114, MU9560",
+      "local": "Riviera Del Sol, Recreio dos Bandeirantes",
+      "midias": 6,
+      "metricool_id": 394222346
+    },
+    {
+      "dateTime": "2026-10-13T15:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "",
+      "midias": 1,
+      "metricool_id": 394222368
+    },
+    {
+      "dateTime": "2026-10-13T20:30:00",
+      "tipo": "STORY",
+      "draft": false,
+      "status": "PENDING",
+      "codigo": "",
+      "local": "",
+      "midias": 1,
+      "metricool_id": 394222460
     },
     {
       "dateTime": "2026-10-14T16:00:00",
