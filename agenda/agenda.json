@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-10-12T10:06:00-03:00",
+  "gerado_em": "2026-10-12T10:38:00-03:00",
   "fonte": "Metricool getScheduledPosts brand 7250391",
   "posts": [
     {
@@ -21,19 +21,17 @@
       "codigo": "",
       "local": "",
       "midias": 1,
-      "metricool_id": 393029274,
-      "url": ""
+      "metricool_id": 393029274
     },
     {
       "dateTime": "2026-10-12T14:20:00",
       "tipo": "POST",
       "draft": false,
       "status": "PENDING",
-      "codigo": "MU9402 MU9866 MU8355 MU9123",
+      "codigo": "MU9402, MU9866, MU8355, MU9123",
       "local": "Rio Mar, Barra da Tijuca",
       "midias": 6,
-      "metricool_id": 393336188,
-      "url": ""
+      "metricool_id": 393336188
     },
     {
       "dateTime": "2026-10-12T15:30:00",
@@ -43,8 +41,7 @@
       "codigo": "",
       "local": "",
       "midias": 1,
-      "metricool_id": 393036127,
-      "url": ""
+      "metricool_id": 393036127
     },
     {
       "dateTime": "2026-10-12T17:10:00",
@@ -54,8 +51,7 @@
       "codigo": "",
       "local": "Barra da Tijuca e Recreio dos Bandeirantes",
       "midias": 1,
-      "metricool_id": 393238518,
-      "url": ""
+      "metricool_id": 393238518
     },
     {
       "dateTime": "2026-10-12T18:30:00",
@@ -65,8 +61,7 @@
       "codigo": "",
       "local": "",
       "midias": 1,
-      "metricool_id": 393483636,
-      "url": ""
+      "metricool_id": 393483636
     },
     {
       "dateTime": "2026-10-13T10:00:00",
@@ -76,8 +71,7 @@
       "codigo": "MU8355",
       "local": "Rio Mar, Barra da Tijuca",
       "midias": 8,
-      "metricool_id": 392863220,
-      "url": ""
+      "metricool_id": 392863220
     },
     {
       "dateTime": "2026-10-13T11:00:00",
@@ -87,8 +81,7 @@
       "codigo": "",
       "local": "",
       "midias": 1,
-      "metricool_id": 393488134,
-      "url": ""
+      "metricool_id": 393488134
     },
     {
       "dateTime": "2026-10-13T13:20:00",
@@ -98,8 +91,7 @@
       "codigo": "",
       "local": "Recreio dos Bandeirantes",
       "midias": 1,
-      "metricool_id": 393238553,
-      "url": ""
+      "metricool_id": 393238553
     },
     {
       "dateTime": "2026-10-14T16:00:00",
@@ -109,8 +101,7 @@
       "codigo": "",
       "local": "Barra da Tijuca",
       "midias": 1,
-      "metricool_id": 393238868,
-      "url": ""
+      "metricool_id": 393238868
     },
     {
       "dateTime": "2026-10-15T12:10:00",
@@ -120,8 +111,7 @@
       "codigo": "",
       "local": "Barra da Tijuca e Recreio dos Bandeirantes",
       "midias": 1,
-      "metricool_id": 393239407,
-      "url": ""
+      "metricool_id": 393239407
     },
     {
       "dateTime": "2026-10-16T14:35:00",
@@ -131,8 +121,7 @@
       "codigo": "",
       "local": "Recreio dos Bandeirantes",
       "midias": 1,
-      "metricool_id": 392971517,
-      "url": ""
+      "metricool_id": 392971517
     },
     {
       "dateTime": "2026-10-16T17:40:00",
@@ -142,8 +131,7 @@
       "codigo": "",
       "local": "Barra da Tijuca e Recreio dos Bandeirantes",
       "midias": 1,
-      "metricool_id": 392798827,
-      "url": ""
+      "metricool_id": 392798827
     },
     {
       "dateTime": "2026-10-17T13:35:00",
@@ -153,8 +141,7 @@
       "codigo": "",
       "local": "Barra da Tijuca e Recreio dos Bandeirantes",
       "midias": 1,
-      "metricool_id": 393239047,
-      "url": ""
+      "metricool_id": 393239047
     },
     {
       "dateTime": "2026-10-17T14:30:00",
@@ -164,8 +151,7 @@
       "codigo": "",
       "local": "Recreio dos Bandeirantes",
       "midias": 1,
-      "metricool_id": 392798870,
-      "url": ""
+      "metricool_id": 392798870
     }
   ]
 }
