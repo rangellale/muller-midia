@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-13T09:20:59-03:00",
+ "gerado_em": "2026-10-13T09:48:56-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -17,11 +17,12 @@
    "dateTime": "2026-10-13T09:26:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU8568",
    "local": "Blue Houses, Barra da Tijuca",
    "midias": 1,
-   "metricool_id": 394892793
+   "metricool_id": 394892793,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4007022983386782854"
   },
   {
    "dateTime": "2026-10-13T10:00:00",
