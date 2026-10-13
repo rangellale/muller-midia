@@ -264,7 +264,8 @@ footer{margin-top:48px;border-top:1px solid var(--line);padding-top:16px;color:v
   const brl = v => v==null ? '' : 'R$ ' + Math.round(v).toLocaleString('pt-BR');
   const num = v => v==null ? '' : (Math.round(v*10)/10).toLocaleString('pt-BR');
   const esc = s => String(s==null?'':s).replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-  const bairroNome = b => b==='barra da tijuca' ? 'Barra da Tijuca' : b==='recreio dos bandeirantes' ? 'Recreio dos Bandeirantes' : (b||'');
+  const BN = {'barra da tijuca':'Barra da Tijuca','recreio dos bandeirantes':'Recreio dos Bandeirantes','joá':'Joá','itanhangá':'Itanhangá','são conrado':'São Conrado'};
+  const bairroNome = b => BN[b] || (b ? b.replace(/\b\p{L}/gu, c=>c.toUpperCase()) : '');
   const fonteNome = {muller:'Site Muller', instagram_muller:'Instagram Muller', crm_muller:'CRM Muller', sentineli:'Sentineli e Sobral', podium:'Podium', paulacosta:'Paula Costa', primerio:'Prime Rio', cew:'C&W', lemarth:'Lemarth', casascontemporaneas:'Casas Contemporâneas', realler:'Realler', cigani:'Cigani', chavesnamao:'Chaves na Mão', quintoandar:'QuintoAndar', lopes:'Lopes', imo7:'Imo 7', alinesofia:'Aline Sofia', royal4house:'Royal 4 House'};
   const fn = s => fonteNome[s] || s;
   const dataBR = s => { if(!s) return ''; const [y,m,d]=s.split('-'); return `${d}/${m}/${y}`; };
