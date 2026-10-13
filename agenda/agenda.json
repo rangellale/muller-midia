@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-13T14:47:59-03:00",
+ "gerado_em": "2026-10-13T18:50-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -12,17 +12,6 @@
    "midias": 7,
    "metricool_id": 394235239,
    "url": "https://www.instagram.com/p/DebcnpPm9Ln/"
-  },
-  {
-   "dateTime": "2026-10-13T09:26:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU8568",
-   "local": "Blue Houses, Barra da Tijuca",
-   "midias": 1,
-   "metricool_id": 394892793,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4007022983386782854"
   },
   {
    "dateTime": "2026-10-13T10:00:00",
@@ -78,6 +67,28 @@
    "metricool_id": 394246457
   },
   {
+   "dateTime": "2026-10-13T18:22:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU8568",
+   "local": "Blue Houses, Barra da Tijuca",
+   "midias": 1,
+   "metricool_id": 395340318,
+   "url": "https://www.instagram.com/p/Decw8EnAM6R/"
+  },
+  {
+   "dateTime": "2026-10-13T18:22:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU8568",
+   "local": "Blue Houses, Barra da Tijuca",
+   "midias": 7,
+   "metricool_id": 395340318,
+   "url": "https://www.instagram.com/p/Decw8EnAM6R/"
+  },
+  {
    "dateTime": "2026-10-13T20:30:00",
    "tipo": "STORY",
    "draft": false,
@@ -86,16 +97,6 @@
    "local": "4 casas, Maramar",
    "midias": 1,
    "metricool_id": 394247945
-  },
-  {
-   "dateTime": "2026-10-14T06:20:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU8568",
-   "local": "Blue Houses, Barra da Tijuca",
-   "midias": 7,
-   "metricool_id": 395332166
   },
   {
    "dateTime": "2026-10-14T08:30:00",
