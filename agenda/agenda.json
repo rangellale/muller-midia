@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-13T11:10:26-03:00",
+ "gerado_em": "2026-10-13T11:58:42-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -39,7 +39,7 @@
    "dateTime": "2026-10-13T11:00:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU8076",
    "local": "Barra Bonita, Recreio (vídeo corretor)",
    "midias": 1,
@@ -126,6 +126,26 @@
    "metricool_id": 393238868
   },
   {
+   "dateTime": "2026-10-15T08:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7904, MU9481",
+   "local": "2 casas, Malibu",
+   "midias": 1,
+   "metricool_id": 395036326
+  },
+  {
+   "dateTime": "2026-10-15T11:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9936, MU8207, MU9732",
+   "local": "3 casas, Rio Mar",
+   "midias": 1,
+   "metricool_id": 395036360
+  },
+  {
    "dateTime": "2026-10-15T12:10:00",
    "tipo": "REEL",
    "draft": false,
@@ -134,6 +154,16 @@
    "local": "Barra da Tijuca e Recreio",
    "midias": 1,
    "metricool_id": 393239407
+  },
+  {
+   "dateTime": "2026-10-15T15:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9761",
+   "local": "Art Life, Recreio",
+   "midias": 1,
+   "metricool_id": 395036390
   },
   {
    "dateTime": "2026-10-16T14:35:00",
