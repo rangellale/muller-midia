@@ -88,6 +88,16 @@
    "metricool_id": 394247945
   },
   {
+   "dateTime": "2026-10-14T06:20:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8568",
+   "local": "Blue Houses, Barra da Tijuca",
+   "midias": 7,
+   "metricool_id": 395332166
+  },
+  {
    "dateTime": "2026-10-14T08:30:00",
    "tipo": "STORY",
    "draft": false,
@@ -108,6 +118,16 @@
    "metricool_id": 394990025
   },
   {
+   "dateTime": "2026-10-14T14:20:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Malibu, Barra da Tijuca",
+   "midias": 6,
+   "metricool_id": 395327155
+  },
+  {
    "dateTime": "2026-10-14T15:30:00",
    "tipo": "STORY",
    "draft": false,
@@ -126,6 +146,16 @@
    "local": "Barra da Tijuca",
    "midias": 1,
    "metricool_id": 393238868
+  },
+  {
+   "dateTime": "2026-10-14T18:10:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9585",
+   "local": "Malibu, Barra da Tijuca",
+   "midias": 5,
+   "metricool_id": 395332236
   },
   {
    "dateTime": "2026-10-14T18:30:00",
