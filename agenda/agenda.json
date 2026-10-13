@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-13T10:48:06-03:00",
+ "gerado_em": "2026-10-13T11:10:26-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -84,6 +84,36 @@
    "local": "4 casas, Maramar",
    "midias": 1,
    "metricool_id": 394247945
+  },
+  {
+   "dateTime": "2026-10-14T08:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9585",
+   "local": "Malibu, Barra da Tijuca",
+   "midias": 1,
+   "metricool_id": 394990007
+  },
+  {
+   "dateTime": "2026-10-14T11:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9605, MU8293, MU8615",
+   "local": "3 casas, Blue Houses",
+   "midias": 1,
+   "metricool_id": 394990025
+  },
+  {
+   "dateTime": "2026-10-14T15:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9331, MU9610, MU9698",
+   "local": "3 casas, Riviera Del Sol",
+   "midias": 1,
+   "metricool_id": 394990053
   },
   {
    "dateTime": "2026-10-14T16:00:00",
