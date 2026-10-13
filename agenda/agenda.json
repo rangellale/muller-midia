@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-13T13:47:59-03:00",
+ "gerado_em": "2026-10-13T14:47:59-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -60,11 +60,12 @@
    "dateTime": "2026-10-13T14:45:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "Art Life, Recreio (4 casas)",
    "midias": 6,
-   "metricool_id": 394246403
+   "metricool_id": 394246403,
+   "url": "https://www.instagram.com/p/DecYIUdmxMh/"
   },
   {
    "dateTime": "2026-10-13T15:30:00",
@@ -125,6 +126,16 @@
    "local": "Barra da Tijuca",
    "midias": 1,
    "metricool_id": 393238868
+  },
+  {
+   "dateTime": "2026-10-14T18:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "vídeo de corretor",
+   "midias": 1,
+   "metricool_id": 395185022
   },
   {
    "dateTime": "2026-10-15T08:30:00",
