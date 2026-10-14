@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T16:50:00-03:00",
+ "gerado_em": "2026-10-14T18:15:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -270,6 +270,16 @@
    "metricool_id": 393239407
   },
   {
+   "dateTime": "2026-10-15T14:20:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9004, MU9521, MU7974, MU9713",
+   "local": "Vivendas Do Sol, Recreio dos Bandeirantes",
+   "midias": 6,
+   "metricool_id": 396277781
+  },
+  {
    "dateTime": "2026-10-15T15:30:00",
    "tipo": "STORY",
    "draft": false,
@@ -278,6 +288,16 @@
    "local": "Art Life, Recreio",
    "midias": 1,
    "metricool_id": 395036390
+  },
+  {
+   "dateTime": "2026-10-15T18:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9798",
+   "local": "Tangarás Recreio, Vargem Pequena",
+   "midias": 8,
+   "metricool_id": 396281023
   },
   {
    "dateTime": "2026-10-16T08:30:00",
