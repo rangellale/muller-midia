@@ -268,20 +268,20 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU8853",
-   "local": "Santa Monica Jardins, Barra da Tijuca",
+   "codigo": "MU9870",
+   "local": "Pedra de Itaúna, Barra da Tijuca",
    "midias": 1,
-   "metricool_id": 395756611
+   "metricool_id": 395804095
   },
   {
    "dateTime": "2026-10-16T11:30:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9667",
-   "local": "Art Life, Recreio",
+   "codigo": "MU9870",
+   "local": "Pedra de Itaúna, Barra da Tijuca",
    "midias": 1,
-   "metricool_id": 395797405
+   "metricool_id": 395804124
   },
   {
    "dateTime": "2026-10-16T14:35:00",
@@ -298,10 +298,10 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9870",
-   "local": "Pedra de Itaúna, Barra da Tijuca",
+   "codigo": "MU9355",
+   "local": "Rio Mar, Barra da Tijuca",
    "midias": 1,
-   "metricool_id": 395756671
+   "metricool_id": 395804151
   },
   {
    "dateTime": "2026-10-16T17:40:00",
