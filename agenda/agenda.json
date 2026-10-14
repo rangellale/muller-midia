@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T18:15:00-03:00",
+ "gerado_em": "2026-10-14T18:50:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -203,21 +203,23 @@
    "dateTime": "2026-10-14T18:10:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9585",
    "local": "Malibu, Barra da Tijuca",
    "midias": 5,
-   "metricool_id": 395332236
+   "metricool_id": 395332236,
+   "url": "https://www.instagram.com/p/DefUWP8DIQd/"
   },
   {
    "dateTime": "2026-10-14T18:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "vídeo de corretor",
    "midias": 1,
-   "metricool_id": 395185022
+   "metricool_id": 395185022,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4008021712053579339"
   },
   {
    "dateTime": "2026-10-14T19:10:00",
