@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T15:50:00-03:00",
+ "gerado_em": "2026-10-14T16:50:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -192,11 +192,12 @@
    "dateTime": "2026-10-14T16:00:00",
    "tipo": "REEL",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "Barra da Tijuca",
    "midias": 1,
-   "metricool_id": 393238868
+   "metricool_id": 393238868,
+   "url": "https://www.instagram.com/reel/DefFzVWjHCj/"
   },
   {
    "dateTime": "2026-10-14T18:10:00",
