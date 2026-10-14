@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T07:52-03:00",
+ "gerado_em": "2026-10-14T08:55-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -137,11 +137,12 @@
    "dateTime": "2026-10-14T08:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9585",
    "local": "Malibu, Barra da Tijuca",
    "midias": 1,
-   "metricool_id": 394990007
+   "metricool_id": 394990007,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4007719845252953092"
   },
   {
    "dateTime": "2026-10-14T10:00:00",
