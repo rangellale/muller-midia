@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T18:50:00-03:00",
+ "gerado_em": "2026-10-14T19:50:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -225,11 +225,12 @@
    "dateTime": "2026-10-14T19:10:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9914",
    "local": "Alvorada da Barra, Recreio",
    "midias": 7,
-   "metricool_id": 396157696
+   "metricool_id": 396157696,
+   "url": "https://www.instagram.com/p/DefbOraDzSg/"
   },
   {
    "dateTime": "2026-10-15T06:30:00",
