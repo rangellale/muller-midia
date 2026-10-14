@@ -236,11 +236,12 @@
    "dateTime": "2026-10-14T20:40:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU8853",
    "local": "Santa Monica Jardins, Barra da Tijuca",
    "midias": 6,
-   "metricool_id": 396366248
+   "metricool_id": 396366248,
+   "url": "https://www.instagram.com/p/Deflg-8GkEF/"
   },
   {
    "dateTime": "2026-10-14T20:50:00",
