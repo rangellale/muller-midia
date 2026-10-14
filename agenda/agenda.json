@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T19:50:00-03:00",
+ "gerado_em": "2026-10-14T20:50:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -233,14 +233,84 @@
    "url": "https://www.instagram.com/p/DefbOraDzSg/"
   },
   {
-   "dateTime": "2026-10-15T06:30:00",
+   "dateTime": "2026-10-14T20:40:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
    "codigo": "MU8853",
    "local": "Santa Monica Jardins, Barra da Tijuca",
    "midias": 6,
-   "metricool_id": 396157623
+   "metricool_id": 396366248
+  },
+  {
+   "dateTime": "2026-10-14T20:50:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8853",
+   "local": "Santa Monica Jardins, Barra da Tijuca",
+   "midias": 1,
+   "metricool_id": 396371857
+  },
+  {
+   "dateTime": "2026-10-14T21:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8853",
+   "local": "Santa Monica Jardins, Barra da Tijuca",
+   "midias": 1,
+   "metricool_id": 396371861
+  },
+  {
+   "dateTime": "2026-10-14T21:10:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9798",
+   "local": "Tangarás Recreio, Vargem Pequena",
+   "midias": 1,
+   "metricool_id": 396371867
+  },
+  {
+   "dateTime": "2026-10-14T21:20:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9798",
+   "local": "Tangarás Recreio, Vargem Pequena",
+   "midias": 1,
+   "metricool_id": 396371878
+  },
+  {
+   "dateTime": "2026-10-14T21:40:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9798",
+   "local": "Tangarás Recreio, Vargem Pequena",
+   "midias": 8,
+   "metricool_id": 396366285
+  },
+  {
+   "dateTime": "2026-10-14T22:40:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9946",
+   "local": "Quintas Do Pontal, Recreio dos Bandeirantes",
+   "midias": 8,
+   "metricool_id": 396372175
+  },
+  {
+   "dateTime": "2026-10-14T23:40:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9759",
+   "local": "Novo Leblon, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 396373657
   },
   {
    "dateTime": "2026-10-15T08:30:00",
@@ -291,16 +361,6 @@
    "local": "Art Life, Recreio",
    "midias": 1,
    "metricool_id": 395036390
-  },
-  {
-   "dateTime": "2026-10-15T18:30:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9798",
-   "local": "Tangarás Recreio, Vargem Pequena",
-   "midias": 8,
-   "metricool_id": 396281023
   },
   {
    "dateTime": "2026-10-16T08:30:00",
