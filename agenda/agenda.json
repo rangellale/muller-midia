@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T14:52-03:00",
+ "gerado_em": "2026-10-14T15:35-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -222,10 +222,20 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
+   "codigo": "MU9914",
+   "local": "Alvorada da Barra, Recreio",
+   "midias": 7,
+   "metricool_id": 396157696
+  },
+  {
+   "dateTime": "2026-10-15T06:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "MU8853",
    "local": "Santa Monica Jardins, Barra da Tijuca",
    "midias": 6,
-   "metricool_id": 395480083
+   "metricool_id": 396157623
   },
   {
    "dateTime": "2026-10-15T08:30:00",
