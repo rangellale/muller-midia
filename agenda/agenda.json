@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-13T22:35-03:00",
+ "gerado_em": "2026-10-13T22:55-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -112,6 +112,16 @@
    "url": "https://www.instagram.com/p/Decw8EnAM6R/"
   },
   {
+   "dateTime": "2026-10-14T06:40:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9355",
+   "local": "Rio Mar, Barra da Tijuca",
+   "midias": 6,
+   "metricool_id": 395476086
+  },
+  {
    "dateTime": "2026-10-14T08:30:00",
    "tipo": "STORY",
    "draft": false,
@@ -120,6 +130,16 @@
    "local": "Malibu, Barra da Tijuca",
    "midias": 1,
    "metricool_id": 394990007
+  },
+  {
+   "dateTime": "2026-10-14T10:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9870",
+   "local": "Pedra de Itaúna, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 395480062
   },
   {
    "dateTime": "2026-10-14T11:30:00",
@@ -180,6 +200,16 @@
    "local": "vídeo de corretor",
    "midias": 1,
    "metricool_id": 395185022
+  },
+  {
+   "dateTime": "2026-10-14T19:10:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8853",
+   "local": "Santa Monica Jardins, Barra da Tijuca",
+   "midias": 6,
+   "metricool_id": 395480083
   },
   {
    "dateTime": "2026-10-15T08:30:00",
