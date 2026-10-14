@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T08:55-03:00",
+ "gerado_em": "2026-10-14T10:55-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -148,11 +148,12 @@
    "dateTime": "2026-10-14T10:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9870",
    "local": "Pedra de Itaúna, Barra da Tijuca",
    "midias": 8,
-   "metricool_id": 395480062
+   "metricool_id": 395480062,
+   "url": "https://www.instagram.com/p/DeecskalQ-U/"
   },
   {
    "dateTime": "2026-10-14T11:30:00",
