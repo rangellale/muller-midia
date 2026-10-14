@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T15:35-03:00",
+ "gerado_em": "2026-10-14T15:50:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -181,11 +181,12 @@
    "dateTime": "2026-10-14T15:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9331, MU9610, MU9698",
    "local": "3 casas, Riviera Del Sol",
    "midias": 1,
-   "metricool_id": 394990053
+   "metricool_id": 394990053,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4007931300611479197"
   },
   {
    "dateTime": "2026-10-14T16:00:00",
