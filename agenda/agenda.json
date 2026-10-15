@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15T08:26:00-03:00",
+ "gerado_em": "2026-10-15T08:45:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -371,6 +371,16 @@
    "metricool_id": 393239407
   },
   {
+   "dateTime": "2026-10-15T13:20:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9529",
+   "local": "Green Place, Recreio dos Bandeirantes",
+   "midias": 7,
+   "metricool_id": 396748992
+  },
+  {
    "dateTime": "2026-10-15T14:20:00",
    "tipo": "POST",
    "draft": false,
@@ -389,6 +399,36 @@
    "local": "Art Life, Recreio",
    "midias": 1,
    "metricool_id": 395036390
+  },
+  {
+   "dateTime": "2026-10-15T15:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9919",
+   "local": "Crystal Lake, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 396749041
+  },
+  {
+   "dateTime": "2026-10-15T16:40:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9639",
+   "local": "Parque Das Palmeiras, Recreio dos Bandeirantes",
+   "midias": 8,
+   "metricool_id": 396749101
+  },
+  {
+   "dateTime": "2026-10-15T17:50:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9918",
+   "local": "Pedra De Itaúna, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 396749158
   },
   {
    "dateTime": "2026-10-16T08:30:00",
