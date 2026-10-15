@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-14T20:50:00-03:00",
+ "gerado_em": "2026-10-14T22:02:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -292,6 +292,16 @@
    "local": "Tangarás Recreio",
    "midias": 8,
    "metricool_id": 396392688
+  },
+  {
+   "dateTime": "2026-10-14T22:07:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "metricool_id": 396405743
   },
   {
    "dateTime": "2026-10-14T22:40:00",
