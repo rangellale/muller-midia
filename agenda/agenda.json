@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15T08:58:00-03:00",
+ "gerado_em": "2026-10-15T10:05:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -363,6 +363,16 @@
    "metricool_id": 396760095
   },
   {
+   "dateTime": "2026-10-15T11:20:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8293",
+   "local": "Blue Houses, Barra da Tijuca",
+   "midias": 9,
+   "metricool_id": 396811669
+  },
+  {
    "dateTime": "2026-10-15T11:30:00",
    "tipo": "STORY",
    "draft": false,
@@ -387,10 +397,10 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9529",
-   "local": "Green Place, Recreio dos Bandeirantes",
-   "midias": 7,
-   "metricool_id": 396748992
+   "codigo": "MU40878",
+   "local": "Royal Blue, Barra da Tijuca",
+   "midias": 6,
+   "metricool_id": 396811732
   },
   {
    "dateTime": "2026-10-15T14:20:00",
@@ -441,6 +451,16 @@
    "local": "Pedra De Itaúna, Barra da Tijuca",
    "midias": 8,
    "metricool_id": 396749158
+  },
+  {
+   "dateTime": "2026-10-16T06:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9529",
+   "local": "Green Place, Recreio dos Bandeirantes",
+   "midias": 7,
+   "metricool_id": 396811842
   },
   {
    "dateTime": "2026-10-16T08:30:00",
