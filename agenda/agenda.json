@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15T07:55:00-03:00",
+ "gerado_em": "2026-10-15T08:26:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -339,6 +339,16 @@
    "local": "2 casas, Malibu",
    "midias": 1,
    "metricool_id": 395036326
+  },
+  {
+   "dateTime": "2026-10-15T08:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU6437",
+   "local": "Park Palace, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 396736360
   },
   {
    "dateTime": "2026-10-15T11:30:00",
