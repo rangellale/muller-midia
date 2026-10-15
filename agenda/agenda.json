@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15T10:50:00-03:00",
+ "gerado_em": "2026-10-15T14:55:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -367,11 +367,12 @@
    "dateTime": "2026-10-15T11:20:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU8293",
    "local": "Blue Houses, Barra da Tijuca",
    "midias": 9,
-   "metricool_id": 396811669
+   "metricool_id": 396811669,
+   "url": "https://www.instagram.com/p/DehKRb9G_0e/"
   },
   {
    "dateTime": "2026-10-15T11:30:00",
@@ -387,21 +388,34 @@
    "dateTime": "2026-10-15T12:10:00",
    "tipo": "REEL",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "Barra da Tijuca e Recreio",
    "midias": 1,
-   "metricool_id": 393239407
+   "metricool_id": 393239407,
+   "url": "https://www.instagram.com/reel/DehQCBmiPX8/"
+  },
+  {
+   "dateTime": "2026-10-15T12:48:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes",
+   "midias": 1,
+   "metricool_id": 396962902,
+   "url": "https://www.instagram.com/reel/DehUVxgjA_V/"
   },
   {
    "dateTime": "2026-10-15T13:20:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU40878",
    "local": "Royal Blue, Barra da Tijuca",
    "midias": 6,
-   "metricool_id": 396811732
+   "metricool_id": 396811732,
+   "url": "https://www.instagram.com/p/DehYAZAG9ZU/"
   },
   {
    "dateTime": "2026-10-15T14:20:00",
@@ -452,6 +466,26 @@
    "local": "Pedra De Itaúna, Barra da Tijuca",
    "midias": 8,
    "metricool_id": 396749158
+  },
+  {
+   "dateTime": "2026-10-15T20:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "metricool_id": 397003330
+  },
+  {
+   "dateTime": "2026-10-15T20:00:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes",
+   "midias": 1,
+   "metricool_id": 397065606
   },
   {
    "dateTime": "2026-10-16T06:30:00",
