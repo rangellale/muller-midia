@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15T14:55:00-03:00",
+ "gerado_em": "2026-10-15T18:10:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -451,7 +451,7 @@
    "dateTime": "2026-10-15T16:40:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9639",
    "local": "Parque Das Palmeiras, Recreio dos Bandeirantes",
    "midias": 8,
@@ -548,6 +548,36 @@
    "metricool_id": 392798827
   },
   {
+   "dateTime": "2026-10-16T17:50:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8302",
+   "local": "Santa Lucia, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 397209708
+  },
+  {
+   "dateTime": "2026-10-16T19:10:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9882",
+   "local": "Concetto Bianco, Recreio dos Bandeirantes",
+   "midias": 8,
+   "metricool_id": 397209766
+  },
+  {
+   "dateTime": "2026-10-17T08:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "metricool_id": 397199474
+  },
+  {
    "dateTime": "2026-10-17T13:35:00",
    "tipo": "REEL",
    "draft": false,
@@ -566,6 +596,26 @@
    "local": "Recreio (rascunho duplicado)",
    "midias": 1,
    "metricool_id": 392798870
+  },
+  {
+   "dateTime": "2026-10-17T15:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "metricool_id": 397199484
+  },
+  {
+   "dateTime": "2026-10-17T20:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "metricool_id": 397199490
   },
   {
    "dateTime": "2026-10-18T15:50:00",
