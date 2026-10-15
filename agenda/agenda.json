@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-15T08:45:00-03:00",
+ "gerado_em": "2026-10-15T08:58:00-03:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -334,21 +334,33 @@
    "dateTime": "2026-10-15T08:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU7904, MU9481",
    "local": "2 casas, Malibu",
    "midias": 1,
-   "metricool_id": 395036326
+   "metricool_id": 395036326,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4008444557927354037"
   },
   {
    "dateTime": "2026-10-15T08:30:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU6437",
    "local": "Park Palace, Barra da Tijuca",
    "midias": 8,
-   "metricool_id": 396736360
+   "metricool_id": 396736360,
+   "url": "https://www.instagram.com/p/Deg22r6G9jB/"
+  },
+  {
+   "dateTime": "2026-10-15T09:06:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "metricool_id": 396760095
   },
   {
    "dateTime": "2026-10-15T11:30:00",
