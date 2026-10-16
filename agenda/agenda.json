@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16T01:45:00-03:00",
+ "gerado_em": "2026-10-16T15:48:53.854869Z",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -682,6 +682,16 @@
    "metricool_id": 392971530
   },
   {
+   "dateTime": "2026-10-19T10:00:00",
+   "tipo": "STORY",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "draft": false,
+   "status": "PENDING",
+   "metricool_id": 397842294
+  },
+  {
    "dateTime": "2026-10-19T13:00:00",
    "tipo": "REEL",
    "draft": true,
@@ -692,6 +702,16 @@
    "metricool_id": 392799046
   },
   {
+   "dateTime": "2026-10-19T13:30:00",
+   "tipo": "STORY",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "draft": false,
+   "status": "PENDING",
+   "metricool_id": 397842334
+  },
+  {
    "dateTime": "2026-10-19T14:35:00",
    "tipo": "REEL",
    "codigo": "",
@@ -700,6 +720,16 @@
    "draft": false,
    "status": "PENDING",
    "metricool_id": 397335164
+  },
+  {
+   "dateTime": "2026-10-19T18:30:00",
+   "tipo": "STORY",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "draft": false,
+   "status": "PENDING",
+   "metricool_id": 397842360
   },
   {
    "dateTime": "2026-10-20T17:55:00",
