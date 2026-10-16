@@ -494,11 +494,12 @@
    "dateTime": "2026-10-16T06:30:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9529",
    "local": "Green Place, Recreio dos Bandeirantes",
    "midias": 7,
-   "metricool_id": 396811842
+   "metricool_id": 396811842,
+   "url": "https://www.instagram.com/p/DejN4D4loMP/"
   },
   {
    "dateTime": "2026-10-16T08:30:00",
