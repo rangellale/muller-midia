@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16T16:48:19.294322+00:00",
+ "gerado_em": "2026-10-16T19:41:05.689062+00:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -421,7 +421,7 @@
    "dateTime": "2026-10-15T14:20:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9004, MU9521, MU7974, MU9713",
    "local": "Vivendas Do Sol, Recreio dos Bandeirantes",
    "midias": 6,
@@ -441,7 +441,7 @@
    "dateTime": "2026-10-15T15:30:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9919",
    "local": "Crystal Lake, Barra da Tijuca",
    "midias": 8,
@@ -558,14 +558,14 @@
    "local": "",
    "midias": 1,
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "metricool_id": 397921179
   },
   {
    "dateTime": "2026-10-16T15:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9355",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 1,
@@ -722,6 +722,16 @@
    "metricool_id": 397199490
   },
   {
+   "dateTime": "2026-10-18T09:15:00",
+   "tipo": "STORY",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "draft": false,
+   "status": "PENDING",
+   "metricool_id": 397994544
+  },
+  {
    "dateTime": "2026-10-18T10:00:00",
    "tipo": "STORY",
    "codigo": "",
@@ -730,6 +740,16 @@
    "draft": false,
    "status": "PENDING",
    "metricool_id": 397915337
+  },
+  {
+   "dateTime": "2026-10-18T12:00:00",
+   "tipo": "STORY",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "draft": false,
+   "status": "PENDING",
+   "metricool_id": 397994523
   },
   {
    "dateTime": "2026-10-18T15:50:00",
@@ -760,6 +780,16 @@
    "local": "Barra da Tijuca e Recreio",
    "midias": 1,
    "metricool_id": 392971530
+  },
+  {
+   "dateTime": "2026-10-19T08:30:00",
+   "tipo": "STORY",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "draft": false,
+   "status": "PENDING",
+   "metricool_id": 397994566
   },
   {
    "dateTime": "2026-10-19T10:00:00",
@@ -800,6 +830,16 @@
    "draft": false,
    "status": "PENDING",
    "metricool_id": 397335164
+  },
+  {
+   "dateTime": "2026-10-19T16:00:00",
+   "tipo": "STORY",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "draft": false,
+   "status": "PENDING",
+   "metricool_id": 397994582
   },
   {
    "dateTime": "2026-10-19T18:30:00",
