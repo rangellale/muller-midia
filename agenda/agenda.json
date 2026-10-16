@@ -612,6 +612,26 @@
    "metricool_id": 397921202
   },
   {
+   "dateTime": "2026-10-17T06:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU6943",
+   "local": "",
+   "midias": 6,
+   "metricool_id": 398119758
+  },
+  {
+   "dateTime": "2026-10-17T07:30:00",
+   "tipo": "STORY",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "draft": false,
+   "status": "PENDING",
+   "metricool_id": 398114623
+  },
+  {
    "dateTime": "2026-10-17T08:30:00",
    "tipo": "STORY",
    "draft": false,
@@ -642,6 +662,16 @@
    "metricool_id": 396864872
   },
   {
+   "dateTime": "2026-10-17T10:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7250",
+   "local": "",
+   "midias": 6,
+   "metricool_id": 398119796
+  },
+  {
    "dateTime": "2026-10-17T11:30:00",
    "tipo": "STORY",
    "codigo": "",
@@ -662,6 +692,16 @@
    "metricool_id": 396935003
   },
   {
+   "dateTime": "2026-10-17T12:30:00",
+   "tipo": "STORY",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "draft": false,
+   "status": "PENDING",
+   "metricool_id": 398114650
+  },
+  {
    "dateTime": "2026-10-17T13:35:00",
    "tipo": "REEL",
    "draft": false,
@@ -670,6 +710,16 @@
    "local": "Barra da Tijuca e Recreio",
    "midias": 1,
    "metricool_id": 393239047
+  },
+  {
+   "dateTime": "2026-10-17T14:20:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7599",
+   "local": "",
+   "midias": 6,
+   "metricool_id": 398119832
   },
   {
    "dateTime": "2026-10-17T14:30:00",
@@ -692,6 +742,16 @@
    "metricool_id": 397199484
   },
   {
+   "dateTime": "2026-10-17T16:15:00",
+   "tipo": "STORY",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "draft": false,
+   "status": "PENDING",
+   "metricool_id": 398114674
+  },
+  {
    "dateTime": "2026-10-17T17:00:00",
    "tipo": "STORY",
    "codigo": "",
@@ -700,6 +760,16 @@
    "draft": false,
    "status": "PENDING",
    "metricool_id": 397915307
+  },
+  {
+   "dateTime": "2026-10-17T18:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8908",
+   "local": "",
+   "midias": 6,
+   "metricool_id": 398119864
   },
   {
    "dateTime": "2026-10-17T19:00:00",
