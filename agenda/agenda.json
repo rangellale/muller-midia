@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-17T20:48:27.108062+00:00",
+ "gerado_em": "2026-10-17T21:03:57.505908+00:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -877,6 +877,16 @@
    "metricool_id": 397784969
   },
   {
+   "dateTime": "2026-10-18T14:20:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8104",
+   "local": "Del Lago, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 398760166
+  },
+  {
    "dateTime": "2026-10-18T16:00:00",
    "tipo": "STORY",
    "draft": false,
@@ -895,6 +905,16 @@
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
    "metricool_id": 392971530
+  },
+  {
+   "dateTime": "2026-10-18T18:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8077",
+   "local": "Parque das Palmeiras, Recreio dos Bandeirantes",
+   "midias": 7,
+   "metricool_id": 398762418
   },
   {
    "dateTime": "2026-10-18T18:30:00",
