@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-16T19:41:05.689062+00:00",
+ "gerado_em": "2026-10-17T13:56:19.062585+00:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -615,90 +615,86 @@
    "dateTime": "2026-10-17T06:30:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU6943",
-   "local": "",
-   "midias": 6,
-   "metricool_id": 398119758
+   "local": "Nova Ipanema, Barra da Tijuca",
+   "midias": 5,
+   "metricool_id": 398119758,
+   "url": "https://www.instagram.com/p/DelyqAyCVnu/"
   },
   {
    "dateTime": "2026-10-17T07:30:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
-   "metricool_id": 398114623
+   "metricool_id": 398114623,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4009863863583325072"
   },
   {
    "dateTime": "2026-10-17T08:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "metricool_id": 397199474
+   "metricool_id": 398215487,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4009894053353399958"
   },
   {
    "dateTime": "2026-10-17T09:15:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
-   "metricool_id": 397921223
-  },
-  {
-   "dateTime": "2026-10-17T10:00:00",
-   "tipo": "STORY",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "draft": false,
-   "status": "PENDING",
-   "metricool_id": 396864872
+   "metricool_id": 397921223,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4009916558671647188"
   },
   {
    "dateTime": "2026-10-17T10:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU7250",
+   "local": "Vivendas do Sol, Recreio dos Bandeirantes",
+   "midias": 7,
+   "metricool_id": 398119796,
+   "url": "https://www.instagram.com/p/DemK_tLlKEo/"
+  },
+  {
+   "dateTime": "2026-10-17T10:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
    "local": "",
-   "midias": 6,
-   "metricool_id": 398119796
+   "midias": 1,
+   "metricool_id": 396864872,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4009940393314672976"
   },
   {
    "dateTime": "2026-10-17T11:30:00",
    "tipo": "STORY",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
    "draft": false,
    "status": "PENDING",
-   "metricool_id": 397915286
-  },
-  {
-   "dateTime": "2026-10-17T12:00:00",
-   "tipo": "REEL",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": true,
-   "status": "PENDING",
-   "metricool_id": 396935003
+   "metricool_id": 398215498
   },
   {
    "dateTime": "2026-10-17T12:30:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
    "metricool_id": 398114650
   },
   {
@@ -707,9 +703,9 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra da Tijuca e Recreio",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
-   "metricool_id": 393239047
+   "metricool_id": 398524085
   },
   {
    "dateTime": "2026-10-17T14:20:00",
@@ -717,19 +713,19 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "MU7599",
-   "local": "",
-   "midias": 6,
+   "local": "Jardim do Itanhangá, Itanhangá",
+   "midias": 5,
    "metricool_id": 398119832
   },
   {
-   "dateTime": "2026-10-17T14:30:00",
-   "tipo": "REEL",
-   "draft": true,
+   "dateTime": "2026-10-17T14:35:00",
+   "tipo": "STORY",
+   "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Recreio (rascunho duplicado)",
+   "local": "",
    "midias": 1,
-   "metricool_id": 392798870
+   "metricool_id": 397799496
   },
   {
    "dateTime": "2026-10-17T15:30:00",
@@ -739,26 +735,26 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "metricool_id": 397199484
+   "metricool_id": 398215503
   },
   {
    "dateTime": "2026-10-17T16:15:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
    "metricool_id": 398114674
   },
   {
    "dateTime": "2026-10-17T17:00:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
    "metricool_id": 397915307
   },
   {
@@ -767,19 +763,19 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "MU8908",
-   "local": "",
+   "local": "Crystal Lake, Barra da Tijuca",
    "midias": 6,
    "metricool_id": 398119864
   },
   {
    "dateTime": "2026-10-17T19:00:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
-   "metricool_id": 397915319
+   "metricool_id": 398215510
   },
   {
    "dateTime": "2026-10-17T20:30:00",
@@ -789,56 +785,66 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "metricool_id": 397199490
+   "metricool_id": 397780804
+  },
+  {
+   "dateTime": "2026-10-18T08:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "metricool_id": 398215519
   },
   {
    "dateTime": "2026-10-18T09:15:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
    "metricool_id": 397994544
   },
   {
    "dateTime": "2026-10-18T10:00:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
-   "metricool_id": 397915337
+   "metricool_id": 398215535
   },
   {
    "dateTime": "2026-10-18T12:00:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
-   "metricool_id": 397994523
+   "metricool_id": 398215547
   },
   {
-   "dateTime": "2026-10-18T15:50:00",
-   "tipo": "REEL",
-   "draft": true,
+   "dateTime": "2026-10-18T13:30:00",
+   "tipo": "STORY",
+   "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra da Tijuca e Recreio",
+   "local": "",
    "midias": 1,
-   "metricool_id": 392798914
+   "metricool_id": 397784969
   },
   {
    "dateTime": "2026-10-18T16:00:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
    "metricool_id": 397915352
   },
   {
@@ -847,79 +853,89 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra da Tijuca e Recreio",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
    "metricool_id": 392971530
   },
   {
-   "dateTime": "2026-10-19T08:30:00",
+   "dateTime": "2026-10-18T18:30:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
+   "metricool_id": 398215564
+  },
+  {
+   "dateTime": "2026-10-19T08:30:00",
+   "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "metricool_id": 397994566
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "metricool_id": 398215578
   },
   {
    "dateTime": "2026-10-19T10:00:00",
    "tipo": "STORY",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
    "draft": false,
    "status": "PENDING",
-   "metricool_id": 397842294
-  },
-  {
-   "dateTime": "2026-10-19T13:00:00",
-   "tipo": "REEL",
-   "draft": true,
-   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "metricool_id": 392799046
+   "metricool_id": 398215595
   },
   {
    "dateTime": "2026-10-19T13:30:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
    "metricool_id": 397842334
   },
   {
    "dateTime": "2026-10-19T14:35:00",
    "tipo": "REEL",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
    "draft": false,
    "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes",
+   "midias": 1,
    "metricool_id": 397335164
   },
   {
    "dateTime": "2026-10-19T16:00:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
+   "metricool_id": 397989543
+  },
+  {
+   "dateTime": "2026-10-19T16:00:00",
+   "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "metricool_id": 397994582
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "metricool_id": 398215607
   },
   {
    "dateTime": "2026-10-19T18:30:00",
    "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "draft": false,
-   "status": "PENDING",
-   "metricool_id": 397842360
+   "metricool_id": 398215616
   },
   {
    "dateTime": "2026-10-20T17:55:00",
@@ -934,67 +950,22 @@
   {
    "dateTime": "2026-10-21T12:30:00",
    "tipo": "REEL",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
    "draft": false,
    "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes",
+   "midias": 1,
    "metricool_id": 396954705
   },
   {
    "dateTime": "2026-10-22T12:00:00",
    "tipo": "REEL",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
    "draft": false,
    "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes",
+   "midias": 1,
    "metricool_id": 397341772
-  },
-  {
-   "dateTime": "2026-10-23T17:40:00",
-   "tipo": "REEL",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "draft": false,
-   "status": "PENDING"
-  },
-  {
-   "dateTime": "2026-10-24T12:00:00",
-   "tipo": "REEL",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "draft": false,
-   "status": "PENDING"
-  },
-  {
-   "dateTime": "2026-10-25T14:30:00",
-   "tipo": "REEL",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "draft": false,
-   "status": "PENDING"
-  },
-  {
-   "dateTime": "2026-10-26T15:50:00",
-   "tipo": "REEL",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "draft": false,
-   "status": "PENDING"
-  },
-  {
-   "dateTime": "2026-10-27T13:00:00",
-   "tipo": "REEL",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "draft": false,
-   "status": "PENDING"
   }
  ]
 }
