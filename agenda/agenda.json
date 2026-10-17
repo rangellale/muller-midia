@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-17T21:03:57.505908+00:00",
+ "gerado_em": "2026-10-17T21:47:36.705623+00:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -780,11 +780,12 @@
    "dateTime": "2026-10-17T18:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU8908",
    "local": "Crystal Lake, Barra da Tijuca",
    "midias": 6,
-   "metricool_id": 398119864
+   "metricool_id": 398119864,
+   "url": "https://www.instagram.com/p/DenBxesFJeG/"
   },
   {
    "dateTime": "2026-10-17T19:00:00",
