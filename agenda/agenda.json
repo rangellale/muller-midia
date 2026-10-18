@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-18T00:22:13.833716+00:00",
+ "gerado_em": "2026-10-18T01:16:19.701493+00:00",
  "fonte": "Metricool getScheduledPosts brand 7250391",
  "posts": [
   {
@@ -824,11 +824,22 @@
    "dateTime": "2026-10-17T22:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9282",
    "local": "Parque das Palmeiras, Recreio dos Bandeirantes",
    "midias": 6,
-   "metricool_id": 398837389
+   "metricool_id": 398837389,
+   "url": "https://www.instagram.com/p/DendPMMlHfh/"
+  },
+  {
+   "dateTime": "2026-10-17T22:21:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8104",
+   "local": "Del Lago, Barra da Tijuca",
+   "midias": 8,
+   "metricool_id": 398859132
   },
   {
    "dateTime": "2026-10-17T23:30:00",
@@ -899,16 +910,6 @@
    "local": "",
    "midias": 1,
    "metricool_id": 397784969
-  },
-  {
-   "dateTime": "2026-10-18T14:20:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU8104",
-   "local": "Del Lago, Barra da Tijuca",
-   "midias": 8,
-   "metricool_id": 398760166
   },
   {
    "dateTime": "2026-10-18T16:00:00",
