@@ -1,187 +1,11 @@
 {
- "gerado_em": "2026-10-18T16:50:00-03:00",
+ "gerado_em": "2026-10-19T18:48:45.053970Z",
  "posts": [
-  {
-   "dateTime": "2026-10-18T06:30:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9680",
-   "local": "Tangarás Recreio",
-   "midias": 8,
-   "id": 398646949,
-   "uuid": "-4335220368178786732"
-  },
-  {
-   "dateTime": "2026-10-18T08:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "id": 398215519,
-   "uuid": "-471107049024698457"
-  },
-  {
-   "dateTime": "2026-10-18T09:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "id": 397994544,
-   "uuid": "-6977183301089476520"
-  },
-  {
-   "dateTime": "2026-10-18T10:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "id": 398215535,
-   "uuid": "9145485627421641571"
-  },
-  {
-   "dateTime": "2026-10-18T10:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU7981",
-   "local": "Maramar, Recreio dos Bandeirantes",
-   "midias": 6,
-   "id": 398898409,
-   "uuid": "4502536984111891259"
-  },
-  {
-   "dateTime": "2026-10-18T11:55:00",
-   "tipo": "POST",
-   "draft": true,
-   "status": "PENDING",
-   "codigo": "MU7329",
-   "local": "Alphaville, Barra da Tijuca",
-   "midias": 5,
-   "id": 399177533,
-   "uuid": "2185821105868457081"
-  },
-  {
-   "dateTime": "2026-10-18T12:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "id": 398215547,
-   "uuid": "1647606082586364232"
-  },
-  {
-   "dateTime": "2026-10-18T12:04:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU7223",
-   "local": "Vivendas do Sol, Recreio dos Bandeirantes",
-   "midias": 6,
-   "id": 399192390,
-   "uuid": "2868988359385370308"
-  },
-  {
-   "dateTime": "2026-10-18T13:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "id": 399182483,
-   "uuid": "-7395520390151781048"
-  },
-  {
-   "dateTime": "2026-10-18T14:08:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU8077",
-   "local": "Parque das Palmeiras, Recreio dos Bandeirantes",
-   "midias": 7,
-   "id": 399275911,
-   "uuid": "-1538053809993334651"
-  },
-  {
-   "dateTime": "2026-10-18T14:20:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU7750",
-   "local": "",
-   "midias": 6,
-   "id": 398896778,
-   "uuid": "-5501726139159262789"
-  },
-  {
-   "dateTime": "2026-10-18T16:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "id": 399182503,
-   "uuid": "1940059728492841096"
-  },
-  {
-   "dateTime": "2026-10-18T17:15:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
-   "midias": 1,
-   "id": 392971530,
-   "uuid": "-1196003915105482614"
-  },
-  {
-   "dateTime": "2026-10-18T18:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU7389",
-   "local": "Art Life, Recreio dos Bandeirantes",
-   "midias": 7,
-   "id": 399285567,
-   "uuid": "609750505804612348"
-  },
-  {
-   "dateTime": "2026-10-18T18:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "id": 399182524,
-   "uuid": "3192474370333296052"
-  },
-  {
-   "dateTime": "2026-10-18T20:30:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU8194",
-   "local": "Alphaville, Barra da Tijuca",
-   "midias": 7,
-   "id": 399196581,
-   "uuid": "-7567766115257006163"
-  },
   {
    "dateTime": "2026-10-19T06:30:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9938",
    "local": "Carmel Village, Recreio dos Bandeirantes",
    "midias": 7,
@@ -192,7 +16,7 @@
    "dateTime": "2026-10-19T08:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
@@ -203,7 +27,7 @@
    "dateTime": "2026-10-19T10:00:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
@@ -214,7 +38,7 @@
    "dateTime": "2026-10-19T10:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU7447",
    "local": "Pedra de Itaúna, Barra da Tijuca",
    "midias": 6,
@@ -222,10 +46,21 @@
    "uuid": "-6292833148734323811"
   },
   {
+   "dateTime": "2026-10-19T10:52:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU7963",
+   "local": "Novo Leblon, Barra da Tijuca",
+   "midias": 5,
+   "id": 400047535,
+   "uuid": "1038405913668306189"
+  },
+  {
    "dateTime": "2026-10-19T13:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
@@ -236,7 +71,7 @@
    "dateTime": "2026-10-19T14:20:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9449",
    "local": "Maramar, Recreio dos Bandeirantes",
    "midias": 5,
@@ -244,10 +79,21 @@
    "uuid": "-5991312418179559473"
   },
   {
+   "dateTime": "2026-10-19T14:21:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "id": 400280105,
+   "uuid": "-6071977121486454675"
+  },
+  {
    "dateTime": "2026-10-19T14:35:00",
    "tipo": "REEL",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "Recreio dos Bandeirantes",
    "midias": 1,
@@ -328,7 +174,7 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 399189005,
+   "id": 400253242,
    "uuid": "-5845160966273282305"
   },
   {
@@ -583,6 +429,17 @@
    "midias": 1,
    "id": 397907250,
    "uuid": "5277099900524119552"
+  },
+  {
+   "dateTime": "2026-10-24T12:00:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes",
+   "midias": 1,
+   "id": 397907278,
+   "uuid": "1613502594437432996"
   }
  ]
 }
