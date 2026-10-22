@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-22T10:56",
+ "gerado_em": "2026-10-22T15:00",
  "posts": [
   {
    "dateTime": "2026-10-22T06:30:00",
@@ -10,73 +10,92 @@
    "local": "Villaggio Felicitá, Barra da Tijuca",
    "midias": 9,
    "id": 402205059,
-   "uuid": "6061547841632684812"
+   "uuid": "6061547841632684812",
+   "url": "https://www.instagram.com/p/DeyqsBMFYvx/"
   },
   {
    "dateTime": "2026-10-22T08:00:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
    "id": 402075640,
-   "uuid": "2850727148297142481"
+   "uuid": "2850727148297142481",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4013503921020729735"
   },
   {
    "dateTime": "2026-10-22T08:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
    "id": 402075665,
-   "uuid": "3902286196272939805"
+   "uuid": "3902286196272939805",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4013518038946633647"
   },
   {
    "dateTime": "2026-10-22T09:00:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
    "id": 402075697,
-   "uuid": "6479248997103452370"
+   "uuid": "6479248997103452370",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4013534570351432982"
   },
   {
    "dateTime": "2026-10-22T09:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
    "id": 402075740,
-   "uuid": "-5478809608074081986"
+   "uuid": "-5478809608074081986",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4013548350846390242"
   },
   {
    "dateTime": "2026-10-22T10:00:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
    "id": 399305713,
-   "uuid": "-5096521032779282038"
+   "uuid": "-5096521032779282038",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4013564549801715065"
   },
   {
    "dateTime": "2026-10-22T10:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9931",
    "local": "Sunrise, Recreio dos Bandeirantes",
    "midias": 6,
    "id": 402162574,
-   "uuid": "-6727727583258850058"
+   "uuid": "-6727727583258850058",
+   "url": "https://www.instagram.com/p/DezDEJwlY9d/"
+  },
+  {
+   "dateTime": "2026-10-22T10:37:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU9931",
+   "local": "Sunrise, Recreio dos Bandeirantes",
+   "midias": 5,
+   "id": 403153932,
+   "uuid": "6528744735711710870",
+   "url": "https://www.instagram.com/p/DezG3dFFZKu/"
   },
   {
    "dateTime": "2026-10-22T12:00:00",
@@ -90,14 +109,25 @@
    "uuid": "-8789381653572464794"
   },
   {
+   "dateTime": "2026-10-22T12:05:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7741",
+   "local": "Terra Américas, Recreio dos Bandeirantes",
+   "midias": 6,
+   "id": 403245612,
+   "uuid": "-3174704363140527828"
+  },
+  {
    "dateTime": "2026-10-22T14:20:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
    "codigo": "MU8030",
    "local": "Quintas do Rio, Barra da Tijuca",
-   "midias": 6,
-   "id": 403020864,
+   "midias": 5,
+   "id": 403175717,
    "uuid": "-1670734902289216020"
   },
   {
@@ -107,8 +137,8 @@
    "status": "PENDING",
    "codigo": "MU8085",
    "local": "Santa Mônica Sul, Barra da Tijuca",
-   "midias": 6,
-   "id": 403020919,
+   "midias": 5,
+   "id": 403175785,
    "uuid": "-1417219312422599707"
   },
   {
@@ -119,7 +149,7 @@
    "codigo": "MU7325",
    "local": "Alphaville, Barra da Tijuca",
    "midias": 6,
-   "id": 402581988,
+   "id": 403175866,
    "uuid": "-3505794210655680613"
   },
   {
@@ -130,7 +160,7 @@
    "codigo": "MU9081",
    "local": "Crystal Lake, Barra da Tijuca",
    "midias": 6,
-   "id": 403020989,
+   "id": 403230832,
    "uuid": "-3435515601730319964"
   },
   {
@@ -141,7 +171,7 @@
    "codigo": "MU7808",
    "local": "Santa Monica Jardins, Barra da Tijuca",
    "midias": 6,
-   "id": 403021042,
+   "id": 403230900,
    "uuid": "4389995737706352110"
   },
   {
@@ -151,8 +181,8 @@
    "status": "PENDING",
    "codigo": "MU7025",
    "local": "Del Lago, Barra da Tijuca",
-   "midias": 6,
-   "id": 403021220,
+   "midias": 5,
+   "id": 403230963,
    "uuid": "-5034757568879574232"
   },
   {
@@ -174,7 +204,7 @@
    "codigo": "MU9239",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 6,
-   "id": 403021280,
+   "id": 403231045,
    "uuid": "6684089235282218079"
   },
   {
@@ -185,7 +215,7 @@
    "codigo": "MU8425",
    "local": "Quintas do Rio, Barra da Tijuca",
    "midias": 6,
-   "id": 403021330,
+   "id": 403231128,
    "uuid": "-4301521982875220920"
   },
   {
@@ -207,7 +237,7 @@
    "codigo": "MU9795",
    "local": "Blue Houses, Barra da Tijuca",
    "midias": 6,
-   "id": 403021367,
+   "id": 403231427,
    "uuid": "-7459113667827905528"
   },
   {
@@ -229,7 +259,7 @@
    "codigo": "MU8608",
    "local": "Santa Lucia, Barra da Tijuca",
    "midias": 6,
-   "id": 403021423,
+   "id": 403231485,
    "uuid": "2283283563202167814"
   },
   {
@@ -240,7 +270,7 @@
    "codigo": "MU9817",
    "local": "Blue Houses, Barra da Tijuca",
    "midias": 6,
-   "id": 403021463,
+   "id": 403231544,
    "uuid": "9187142160536849232"
   },
   {
