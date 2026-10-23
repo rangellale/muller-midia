@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T10:55",
+ "gerado_em": "2026-10-23T19:00",
  "posts": [
   {
    "dateTime": "2026-10-23T06:30:00",
@@ -89,22 +89,34 @@
    "dateTime": "2026-10-23T17:40:00",
    "tipo": "REEL",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
    "id": 0,
    "uuid": "",
-   "url": ""
+   "url": "https://www.instagram.com/reel/De2cCv1kUVD/"
   },
   {
    "dateTime": "2026-10-23T18:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9239",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 6,
+   "id": 0,
+   "uuid": "",
+   "url": "https://www.instagram.com/p/De2emEFjHIS/"
+  },
+  {
+   "dateTime": "2026-10-23T19:45:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
    "id": 0,
    "uuid": "",
    "url": ""
@@ -117,6 +129,18 @@
    "codigo": "MU8425",
    "local": "Quintas do Rio, Barra da Tijuca",
    "midias": 6,
+   "id": 0,
+   "uuid": "",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-23T21:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
    "id": 0,
    "uuid": "",
    "url": ""
@@ -218,6 +242,30 @@
    "url": ""
   },
   {
+   "dateTime": "2026-10-24T14:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "id": 0,
+   "uuid": "",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-24T17:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "id": 0,
+   "uuid": "",
+   "url": ""
+  },
+  {
    "dateTime": "2026-10-24T18:00:00",
    "tipo": "POST",
    "draft": false,
@@ -225,6 +273,18 @@
    "codigo": "MU8608",
    "local": "Santa Lucia, Barra da Tijuca",
    "midias": 6,
+   "id": 0,
+   "uuid": "",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-24T20:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
    "id": 0,
    "uuid": "",
    "url": ""
