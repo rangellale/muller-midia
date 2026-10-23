@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-23T13:40",
+ "gerado_em": "2026-10-23T10:55",
  "posts": [
   {
    "dateTime": "2026-10-23T06:30:00",
@@ -78,11 +78,11 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU7025",
-   "local": "Del Lago, Barra da Tijuca",
-   "midias": 5,
-   "id": 0,
-   "uuid": "",
+   "codigo": "",
+   "local": "Carrossel: 5 pontos antes de comprar",
+   "midias": 7,
+   "id": 404165808,
+   "uuid": "6149460639688967939",
    "url": ""
   },
   {
@@ -126,9 +126,9 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU6482",
-   "local": "Blue Houses, Barra da Tijuca",
-   "midias": 8,
+   "codigo": "MU7025",
+   "local": "Del Lago, Barra da Tijuca",
+   "midias": 5,
    "id": 0,
    "uuid": "",
    "url": ""
@@ -186,9 +186,9 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9795",
+   "codigo": "MU6482",
    "local": "Blue Houses, Barra da Tijuca",
-   "midias": 6,
+   "midias": 8,
    "id": 0,
    "uuid": "",
    "url": ""
@@ -210,6 +210,18 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
+   "codigo": "MU9795",
+   "local": "Blue Houses, Barra da Tijuca",
+   "midias": 6,
+   "id": 0,
+   "uuid": "",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-24T18:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "MU8608",
    "local": "Santa Lucia, Barra da Tijuca",
    "midias": 6,
@@ -218,7 +230,7 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-24T18:00:00",
+   "dateTime": "2026-10-24T20:30:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
@@ -230,25 +242,13 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-24T20:30:00",
+   "dateTime": "2026-10-25T06:30:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
    "codigo": "MU8892",
    "local": "Del Lago, Barra da Tijuca",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
-   "url": ""
-  },
-  {
-   "dateTime": "2026-10-25T06:30:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9126",
-   "local": "Bothanica Nature, Recreio dos Bandeirantes",
-   "midias": 7,
    "id": 0,
    "uuid": "",
    "url": ""
@@ -306,9 +306,9 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9727",
-   "local": "Village Marapendi, Barra da Tijuca",
-   "midias": 6,
+   "codigo": "MU9126",
+   "local": "Bothanica Nature, Recreio dos Bandeirantes",
+   "midias": 7,
    "id": 0,
    "uuid": "",
    "url": ""
@@ -318,8 +318,8 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9858",
-   "local": "Jardins Barra Bonita, Recreio dos Bandeirantes",
+   "codigo": "MU9727",
+   "local": "Village Marapendi, Barra da Tijuca",
    "midias": 6,
    "id": 0,
    "uuid": "",
@@ -342,6 +342,18 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
+   "codigo": "MU9858",
+   "local": "Jardins Barra Bonita, Recreio dos Bandeirantes",
+   "midias": 6,
+   "id": 0,
+   "uuid": "",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-25T20:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "MU9399",
    "local": "Novo Leblon, Barra da Tijuca",
    "midias": 7,
@@ -350,7 +362,7 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-25T20:30:00",
+   "dateTime": "2026-10-26T06:30:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
@@ -362,7 +374,7 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-26T06:30:00",
+   "dateTime": "2026-10-26T10:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
@@ -374,24 +386,12 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-26T10:00:00",
+   "dateTime": "2026-10-26T14:20:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
    "codigo": "MU9084",
    "local": "Del Lago, Barra da Tijuca",
-   "midias": 6,
-   "id": 0,
-   "uuid": "",
-   "url": ""
-  },
-  {
-   "dateTime": "2026-10-26T14:20:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU7771",
-   "local": "Jardim do Itanhangá, Itanhangá",
    "midias": 6,
    "id": 0,
    "uuid": "",
@@ -414,6 +414,18 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
+   "codigo": "MU7771",
+   "local": "Jardim do Itanhangá, Itanhangá",
+   "midias": 6,
+   "id": 0,
+   "uuid": "",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-26T20:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "MU7438",
    "local": "Mansões, Barra da Tijuca",
    "midias": 8,
@@ -422,7 +434,7 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-26T20:30:00",
+   "dateTime": "2026-10-27T06:30:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
@@ -434,25 +446,13 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-27T06:30:00",
+   "dateTime": "2026-10-27T10:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
    "codigo": "MU7008",
    "local": "Park Palace, Barra da Tijuca",
    "midias": 8,
-   "id": 0,
-   "uuid": "",
-   "url": ""
-  },
-  {
-   "dateTime": "2026-10-27T10:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9716",
-   "local": "Riviera Del Sol, Recreio dos Bandeirantes",
-   "midias": 6,
    "id": 0,
    "uuid": "",
    "url": ""
@@ -474,6 +474,18 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
+   "codigo": "MU9716",
+   "local": "Riviera Del Sol, Recreio dos Bandeirantes",
+   "midias": 6,
+   "id": 0,
+   "uuid": "",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-27T18:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "MU7903",
    "local": "Malibu, Barra da Tijuca",
    "midias": 6,
@@ -482,7 +494,7 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-27T18:00:00",
+   "dateTime": "2026-10-27T20:30:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
@@ -494,7 +506,7 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-27T20:30:00",
+   "dateTime": "2026-10-28T06:30:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
@@ -506,25 +518,13 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-28T06:30:00",
+   "dateTime": "2026-10-28T10:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
    "codigo": "MU6996",
    "local": "Novo Leblon, Barra da Tijuca",
    "midias": 5,
-   "id": 0,
-   "uuid": "",
-   "url": ""
-  },
-  {
-   "dateTime": "2026-10-28T10:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9909",
-   "local": "Villa Blanca, Recreio dos Bandeirantes",
-   "midias": 6,
    "id": 0,
    "uuid": "",
    "url": ""
@@ -546,6 +546,18 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
+   "codigo": "MU9909",
+   "local": "Villa Blanca, Recreio dos Bandeirantes",
+   "midias": 6,
+   "id": 0,
+   "uuid": "",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-28T18:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
    "codigo": "MU8086",
    "local": "Art Life, Recreio dos Bandeirantes",
    "midias": 5,
@@ -554,7 +566,7 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-28T18:00:00",
+   "dateTime": "2026-10-28T20:30:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
@@ -566,7 +578,7 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-28T20:30:00",
+   "dateTime": "2026-10-29T06:30:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
