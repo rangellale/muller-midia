@@ -314,6 +314,18 @@
    "url": ""
   },
   {
+   "dateTime": "2026-10-24T20:30:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Barra e Recreio (manda seu imóvel)",
+   "midias": 1,
+   "id": 405293619,
+   "uuid": "6413461866928360259",
+   "url": ""
+  },
+  {
    "dateTime": "2026-10-25T06:30:00",
    "tipo": "POST",
    "draft": false,
