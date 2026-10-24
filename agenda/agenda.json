@@ -350,18 +350,6 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-25T08:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "id": 403688896,
-   "uuid": "2458304252276393386",
-   "url": ""
-  },
-  {
    "dateTime": "2026-10-25T09:00:00",
    "tipo": "STORY",
    "draft": false,
@@ -491,6 +479,18 @@
    "midias": 1,
    "id": 405262785,
    "uuid": "-323452743339325714",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-26T08:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "id": 405275622,
+   "uuid": "2458304252276393386",
    "url": ""
   },
   {
