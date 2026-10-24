@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24T08:55",
+ "gerado_em": "2026-10-24T14:50",
  "posts": [
   {
    "dateTime": "2026-10-23T06:30:00",
@@ -153,105 +153,129 @@
    "codigo": "MU7025",
    "local": "Del Lago, Barra da Tijuca",
    "midias": 5,
-   "id": 0,
-   "uuid": "",
+   "id": 404166014,
+   "uuid": "-5034757568879574232",
    "url": "https://www.instagram.com/p/De30QoVjcAE/"
   },
   {
    "dateTime": "2026-10-24T08:00:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
-   "url": ""
+   "id": 403484298,
+   "uuid": "2759516717253281668",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4014953260661889393"
   },
   {
    "dateTime": "2026-10-24T08:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
-   "url": ""
+   "id": 403566125,
+   "uuid": "-5767646145779317273",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4014967485903712614"
   },
   {
    "dateTime": "2026-10-24T09:00:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
-   "url": ""
+   "id": 403484380,
+   "uuid": "1047481935932180163",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4014983848538271786"
   },
   {
    "dateTime": "2026-10-24T09:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
-   "url": ""
+   "id": 403566138,
+   "uuid": "4350536558157841883",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4014997727876196109"
   },
   {
    "dateTime": "2026-10-24T10:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU6482",
    "local": "Blue Houses, Barra da Tijuca",
    "midias": 8,
-   "id": 0,
-   "uuid": "",
-   "url": ""
+   "id": 404166080,
+   "uuid": "8540341225669805310",
+   "url": "https://www.instagram.com/p/De4MoWsCIu8/"
   },
   {
    "dateTime": "2026-10-24T12:00:00",
    "tipo": "REEL",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
-   "local": "",
+   "local": "Recreio dos Bandeirantes",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
-   "url": ""
+   "id": 397907278,
+   "uuid": "1613502594437432996",
+   "url": "https://www.instagram.com/reel/De4aV8ECEUS/"
+  },
+  {
+   "dateTime": "2026-10-24T14:01:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU9707",
+   "local": "Barra da Tijuca",
+   "midias": 5,
+   "id": 405126800,
+   "uuid": "2220179420880128385",
+   "url": "https://www.instagram.com/p/De4oRRkFayl/"
+  },
+  {
+   "dateTime": "2026-10-24T14:06:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU9552",
+   "local": "Recreio dos Bandeirantes",
+   "midias": 6,
+   "id": 405128288,
+   "uuid": "2484102128874242454",
+   "url": "https://www.instagram.com/p/De4oZdFD5G2/"
   },
   {
    "dateTime": "2026-10-24T14:20:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9795",
    "local": "Blue Houses, Barra da Tijuca",
-   "midias": 6,
-   "id": 0,
-   "uuid": "",
-   "url": ""
+   "midias": 7,
+   "id": 404994106,
+   "uuid": "-7459113667827905528",
+   "url": "https://www.instagram.com/p/De4qA8Nibpz/"
   },
   {
    "dateTime": "2026-10-24T14:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
-   "url": ""
+   "id": 404556692,
+   "uuid": "8431214284539446400",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4015149047283346058"
   },
   {
    "dateTime": "2026-10-24T17:30:00",
@@ -261,8 +285,20 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
+   "id": 404556708,
+   "uuid": "-7881397615157557132",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-24T17:30:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes",
+   "midias": 1,
+   "id": 405134142,
+   "uuid": "-6948927778063956765",
    "url": ""
   },
   {
@@ -273,8 +309,8 @@
    "codigo": "MU8608",
    "local": "Santa Lucia, Barra da Tijuca",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "id": 404166182,
+   "uuid": "2283283563202167814",
    "url": ""
   },
   {
@@ -285,8 +321,8 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
+   "id": 404556724,
+   "uuid": "4403382282147546498",
    "url": ""
   },
   {
@@ -296,9 +332,9 @@
    "status": "PENDING",
    "codigo": "MU9817",
    "local": "Blue Houses, Barra da Tijuca",
-   "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "midias": 7,
+   "id": 404994132,
+   "uuid": "9187142160536849232",
    "url": ""
   },
   {
@@ -309,8 +345,8 @@
    "codigo": "MU8892",
    "local": "Del Lago, Barra da Tijuca",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "id": 404166291,
+   "uuid": "6739762860882479122",
    "url": ""
   },
   {
@@ -321,8 +357,8 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
+   "id": 403484005,
+   "uuid": "-9029475043398890502",
    "url": ""
   },
   {
@@ -333,8 +369,8 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
+   "id": 403688896,
+   "uuid": "2458304252276393386",
    "url": ""
   },
   {
@@ -345,8 +381,8 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
+   "id": 403484059,
+   "uuid": "4902847789102875110",
    "url": ""
   },
   {
@@ -357,8 +393,8 @@
    "codigo": "",
    "local": "",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
+   "id": 403566181,
+   "uuid": "-4196490242207169529",
    "url": ""
   },
   {
@@ -369,8 +405,32 @@
    "codigo": "MU9126",
    "local": "Bothanica Nature, Recreio dos Bandeirantes",
    "midias": 7,
-   "id": 0,
-   "uuid": "",
+   "id": 404166628,
+   "uuid": "-7794670454243045522",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-25T11:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "id": 404598902,
+   "uuid": "-6585323433392059583",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-25T12:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "id": 404606131,
+   "uuid": "1389146713666437977",
    "url": ""
   },
   {
@@ -386,15 +446,15 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-25T14:30:00",
+   "dateTime": "2026-10-25T15:50:00",
    "tipo": "REEL",
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "",
+   "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
+   "id": 405134197,
+   "uuid": "-1362219136434486502",
    "url": ""
   },
   {
@@ -405,8 +465,8 @@
    "codigo": "MU9727",
    "local": "Village Marapendi, Barra da Tijuca",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "id": 404913935,
+   "uuid": "-6210214069022601255",
    "url": ""
   },
   {
@@ -417,8 +477,8 @@
    "codigo": "MU9858",
    "local": "Jardins Barra Bonita, Recreio dos Bandeirantes",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "id": 404913905,
+   "uuid": "3556119032117939156",
    "url": ""
   },
   {
@@ -429,8 +489,20 @@
    "codigo": "MU9399",
    "local": "Novo Leblon, Barra da Tijuca",
    "midias": 7,
-   "id": 0,
-   "uuid": "",
+   "id": 404913878,
+   "uuid": "5225804205454282469",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-26T09:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "id": 404940684,
+   "uuid": "2516595855884766611",
    "url": ""
   },
   {
@@ -441,8 +513,32 @@
    "codigo": "MU8373",
    "local": "Rio Mar, Barra da Tijuca",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "id": 404913853,
+   "uuid": "6897981726819237984",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-26T12:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "id": 404943802,
+   "uuid": "-7857863192443862404",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-26T13:00:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Recreio dos Bandeirantes",
+   "midias": 1,
+   "id": 405134225,
+   "uuid": "1904549364312064439",
    "url": ""
   },
   {
@@ -453,20 +549,8 @@
    "codigo": "MU7987",
    "local": "Del Lago, Barra da Tijuca",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
-   "url": ""
-  },
-  {
-   "dateTime": "2026-10-26T15:50:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "id": 0,
-   "uuid": "",
+   "id": 404913819,
+   "uuid": "-269037398855957105",
    "url": ""
   },
   {
@@ -477,8 +561,8 @@
    "codigo": "MU9084",
    "local": "Del Lago, Barra da Tijuca",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "id": 404913789,
+   "uuid": "4158148522964961740",
    "url": ""
   },
   {
@@ -489,8 +573,8 @@
    "codigo": "MU7771",
    "local": "Jardim do Itanhangá, Itanhangá",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "id": 404913763,
+   "uuid": "-7790265214570575594",
    "url": ""
   },
   {
@@ -501,8 +585,8 @@
    "codigo": "MU7438",
    "local": "Mansões, Barra da Tijuca",
    "midias": 8,
-   "id": 0,
-   "uuid": "",
+   "id": 404913693,
+   "uuid": "8804918049869547459",
    "url": ""
   },
   {
@@ -513,20 +597,8 @@
    "codigo": "MU9473",
    "local": "Dream Village, Recreio dos Bandeirantes",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
-   "url": ""
-  },
-  {
-   "dateTime": "2026-10-27T13:00:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": 1,
-   "id": 0,
-   "uuid": "",
+   "id": 404913667,
+   "uuid": "8710129386905159236",
    "url": ""
   },
   {
@@ -537,8 +609,8 @@
    "codigo": "MU7008",
    "local": "Park Palace, Barra da Tijuca",
    "midias": 8,
-   "id": 0,
-   "uuid": "",
+   "id": 404913641,
+   "uuid": "64541575483444934",
    "url": ""
   },
   {
@@ -549,8 +621,8 @@
    "codigo": "MU9716",
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "id": 404913619,
+   "uuid": "560488806901171093",
    "url": ""
   },
   {
@@ -561,8 +633,8 @@
    "codigo": "MU7903",
    "local": "Malibu, Barra da Tijuca",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "id": 404913594,
+   "uuid": "-4869675714747020766",
    "url": ""
   },
   {
@@ -573,8 +645,8 @@
    "codigo": "MU9356",
    "local": "Quintas do Rio, Barra da Tijuca",
    "midias": 7,
-   "id": 0,
-   "uuid": "",
+   "id": 404913571,
+   "uuid": "6955432944207941032",
    "url": ""
   },
   {
@@ -585,20 +657,20 @@
    "codigo": "MU9078",
    "local": "Bothanica Nature, Recreio dos Bandeirantes",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "id": 404913512,
+   "uuid": "-7637474299513909279",
    "url": ""
   },
   {
    "dateTime": "2026-10-28T12:30:00",
    "tipo": "REEL",
-   "draft": false,
+   "draft": true,
    "status": "PENDING",
    "codigo": "",
-   "local": "",
+   "local": "Recreio dos Bandeirantes",
    "midias": 1,
-   "id": 0,
-   "uuid": "",
+   "id": 405060098,
+   "uuid": "-8352253182507334390",
    "url": ""
   },
   {
@@ -609,8 +681,8 @@
    "codigo": "MU6996",
    "local": "Novo Leblon, Barra da Tijuca",
    "midias": 5,
-   "id": 0,
-   "uuid": "",
+   "id": 404913482,
+   "uuid": "6515288103016022585",
    "url": ""
   },
   {
@@ -621,8 +693,8 @@
    "codigo": "MU9909",
    "local": "Villa Blanca, Recreio dos Bandeirantes",
    "midias": 6,
-   "id": 0,
-   "uuid": "",
+   "id": 404913468,
+   "uuid": "-2948539460968953556",
    "url": ""
   },
   {
@@ -633,8 +705,8 @@
    "codigo": "MU8086",
    "local": "Art Life, Recreio dos Bandeirantes",
    "midias": 5,
-   "id": 0,
-   "uuid": "",
+   "id": 404913451,
+   "uuid": "-5159563317370401937",
    "url": ""
   },
   {
@@ -645,8 +717,8 @@
    "codigo": "MU8108",
    "local": "Santa Monica Residências, Barra da Tijuca",
    "midias": 7,
-   "id": 0,
-   "uuid": "",
+   "id": 404913437,
+   "uuid": "-990700797372643857",
    "url": ""
   },
   {
@@ -655,10 +727,10 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "MU8021",
-   "local": "Village Marapendi",
+   "local": "Condomínio Village Marapendi",
    "midias": 5,
-   "id": 0,
-   "uuid": "",
+   "id": 404913417,
+   "uuid": "7129443581413376161",
    "url": ""
   }
  ]
