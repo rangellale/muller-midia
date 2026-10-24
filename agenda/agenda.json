@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-24T14:50",
+ "gerado_em": "2026-10-24T21:15",
  "posts": [
   {
    "dateTime": "2026-10-23T06:30:00",
@@ -290,28 +290,16 @@
    "url": ""
   },
   {
-   "dateTime": "2026-10-24T17:30:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Recreio dos Bandeirantes",
-   "midias": 1,
-   "id": 405134142,
-   "uuid": "-6948927778063956765",
-   "url": ""
-  },
-  {
    "dateTime": "2026-10-24T18:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU8608",
    "local": "Santa Lucia, Barra da Tijuca",
    "midias": 6,
    "id": 404166182,
    "uuid": "2283283563202167814",
-   "url": ""
+   "url": "https://www.instagram.com/p/De5DVCrDEll/"
   },
   {
    "dateTime": "2026-10-24T20:00:00",
@@ -439,7 +427,7 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "",
+   "local": "Carrossel: forma de pagamento",
    "midias": 7,
    "id": 404914002,
    "uuid": "-2213310640626319309",
@@ -448,12 +436,12 @@
   {
    "dateTime": "2026-10-25T15:50:00",
    "tipo": "REEL",
-   "draft": false,
+   "draft": true,
    "status": "PENDING",
    "codigo": "",
    "local": "Barra da Tijuca e Recreio dos Bandeirantes",
    "midias": 1,
-   "id": 405134197,
+   "id": 405264352,
    "uuid": "-1362219136434486502",
    "url": ""
   },
@@ -494,6 +482,18 @@
    "url": ""
   },
   {
+   "dateTime": "2026-10-26T08:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "id": 405262785,
+   "uuid": "-323452743339325714",
+   "url": ""
+  },
+  {
    "dateTime": "2026-10-26T09:00:00",
    "tipo": "STORY",
    "draft": false,
@@ -503,6 +503,18 @@
    "midias": 1,
    "id": 404940684,
    "uuid": "2516595855884766611",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-26T09:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "id": 405262791,
+   "uuid": "-1640909602771549369",
    "url": ""
   },
   {
@@ -532,12 +544,12 @@
   {
    "dateTime": "2026-10-26T13:00:00",
    "tipo": "REEL",
-   "draft": false,
+   "draft": true,
    "status": "PENDING",
    "codigo": "",
    "local": "Recreio dos Bandeirantes",
    "midias": 1,
-   "id": 405134225,
+   "id": 405264367,
    "uuid": "1904549364312064439",
    "url": ""
   },
