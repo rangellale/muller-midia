@@ -427,10 +427,22 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Carrossel: forma de pagamento",
+   "local": "Carrossel dicas v1 (apagado pela Ale)",
    "midias": 7,
    "id": 404914002,
    "uuid": "-2213310640626319309",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-25T14:40:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Carrossel: forma de pagamento (v2)",
+   "midias": 7,
+   "id": 405835857,
+   "uuid": "-3692368491395592902",
    "url": ""
   },
   {
