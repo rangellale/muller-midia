@@ -401,25 +401,25 @@
    "dateTime": "2026-10-25T11:00:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
    "id": 404598902,
    "uuid": "-6585323433392059583",
-   "url": ""
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4015769388619478339"
   },
   {
    "dateTime": "2026-10-25T12:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": 1,
    "id": 404606131,
    "uuid": "1389146713666437977",
-   "url": ""
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4015813490325277402"
   },
   {
    "dateTime": "2026-10-25T14:20:00",
@@ -443,6 +443,18 @@
    "midias": 1,
    "id": 405264352,
    "uuid": "-1362219136434486502",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-25T16:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": 1,
+   "id": 405762097,
+   "uuid": "1978537623131670042",
    "url": ""
   },
   {
