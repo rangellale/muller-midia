@@ -425,23 +425,23 @@
    "dateTime": "2026-10-25T14:20:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "Carrossel dicas v1 (apagado pela Ale)",
    "midias": 7,
    "id": 404914002,
    "uuid": "-2213310640626319309",
-   "url": ""
+   "url": "https://www.instagram.com/p/De7OznWlhye/"
   },
   {
-   "dateTime": "2026-10-25T14:40:00",
+   "dateTime": "2026-10-25T14:50:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
    "codigo": "",
    "local": "Carrossel: forma de pagamento (v2)",
    "midias": 7,
-   "id": 405835857,
+   "id": 405837789,
    "uuid": "-3692368491395592902",
    "url": ""
   },
