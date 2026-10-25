@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-25T21:36:50+00:00",
+ "gerado_em": "2026-10-25T21:47:59+00:00",
  "posts": [
   {
    "dateTime": "2026-10-23T06:30:00",
@@ -485,25 +485,25 @@
    "dateTime": "2026-10-25T18:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "Story comparativo R$ 2,5 mi MU9785 x MU90259",
    "midias": 1,
    "id": 405897721,
    "uuid": "5773498067316854137",
-   "url": ""
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4015994251036617461"
   },
   {
    "dateTime": "2026-10-25T18:42:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9671",
    "local": "Village Marapendi, Barra da Tijuca",
    "midias": 8,
    "id": 406011387,
    "uuid": "6828057177875566380",
-   "url": ""
+   "url": "https://www.instagram.com/p/De7sxsZjA4z/"
   },
   {
    "dateTime": "2026-10-25T20:00:00",
@@ -731,6 +731,18 @@
    "midias": 1,
    "id": 405902055,
    "uuid": "7985153528624989142",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-27T09:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Story 3 casas alto padrão",
+   "midias": 1,
+   "id": 406013691,
+   "uuid": "1492150554740671840",
    "url": ""
   },
   {
