@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-25T22:18:49+00:00",
+ "gerado_em": "2026-10-25T22:43:14+00:00",
  "posts": [
   {
    "dateTime": "2026-10-23T06:30:00",
@@ -1007,6 +1007,78 @@
    "midias": 7,
    "id": 406038779,
    "uuid": "-5211913696160955640",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-31T10:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8453",
+   "local": "Bothanica Nature, Recreio dos Bandeirantes",
+   "midias": 6,
+   "id": 406056394,
+   "uuid": "-6950137100605766693",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-31T18:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU6944",
+   "local": "Nova Ipanema, Barra da Tijuca",
+   "midias": 7,
+   "id": 406056461,
+   "uuid": "-4128063060864121317",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-10-31T20:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9080",
+   "local": "Reserva do Itanhangá, Itanhangá",
+   "midias": 4,
+   "id": 406056508,
+   "uuid": "3704247435592679532",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-01T06:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9520",
+   "local": "Quintas do Rio, Barra da Tijuca",
+   "midias": 3,
+   "id": 406056561,
+   "uuid": "-5621807571788807732",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-01T10:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9720",
+   "local": "Rio Mar, Barra da Tijuca",
+   "midias": 4,
+   "id": 406056621,
+   "uuid": "852302191169390718",
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-01T14:20:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU6172",
+   "local": "Quintas do Pontal, Recreio dos Bandeirantes",
+   "midias": 3,
+   "id": 406056672,
+   "uuid": "7311583823880799864",
    "url": ""
   }
  ]
