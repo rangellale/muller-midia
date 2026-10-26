@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-10-25T23:12:42+00:00",
+ "gerado_em": "2026-10-26T10:49:44+00:00",
  "posts": [
   {
    "dateTime": "2026-10-23T06:30:00",
@@ -473,13 +473,13 @@
    "dateTime": "2026-10-25T18:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9126",
    "local": "Bothanica Nature, Recreio dos Bandeirantes",
    "midias": 7,
    "id": 404166628,
    "uuid": "-7794670454243045522",
-   "url": ""
+   "url": "https://www.instagram.com/p/De7oN8djgMZ/"
   },
   {
    "dateTime": "2026-10-25T18:30:00",
@@ -509,37 +509,37 @@
    "dateTime": "2026-10-25T20:00:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "Story passeio MU9926",
    "midias": 1,
    "id": 405905036,
    "uuid": "-916615383093784880",
-   "url": ""
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4016040596921146814"
   },
   {
    "dateTime": "2026-10-25T20:30:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9727",
    "local": "Village Marapendi, Barra da Tijuca",
    "midias": 6,
    "id": 404913935,
    "uuid": "-6210214069022601255",
-   "url": ""
+   "url": "https://www.instagram.com/p/De75JwTmrPg/"
   },
   {
    "dateTime": "2026-10-26T06:30:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9858",
    "local": "Jardins Barra Bonita, Recreio dos Bandeirantes",
    "midias": 6,
    "id": 404913905,
    "uuid": "3556119032117939156",
-   "url": ""
+   "url": "https://www.instagram.com/p/De891o9m4-3/"
   },
   {
    "dateTime": "2026-10-26T08:00:00",
