@@ -6,7 +6,7 @@
    "tipo": "REEL",
    "draft": true,
    "status": "PENDING",
-   "codigo": null,
+   "codigo": "",
    "local": "Recreio dos Bandeirantes",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-16722382165680653250.mp4"
@@ -333,8 +333,8 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PUBLISHED",
-   "codigo": null,
-   "local": null,
+   "codigo": "",
+   "local": "",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-15986129025897035236.mp4"
    ],
@@ -346,8 +346,8 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PUBLISHED",
-   "codigo": null,
-   "local": null,
+   "codigo": "",
+   "local": "",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-14673206866958803672.mp4"
    ],
@@ -359,8 +359,8 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PUBLISHED",
-   "codigo": null,
-   "local": null,
+   "codigo": "",
+   "local": "",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-12552244425528630710.jpeg"
    ],
@@ -372,8 +372,8 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PUBLISHED",
-   "codigo": null,
-   "local": null,
+   "codigo": "",
+   "local": "",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-16235697117228162065.mp4"
    ],
@@ -385,8 +385,8 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": null,
-   "local": null,
+   "codigo": "",
+   "local": "",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-17989522316134874110.jpeg",
     "https://static.metricool.com/planner/202610/7250391-file-15808783618851209328.jpeg",
@@ -440,8 +440,8 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": null,
-   "local": null,
+   "codigo": "",
+   "local": "",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-11747972542140362840.mp4"
    ],
@@ -489,8 +489,8 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": null,
-   "local": null,
+   "codigo": "",
+   "local": "",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-8894448480188778011.mp4"
    ],
@@ -518,8 +518,8 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": null,
-   "local": null,
+   "codigo": "",
+   "local": "",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-4279328918943619755.mp4"
    ],
@@ -531,8 +531,8 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": null,
-   "local": null,
+   "codigo": "",
+   "local": "",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-17557761519831021208.mp4"
    ],
@@ -544,8 +544,8 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": null,
-   "local": null,
+   "codigo": "",
+   "local": "",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-3651528203845749295.mp4"
    ],
@@ -557,8 +557,8 @@
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
-   "codigo": null,
-   "local": null,
+   "codigo": "",
+   "local": "",
    "midias": [
     "https://static.metricool.com/planner/202610/7250391-file-4301607624038413580.mp4"
    ],
