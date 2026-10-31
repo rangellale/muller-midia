@@ -1,0 +1,26 @@
+{
+ "video": "video4.mp4 (PEDIDO 02, Drive id 1YXjFUMB7h6IdgvD6bw-1SMxstD8TB6dF)",
+ "opcoes": [
+  {
+   "opcao": 1,
+   "arquivo": "capa_1.jpg",
+   "tempo_s": 62.0,
+   "texto": false,
+   "legenda_queimada_removida": "as partes. (cv2.inpaint TELEA r9, caixa x411-669 y1199-1292)"
+  },
+  {
+   "opcao": 2,
+   "arquivo": "capa_2.jpg",
+   "tempo_s": 60.0,
+   "texto": false,
+   "legenda_queimada_removida": "acordo entre (x368-715 y1191-1275)"
+  },
+  {
+   "opcao": 3,
+   "arquivo": "capa_3.jpg",
+   "tempo_s": 58.25,
+   "texto": "SETOR JURÍDICO / dentro da Muller (capa_video.py)",
+   "legenda_queimada_removida": "elas são, (x427-653 y1191-1288)"
+  }
+ ]
+}
