@@ -1,1 +1,431 @@
-{"gerado_em": "2026-10-31T09:54:23", "posts": [{"dateTime": "2026-10-31T08:00:00", "tipo": "STORY", "draft": false, "status": "PUBLISHED", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-10-31T08:30:00", "tipo": "STORY", "draft": false, "status": "PUBLISHED", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-10-31T09:00:00", "tipo": "STORY", "draft": false, "status": "PUBLISHED", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-10-31T09:30:00", "tipo": "STORY", "draft": false, "status": "PUBLISHED", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-10-31T11:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-10-31T13:30:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-10-31T15:30:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-10-31T17:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-10-31T19:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-10-31T21:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-10-31T22:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-10-31T12:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "MU9384", "local": "Recreio dos Bandeirantes", "midias": []}, {"dateTime": "2026-10-31T06:30:00", "tipo": "POST", "draft": false, "status": "PUBLISHED", "codigo": "MU8800", "local": "Jardim do Itanhangá, Itanhangá", "midias": []}, {"dateTime": "2026-10-31T10:00:00", "tipo": "POST", "draft": false, "status": "PUBLISHED", "codigo": "MU8453", "local": "Bothanica Nature, Recreio dos Bandeirantes", "midias": []}, {"dateTime": "2026-10-31T12:30:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9399", "local": "Novo Leblon, Barra da Tijuca", "midias": []}, {"dateTime": "2026-10-31T18:00:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU6944", "local": "Nova Ipanema, Barra da Tijuca", "midias": []}, {"dateTime": "2026-10-31T20:30:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9080", "local": "Reserva do Itanhangá, Itanhangá", "midias": []}, {"dateTime": "2026-10-31T14:30:00", "tipo": "REEL", "draft": false, "status": "PENDING", "codigo": "MU9384", "local": "Recreio dos Bandeirantes", "midias": []}, {"dateTime": "2026-11-01T08:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-01T08:30:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-01T09:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-01T09:30:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-01T13:30:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-01T15:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-01T17:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-01T22:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-01T06:30:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9520", "local": "Quintas do Rio, Barra da Tijuca", "midias": []}, {"dateTime": "2026-11-01T10:00:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9720", "local": "Rio Mar, Barra da Tijuca", "midias": []}, {"dateTime": "2026-11-01T12:00:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU7994", "local": "Maramar, Recreio dos Bandeirantes", "midias": []}, {"dateTime": "2026-11-01T14:20:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU6172", "local": "Quintas do Pontal, Recreio dos Bandeirantes", "midias": []}, {"dateTime": "2026-11-01T16:30:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9881", "local": "Disegno Casas Boutique, Barra da Tijuca", "midias": []}, {"dateTime": "2026-11-01T18:00:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9569", "local": "Crystal Lake, Barra da Tijuca", "midias": []}, {"dateTime": "2026-11-01T20:30:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU8994", "local": "Riviera Del Sol, Recreio dos Bandeirantes", "midias": []}, {"dateTime": "2026-11-01T15:25:00", "tipo": "REEL", "draft": false, "status": "PENDING", "codigo": "MU9717", "local": "Riviera Del Sol, Recreio dos Bandeirantes", "midias": []}, {"dateTime": "2026-11-02T08:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-02T08:30:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-02T09:00:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-02T09:30:00", "tipo": "STORY", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-02T06:30:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU7242", "local": "Jardim do Itanhangá, Itanhangá", "midias": []}, {"dateTime": "2026-11-02T10:00:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU8952", "local": "Alameda dos Eucaliptos, Barra da Tijuca", "midias": []}, {"dateTime": "2026-11-02T12:30:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9274", "local": "Lagoa Mar Norte, Barra da Tijuca", "midias": []}, {"dateTime": "2026-11-02T14:20:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9740", "local": "Maramar, Recreio dos Bandeirantes", "midias": []}, {"dateTime": "2026-11-02T18:00:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9660", "local": "Mansões, Barra da Tijuca", "midias": []}, {"dateTime": "2026-11-02T20:30:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9666", "local": "Tangarás Recreio, Recreio dos Bandeirantes", "midias": []}, {"dateTime": "2026-11-03T06:30:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU7338", "local": "Rio Mar, Barra da Tijuca", "midias": []}, {"dateTime": "2026-11-03T12:30:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "", "local": "Recreio dos Bandeirantes", "midias": []}, {"dateTime": "2026-11-03T14:20:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "", "local": "", "midias": []}, {"dateTime": "2026-11-04T18:00:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9717", "local": "Riviera Del Sol, Recreio dos Bandeirantes", "midias": []}, {"dateTime": "2026-11-05T18:00:00", "tipo": "POST", "draft": false, "status": "PENDING", "codigo": "MU9027", "local": "Parque das Palmeiras, Recreio dos Bandeirantes", "midias": []}]}
+{
+ "gerado_em": "2026-11-05T08:51:24",
+ "posts": [
+  {
+   "dateTime": "2026-11-05T06:48:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU9318",
+   "local": "Bothanica Nature, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 9,
+   "url": "https://www.instagram.com/p/DfWvz6xl-l8/"
+  },
+  {
+   "dateTime": "2026-11-05T07:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4023634880180554726"
+  },
+  {
+   "dateTime": "2026-11-05T07:45:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4023642092824122699"
+  },
+  {
+   "dateTime": "2026-11-05T08:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4023651203749600453"
+  },
+  {
+   "dateTime": "2026-11-05T08:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Dicas Barra da Tijuca",
+   "midias": [],
+   "n_midias": 7,
+   "url": "https://www.instagram.com/p/DfW4jEMF1eL/"
+  },
+  {
+   "dateTime": "2026-11-05T08:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4023665366697728414"
+  },
+  {
+   "dateTime": "2026-11-05T09:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8991",
+   "local": "Concetto Bianco, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 10
+  },
+  {
+   "dateTime": "2026-11-05T09:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T09:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T10:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9857",
+   "local": "Kaasas Pedra da Gávea, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 13
+  },
+  {
+   "dateTime": "2026-11-05T10:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T11:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9931",
+   "local": "Sunrise, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 11
+  },
+  {
+   "dateTime": "2026-11-05T12:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Dicas condominios Recreio",
+   "midias": [],
+   "n_midias": 7
+  },
+  {
+   "dateTime": "2026-11-05T12:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T13:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9669",
+   "local": "Mansões, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 8
+  },
+  {
+   "dateTime": "2026-11-05T13:00:00",
+   "tipo": "POST",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "4 oportunidades Recreio (cancelado)",
+   "midias": [],
+   "n_midias": 5
+  },
+  {
+   "dateTime": "2026-11-05T13:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T14:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9444",
+   "local": "Art Life, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 13
+  },
+  {
+   "dateTime": "2026-11-05T14:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T15:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9779",
+   "local": "Blue Houses, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 12
+  },
+  {
+   "dateTime": "2026-11-05T15:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T16:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Dicas Barra ou Recreio",
+   "midias": [],
+   "n_midias": 6
+  },
+  {
+   "dateTime": "2026-11-05T16:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T17:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8550",
+   "local": "Quintas Do Rio, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 10
+  },
+  {
+   "dateTime": "2026-11-05T17:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T18:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU51021",
+   "local": "Golden Green, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 12
+  },
+  {
+   "dateTime": "2026-11-05T18:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T20:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU40885",
+   "local": "Cyano Exclusive Residence, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 20
+  },
+  {
+   "dateTime": "2026-11-05T20:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T21:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9782",
+   "local": "Jardim Ibiza, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 12
+  },
+  {
+   "dateTime": "2026-11-05T21:00:00",
+   "tipo": "POST",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "4 oportunidades Barra (cancelado)",
+   "midias": [],
+   "n_midias": 5
+  },
+  {
+   "dateTime": "2026-11-05T22:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Dicas casa nova ou reformar",
+   "midias": [],
+   "n_midias": 7
+  },
+  {
+   "dateTime": "2026-11-05T22:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-05T22:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-06T08:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-06T08:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-06T09:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-06T09:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-06T13:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-06T14:20:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Dicas 5 condominios Recreio",
+   "midias": [],
+   "n_midias": 7
+  },
+  {
+   "dateTime": "2026-11-07T11:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-07T18:00:00",
+   "tipo": "POST",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "MU9399",
+   "local": "Novo Leblon, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 10
+  }
+ ]
+}
