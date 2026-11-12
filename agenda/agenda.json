@@ -1,265 +1,360 @@
 {
- "gerado_em": "2026-11-10T07:50:00",
+ "gerado_em": "2026-11-12T07:55:00",
  "posts": [
   {
-   "dateTime": "2026-11-10T07:30:00",
+   "dateTime": "2026-11-12T07:45:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
-   "midias": [],
-   "n_midias": 1
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-5221455981553357884.mp4"
+   ],
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4028715603270466345"
   },
   {
-   "dateTime": "2026-11-10T07:45:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T08:00:00",
+   "dateTime": "2026-11-12T08:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU9947",
-   "local": "Art Life, Recreio dos Bandeirantes",
+   "codigo": "MU40843",
+   "local": "Riserva Uno, Barra da Tijuca",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-12213167613617314417.jpeg"
+   ],
+   "n_midias": 13,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T08:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-6806755468740180101.mp4"
+   ],
+   "n_midias": 1,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T08:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-12459430245689901907.mp4"
+   ],
+   "n_midias": 1,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T09:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9511",
+   "local": "Sofisticato, Recreio dos Bandeirantes",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-3018100966285936943.jpeg"
+   ],
+   "n_midias": 14,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T09:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-7105681594065473208.mp4"
+   ],
+   "n_midias": 1,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T09:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-13584177578623291751.mp4"
+   ],
+   "n_midias": 1,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T10:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8120",
+   "local": "Pedra Bonita, Recreio dos Bandeirantes",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-5841306019286035092.jpeg"
+   ],
+   "n_midias": 12,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T11:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU51024",
+   "local": "Onda Carioca, Recreio dos Bandeirantes",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-1907157759460832183.jpeg"
+   ],
+   "n_midias": 14,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T12:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-1097709723302970186.jpeg"
+   ],
+   "n_midias": 5,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T13:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7621",
+   "local": "Bothanica Nature, Recreio dos Bandeirantes",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-9331497179646088672.jpeg"
+   ],
+   "n_midias": 12,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T14:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9958",
+   "local": "Villa Blanca, Recreio dos Bandeirantes",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-4444542089191798592.jpeg"
+   ],
+   "n_midias": 11,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T15:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU50952",
+   "local": "Jardim Oceânico, Barra da Tijuca",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-17505815913120776558.jpeg"
+   ],
+   "n_midias": 16,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T15:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-16688460683683690862.mp4"
+   ],
+   "n_midias": 1,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T16:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-870280979407362698.jpeg"
+   ],
+   "n_midias": 6,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T16:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-11292381517619572239.mp4"
+   ],
+   "n_midias": 1,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T16:30:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-16591589108407236102.mp4"
+   ],
+   "n_midias": 1,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T17:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7228",
+   "local": "Malibu, Barra da Tijuca",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-5066969177488210462.jpeg"
+   ],
+   "n_midias": 13,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T18:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU306963",
+   "local": "Riserva Golf, Barra da Tijuca",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-6660084056634508082.jpeg"
+   ],
+   "n_midias": 12,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T19:00:00",
+   "tipo": "REEL",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-12658125752942877437.mp4"
+   ],
+   "n_midias": 1,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T19:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8359",
+   "local": "Mônaco, Barra da Tijuca",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-10609034280623681631.jpeg"
+   ],
+   "n_midias": 12,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T20:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU307035",
+   "local": "Oceana Golf, Barra da Tijuca",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-1302814773229715846.jpeg"
+   ],
+   "n_midias": 12,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T21:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-1223342831309754561.jpeg"
+   ],
+   "n_midias": 9,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T22:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU6665",
+   "local": "Wimbledon Park, Barra da Tijuca",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-15018102183893369001.jpeg"
+   ],
+   "n_midias": 13,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-12T22:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [
+    "https://static.metricool.com/planner/202611/7250391-file-13953134581771683384.mp4"
+   ],
+   "n_midias": 1,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-13T09:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8779",
+   "local": "Jardins de Maria",
    "midias": [],
    "n_midias": 13
   },
   {
-   "dateTime": "2026-11-10T08:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T08:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T09:00:00",
+   "dateTime": "2026-11-13T10:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "",
-   "local": "Dica: financiamento",
-   "midias": [],
-   "n_midias": 7
-  },
-  {
-   "dateTime": "2026-11-10T09:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T09:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T09:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T10:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU8808",
-   "local": "Reserva do Itanhangá, Itanhangá",
-   "midias": [],
-   "n_midias": 14
-  },
-  {
-   "dateTime": "2026-11-10T10:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T11:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU7523",
-   "local": "Parque das Palmeiras, Recreio dos Bandeirantes",
+   "codigo": "MU8770",
+   "local": "Sagrada Família",
    "midias": [],
    "n_midias": 13
   },
   {
-   "dateTime": "2026-11-10T12:00:00",
+   "dateTime": "2026-11-13T11:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "",
-   "local": "Dica: vender",
-   "midias": [],
-   "n_midias": 7
-  },
-  {
-   "dateTime": "2026-11-10T12:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T13:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9593",
-   "local": "Del Lago, Barra da Tijuca",
+   "codigo": "MU9283",
+   "local": "Bothanica Nature",
    "midias": [],
    "n_midias": 13
-  },
-  {
-   "dateTime": "2026-11-10T13:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T14:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9962",
-   "local": "Nova Barra, Recreio dos Bandeirantes",
-   "midias": [],
-   "n_midias": 12
-  },
-  {
-   "dateTime": "2026-11-10T14:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T15:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9265",
-   "local": "Portinho do Massaru, Itanhangá",
-   "midias": [],
-   "n_midias": 13
-  },
-  {
-   "dateTime": "2026-11-10T15:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T16:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Dica: certidão",
-   "midias": [],
-   "n_midias": 7
-  },
-  {
-   "dateTime": "2026-11-10T16:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T17:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T21:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-10T22:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Dica: casa grande ou menor",
-   "midias": [],
-   "n_midias": 7
-  },
-  {
-   "dateTime": "2026-11-10T22:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 1
   }
  ]
 }
