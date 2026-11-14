@@ -1,0 +1,72 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Escolha da capa</title>
+<link rel="icon" href="../inicio/logo.png">
+<style>
+  body{margin:0;min-height:100svh;display:flex;align-items:center;justify-content:center;background:#000;color:#F5F3EE;
+       font-family:-apple-system,BlinkMacSystemFont,"Helvetica Neue",Helvetica,Arial,sans-serif;text-align:center;padding:24px 16px}
+  main{max-width:420px;width:100%}
+  img.logo{width:70%;max-width:300px;height:auto;margin-bottom:28px}
+  .k{font-size:12px;letter-spacing:.2em;text-transform:uppercase;color:#86868b;margin-bottom:10px}
+  h1{font-size:26px;font-weight:600;margin:0 0 10px}
+  p{font-size:16px;line-height:1.6;color:#E6D4A8;margin:0 0 22px}
+  a.b{display:block;padding:16px 20px;border-radius:12px;text-decoration:none;font-weight:600;font-size:17px;margin-bottom:12px;background:#C9A961;color:#000}
+  .fio{margin:30px auto 0;width:48px;height:1px;background:#C9A961}
+  .hide{display:none}
+</style>
+</head>
+<body>
+<main>
+  <img class="logo" src="../inicio/logo.png" alt="">
+  <div class="k">Pasta <span id="num">--</span></div>
+  <div id="pendente">
+    <h1>Capas em preparação</h1>
+    <p>A Muller está gerando a legenda e as 3 opções de capa do seu vídeo. Leva até 1 hora depois do envio.<br>Esta página atualiza sozinha. Deixe aberta ou volte pelo mesmo link.</p>
+  </div>
+  <div id="pronto" class="hide">
+    <h1>Escolha a capa do seu Reel</h1>
+    <p id="data"></p>
+    <a class="b" id="abrir" href="#">Ver as capas e escolher</a>
+  </div>
+  <div id="concluido" class="hide">
+    <h1>Capa escolhida</h1>
+    <p id="data2">Este pedido já foi concluído e o Reel está agendado.</p>
+  </div>
+  <div id="semnum" class="hide">
+    <h1>Número da pasta</h1>
+    <p>Abra o link do e-mail ou acrescente o número da pasta ao endereço: <b>?p=02</b></p>
+  </div>
+  <div class="fio"></div>
+</main>
+<script>
+  var q = new URLSearchParams(location.search).get('p') || '';
+  var num = (q.replace(/\D/g, '') || '').padStart(2, '0');
+  function show(id){ ['pendente','pronto','concluido','semnum'].forEach(function(x){ document.getElementById(x).className = (x===id?'':'hide'); }); }
+  function carregar(){
+    if (!q) { show('semnum'); return; }
+    document.getElementById('num').textContent = num;
+    fetch('capas.json?t=' + Date.now(), {cache:'no-store'})
+      .then(function(r){ return r.json(); })
+      .then(function(j){
+        var it = j[num];
+        if (!it) { show('pendente'); return; }
+        if (it.estado === 'pronto' && it.url) {
+          document.getElementById('abrir').href = it.url;
+          document.getElementById('data').textContent = it.data ? ('Reel previsto para ' + it.data + '.') : '';
+          show('pronto');
+        } else if (it.estado === 'concluido') {
+          if (it.data) document.getElementById('data2').textContent = 'Reel agendado para ' + it.data + '.';
+          show('concluido');
+        } else { show('pendente'); }
+      })
+      .catch(function(){ show('pendente'); });
+  }
+  carregar();
+  setInterval(carregar, 60000);
+</script>
+</body>
+</html>
