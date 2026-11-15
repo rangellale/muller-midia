@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-15T19:52",
+ "gerado_em": "2026-11-15T18:15",
  "posts": [
   {
    "dateTime": "2026-11-15T06:30:00",
@@ -309,40 +309,40 @@
    "dateTime": "2026-11-15T17:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9902",
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": [
     "https://static.metricool.com/planner/202611/7250391-file-15934329156665618392.jpeg"
    ],
    "n_midias": 10,
-   "url": ""
+   "url": "https://www.instagram.com/p/DfxmJcKG1f2/"
   },
   {
    "dateTime": "2026-11-15T17:15:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [
     "https://static.metricool.com/planner/202611/7250391-file-948602237614755605.mp4"
    ],
    "n_midias": 1,
-   "url": ""
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4031177278767153596"
   },
   {
    "dateTime": "2026-11-15T18:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [
     "https://static.metricool.com/planner/202611/7250391-file-3896799239770391342.jpeg"
    ],
    "n_midias": 7,
-   "url": ""
+   "url": "https://www.instagram.com/p/DfxtC2Qm7NP/"
   },
   {
    "dateTime": "2026-11-15T18:15:00",
