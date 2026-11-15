@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-15T15:50:00",
+ "gerado_em": "2026-11-15T19:52",
  "posts": [
   {
    "dateTime": "2026-11-15T06:30:00",
@@ -270,14 +270,14 @@
    "dateTime": "2026-11-15T16:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU8119",
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": [
     "https://static.metricool.com/planner/202611/7250391-file-7633206079383338713.jpeg"
    ],
    "n_midias": 10,
-   "url": ""
+   "url": "https://www.instagram.com/p/DfxfkjxG35s/"
   },
   {
    "dateTime": "2026-11-15T16:15:00",
@@ -296,14 +296,14 @@
    "dateTime": "2026-11-15T16:30:00",
    "tipo": "REEL",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU7520",
    "local": "Santa Monica Jardins, Barra da Tijuca",
    "midias": [
     "https://static.metricool.com/planner/202611/7250391-file-14614615502291294278.mp4"
    ],
    "n_midias": 1,
-   "url": ""
+   "url": "https://www.instagram.com/reel/DfxiX1JDvgE/"
   },
   {
    "dateTime": "2026-11-15T17:00:00",
@@ -1188,6 +1188,94 @@
     "https://static.metricool.com/planner/202611/7250391-file-16911563590519452395.jpeg"
    ],
    "n_midias": 13
+  },
+  {
+   "dateTime": "2026-11-18T06:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU90132",
+   "local": "",
+   "midias": [],
+   "n_midias": 9,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-18T08:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9844",
+   "local": "",
+   "midias": [],
+   "n_midias": 12,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-18T10:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8552",
+   "local": "",
+   "midias": [],
+   "n_midias": 13,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-18T12:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9911",
+   "local": "",
+   "midias": [],
+   "n_midias": 11,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-18T14:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9543",
+   "local": "",
+   "midias": [],
+   "n_midias": 11,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-18T17:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9773",
+   "local": "",
+   "midias": [],
+   "n_midias": 12,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-18T19:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8346",
+   "local": "",
+   "midias": [],
+   "n_midias": 13,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-18T21:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU6270",
+   "local": "",
+   "midias": [],
+   "n_midias": 13,
+   "url": ""
   }
  ]
 }
