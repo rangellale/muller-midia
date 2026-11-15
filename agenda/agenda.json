@@ -1,551 +1,38 @@
 {
- "gerado_em": "2026-11-14T21:05:00",
+ "gerado_em": "2026-11-15T07:55:00",
  "posts": [
-  {
-   "dateTime": "2026-11-14T06:30:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU8591",
-   "local": "Pedra de Itaúna, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.jpeg"
-   ],
-   "n_midias": 10,
-   "url": "https://www.instagram.com/p/Dft4__lCfe3/"
-  },
-  {
-   "dateTime": "2026-11-14T07:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T07:45:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T08:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9700",
-   "local": "Village Marapendi, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.jpeg"
-   ],
-   "n_midias": 10,
-   "url": "https://www.instagram.com/p/DfuDm_omzMe/"
-  },
-  {
-   "dateTime": "2026-11-14T08:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T08:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T09:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU7083",
-   "local": "Joá, Rio de Janeiro",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.jpeg"
-   ],
-   "n_midias": 10,
-   "url": "https://www.instagram.com/p/DfuKck1G5a-/"
-  },
-  {
-   "dateTime": "2026-11-14T09:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T09:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T09:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T10:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9295",
-   "local": "Riviera Del Sol, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.jpeg"
-   ],
-   "n_midias": 10,
-   "url": "https://www.instagram.com/p/DfuRW5bG5eG/"
-  },
-  {
-   "dateTime": "2026-11-14T10:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T11:00:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU81293",
-   "local": "Joá, Rio de Janeiro",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-11445863785539784958.mp4"
-   ],
-   "n_midias": 1,
-   "url": "https://www.instagram.com/reel/DfuYPO1CTz3/"
-  },
-  {
-   "dateTime": "2026-11-14T11:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T12:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.jpeg"
-   ],
-   "n_midias": 10,
-   "url": "https://www.instagram.com/p/DfufZTsm9jK/"
-  },
-  {
-   "dateTime": "2026-11-14T12:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T12:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T13:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9253",
-   "local": "Del Lago, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-7047560254050108072.jpeg"
-   ],
-   "n_midias": 12,
-   "url": "https://www.instagram.com/p/DfumTWGm-Ei/"
-  },
-  {
-   "dateTime": "2026-11-14T13:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-3629711257941990498.mp4"
-   ],
-   "n_midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4030339053471333663"
-  },
-  {
-   "dateTime": "2026-11-14T14:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9517",
-   "local": "Quintas do Rio, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-4966768363852454599.jpeg"
-   ],
-   "n_midias": 14,
-   "url": "https://www.instagram.com/p/DfutFI_m67Q/"
-  },
-  {
-   "dateTime": "2026-11-14T14:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-13336847794441437310.mp4"
-   ],
-   "n_midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4030361460106922481"
-  },
-  {
-   "dateTime": "2026-11-14T15:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9945",
-   "local": "Pontal, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-4237050019706126371.jpeg"
-   ],
-   "n_midias": 12,
-   "url": "https://www.instagram.com/p/Dfuzw3UG5MO/"
-  },
-  {
-   "dateTime": "2026-11-14T15:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-2534563981576218250.mp4"
-   ],
-   "n_midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4030391684361902248"
-  },
-  {
-   "dateTime": "2026-11-14T15:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-2134827480404359702.mp4"
-   ],
-   "n_midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4030399476153244427"
-  },
-  {
-   "dateTime": "2026-11-14T16:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU8984",
-   "local": "Green Coast, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-6696728036363538789.jpeg"
-   ],
-   "n_midias": 12,
-   "url": "https://www.instagram.com/p/Dfu6tKOG9_t/"
-  },
-  {
-   "dateTime": "2026-11-14T16:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-14789924485061279348.mp4"
-   ],
-   "n_midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4030422047481866750"
-  },
-  {
-   "dateTime": "2026-11-14T16:30:00",
-   "tipo": "REEL",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU8195",
-   "local": "Blue Houses e Disegno Casas Boutique, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-12306814012491454616.mp4"
-   ],
-   "n_midias": 1,
-   "url": "https://www.instagram.com/reel/Dfu9ljhAvt8/"
-  },
-  {
-   "dateTime": "2026-11-14T17:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "Interlagos de Itaúna, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-4327815459748491359.jpeg"
-   ],
-   "n_midias": 5,
-   "url": "https://www.instagram.com/p/DfvBQuhG9LP/"
-  },
-  {
-   "dateTime": "2026-11-14T17:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-10274222936868250984.mp4"
-   ],
-   "n_midias": 1,
-   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4030452003846940182"
-  },
-  {
-   "dateTime": "2026-11-14T18:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9083",
-   "local": "Parque das Palmeiras, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-3411449858473789120.jpeg"
-   ],
-   "n_midias": 10,
-   "url": "https://www.instagram.com/p/DfvIR64Gxo5/"
-  },
-  {
-   "dateTime": "2026-11-14T19:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU7166",
-   "local": "Verdes e Mar, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-5149261534244610285.jpeg"
-   ],
-   "n_midias": 13,
-   "url": "https://www.instagram.com/p/DfvPCiUmx6r/"
-  },
-  {
-   "dateTime": "2026-11-14T20:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU8824",
-   "local": "Reserva do Itanhangá, Itanhangá",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-5685601936487953911.jpeg"
-   ],
-   "n_midias": 14,
-   "url": "https://www.instagram.com/p/DfvV6oAG6He/"
-  },
-  {
-   "dateTime": "2026-11-14T21:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-3081352669592872297.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T21:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-13148464894738062746.jpeg"
-   ],
-   "n_midias": 9,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T21:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-2902518854576774432.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T22:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9441",
-   "local": "Crystal Lake, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-6120978263111869782.jpeg"
-   ],
-   "n_midias": 14,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T22:00:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-4584568042695721079.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T22:30:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-8968753298951997082.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-14T23:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9622",
-   "local": "Mansões, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-3578375770311797552.jpeg"
-   ],
-   "n_midias": 13,
-   "url": ""
-  },
   {
    "dateTime": "2026-11-15T06:30:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU7683",
    "local": "Condomínio na Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-14150007943941719207.jpeg"
-   ],
-   "n_midias": 10,
-   "url": ""
+   "midias": [],
+   "n_midias": 11,
+   "url": "https://www.instagram.com/p/DfwdyXSG02C/"
   },
   {
    "dateTime": "2026-11-15T07:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
-   "url": ""
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4030882484728432310"
   },
   {
    "dateTime": "2026-11-15T07:45:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
-   "url": ""
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4030889829146431542"
   },
   {
    "dateTime": "2026-11-15T08:00:00",
@@ -554,9 +41,7 @@
    "status": "PENDING",
    "codigo": "MU9619",
    "local": "Villa Blanca II, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-3840797033530153771.jpeg"
-   ],
+   "midias": [],
    "n_midias": 10,
    "url": ""
   },
@@ -567,9 +52,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
    "url": ""
   },
@@ -580,9 +63,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
    "url": ""
   },
@@ -593,10 +74,8 @@
    "status": "PENDING",
    "codigo": "MU40801",
    "local": "Costa del Sol, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-4443825462537270395.jpeg"
-   ],
-   "n_midias": 10,
+   "midias": [],
+   "n_midias": 12,
    "url": ""
   },
   {
@@ -606,9 +85,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
    "url": ""
   },
@@ -619,9 +96,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
    "url": ""
   },
@@ -632,9 +107,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
    "url": ""
   },
@@ -645,10 +118,8 @@
    "status": "PENDING",
    "codigo": "MU9283",
    "local": "Bothanica Nature, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-8169006228411467751.jpeg"
-   ],
-   "n_midias": 10,
+   "midias": [],
+   "n_midias": 13,
    "url": ""
   },
   {
@@ -658,9 +129,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
    "url": ""
   },
@@ -671,10 +140,8 @@
    "status": "PENDING",
    "codigo": "MU90284",
    "local": "Village Marapendi, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-13390908931875764976.jpeg"
-   ],
-   "n_midias": 10,
+   "midias": [],
+   "n_midias": 13,
    "url": ""
   },
   {
@@ -684,9 +151,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
    "url": ""
   },
@@ -697,10 +162,8 @@
    "status": "PENDING",
    "codigo": "MU90132",
    "local": "Blue Houses, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-1335258862605670333.jpeg"
-   ],
-   "n_midias": 10,
+   "midias": [],
+   "n_midias": 9,
    "url": ""
   },
   {
@@ -710,9 +173,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
    "url": ""
   },
@@ -816,19 +277,6 @@
    "local": "",
    "midias": [
     "https://static.metricool.com/planner/202611/7250391-file-10099349436301520638.mp4"
-   ],
-   "n_midias": 1,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-15T16:30:00",
-   "tipo": "REEL",
-   "draft": true,
-   "status": "PENDING",
-   "codigo": "MU8649",
-   "local": "Maramar, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-15116116471154773406.mp4"
    ],
    "n_midias": 1,
    "url": ""
@@ -1022,10 +470,8 @@
    "status": "PENDING",
    "codigo": "MU9290",
    "local": "Art Life, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-10915332372249653151.jpeg"
-   ],
-   "n_midias": 11,
+   "midias": [],
+   "n_midias": 10,
    "url": ""
   },
   {
@@ -1035,9 +481,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
    "url": ""
   },
@@ -1048,9 +492,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-x.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
    "url": ""
   },
@@ -1061,10 +503,8 @@
    "status": "PENDING",
    "codigo": "MU9337",
    "local": "Maramar, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-14925190150279163252.jpeg"
-   ],
-   "n_midias": 11,
+   "midias": [],
+   "n_midias": 12,
    "url": ""
   },
   {
@@ -1074,10 +514,8 @@
    "status": "PENDING",
    "codigo": "MU8817",
    "local": "Villaggio Felicitá, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-13436924529593281793.jpeg"
-   ],
-   "n_midias": 11,
+   "midias": [],
+   "n_midias": 12,
    "url": ""
   },
   {
@@ -1087,9 +525,7 @@
    "status": "PENDING",
    "codigo": "MU9497",
    "local": "Village Marapendi, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-7498908975395507931.jpeg"
-   ],
+   "midias": [],
    "n_midias": 11,
    "url": ""
   },
@@ -1100,9 +536,7 @@
    "status": "PENDING",
    "codigo": "MU9884",
    "local": "Green Place, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-16477265883498999209.jpeg"
-   ],
+   "midias": [],
    "n_midias": 11,
    "url": ""
   },
@@ -1113,10 +547,8 @@
    "status": "PENDING",
    "codigo": "MU9949",
    "local": "Concetto Nero, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-10868108245756410811.jpeg"
-   ],
-   "n_midias": 11,
+   "midias": [],
+   "n_midias": 12,
    "url": ""
   },
   {
