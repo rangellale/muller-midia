@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-15T18:15",
+ "gerado_em": "2026-11-15T18:55",
  "posts": [
   {
    "dateTime": "2026-11-15T06:30:00",
@@ -348,14 +348,14 @@
    "dateTime": "2026-11-15T18:15:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [
     "https://static.metricool.com/planner/202611/7250391-file-17866162391616453085.mp4"
    ],
    "n_midias": 1,
-   "url": ""
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4031206967418516137"
   },
   {
    "dateTime": "2026-11-15T19:00:00",
@@ -916,15 +916,153 @@
    "url": ""
   },
   {
+   "dateTime": "2026-11-17T06:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9799",
+   "local": "Village Marapendi, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 13
+  },
+  {
+   "dateTime": "2026-11-17T07:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-17T07:45:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-17T08:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7691",
+   "local": "Condomínio Mandala, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 13
+  },
+  {
+   "dateTime": "2026-11-17T08:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-17T08:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-17T09:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9878",
+   "local": "Green Place, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 12
+  },
+  {
+   "dateTime": "2026-11-17T09:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-17T09:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-17T09:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-17T10:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 6
+  },
+  {
+   "dateTime": "2026-11-17T10:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-17T11:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9916",
+   "local": "Condomínio Rio Mar, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 11
+  },
+  {
+   "dateTime": "2026-11-17T12:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7639",
+   "local": "Maramar, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 12
+  },
+  {
    "dateTime": "2026-11-17T12:30:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-7092639332699576900.mp4"
-   ],
+   "midias": [],
    "n_midias": 1
   },
   {
@@ -934,9 +1072,7 @@
    "status": "PENDING",
    "codigo": "MU900208",
    "local": "Condomínio Reserva do Itanhangá",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-17192365740383968626.jpeg"
-   ],
+   "midias": [],
    "n_midias": 12
   },
   {
@@ -946,9 +1082,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-16469505107235334328.mp4"
-   ],
+   "midias": [],
    "n_midias": 1
   },
   {
@@ -958,9 +1092,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-7974487757661644389.jpeg"
-   ],
+   "midias": [],
    "n_midias": 9
   },
   {
@@ -970,9 +1102,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-14735002325928450565.mp4"
-   ],
+   "midias": [],
    "n_midias": 1
   },
   {
@@ -982,9 +1112,7 @@
    "status": "PENDING",
    "codigo": "MU7082",
    "local": "Carmel Village, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-6157589201455430505.jpeg"
-   ],
+   "midias": [],
    "n_midias": 11
   },
   {
@@ -994,9 +1122,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-6966156146731744310.mp4"
-   ],
+   "midias": [],
    "n_midias": 1
   },
   {
@@ -1006,9 +1132,7 @@
    "status": "PENDING",
    "codigo": "MU8295",
    "local": "Condomínio Sagrada Família, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-5995512873650977326.jpeg"
-   ],
+   "midias": [],
    "n_midias": 9
   },
   {
@@ -1018,9 +1142,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-17023471055639726359.mp4"
-   ],
+   "midias": [],
    "n_midias": 1
   },
   {
@@ -1030,9 +1152,7 @@
    "status": "PENDING",
    "codigo": "MU8733",
    "local": "Condomínio Mansões, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-17800502299226905541.mp4"
-   ],
+   "midias": [],
    "n_midias": 1
   },
   {
@@ -1042,9 +1162,7 @@
    "status": "PENDING",
    "codigo": "MU8068",
    "local": "Condomínio Nova Ipanema, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-7030265683116601231.jpeg"
-   ],
+   "midias": [],
    "n_midias": 12
   },
   {
@@ -1054,9 +1172,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-14282579210500582964.mp4"
-   ],
+   "midias": [],
    "n_midias": 1
   },
   {
@@ -1066,9 +1182,7 @@
    "status": "PENDING",
    "codigo": "MU9706",
    "local": "Pedra de Itaúna, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-6965178631254701254.jpeg"
-   ],
+   "midias": [],
    "n_midias": 13
   },
   {
@@ -1078,9 +1192,7 @@
    "status": "PENDING",
    "codigo": "MU9751",
    "local": "Condomínio Lagoa Mar Norte, Barra da Tijuca",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-10245071458905405254.jpeg"
-   ],
+   "midias": [],
    "n_midias": 11
   },
   {
@@ -1090,9 +1202,7 @@
    "status": "PENDING",
    "codigo": "MU9738",
    "local": "Condomínio Jardins Barra Bonita, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-2637384967786715346.jpeg"
-   ],
+   "midias": [],
    "n_midias": 13
   },
   {
@@ -1102,9 +1212,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-8448344024581023828.mp4"
-   ],
+   "midias": [],
    "n_midias": 1
   },
   {
@@ -1114,25 +1222,11 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-10320662847351657798.jpeg"
-   ],
+   "midias": [],
    "n_midias": 7
   },
   {
    "dateTime": "2026-11-17T21:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-6316726977185333805.mp4"
-   ],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-17T22:00:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
@@ -1148,9 +1242,7 @@
    "status": "PENDING",
    "codigo": "MU7130",
    "local": "Condomínio Parque das Palmeiras, Recreio dos Bandeirantes",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-17083173618587211090.jpeg"
-   ],
+   "midias": [],
    "n_midias": 10
   },
   {
@@ -1160,9 +1252,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-4487156299350186481.mp4"
-   ],
+   "midias": [],
    "n_midias": 1
   },
   {
@@ -1172,9 +1262,7 @@
    "status": "PENDING",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-7626118896388449735.mp4"
-   ],
+   "midias": [],
    "n_midias": 1
   },
   {
@@ -1184,9 +1272,7 @@
    "status": "PENDING",
    "codigo": "MU9143",
    "local": "Condomínio Green Wood",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-16911563590519452395.jpeg"
-   ],
+   "midias": [],
    "n_midias": 13
   },
   {
