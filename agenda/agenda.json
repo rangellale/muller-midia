@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T16:55",
+ "gerado_em": "2026-11-16T17:05",
  "posts": [
   {
    "dateTime": "2026-11-16T06:30:00",
@@ -190,11 +190,12 @@
    "dateTime": "2026-11-16T16:30:00",
    "tipo": "REEL",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU6898",
    "local": "Santa Monica Jardins, Barra da Tijuca",
    "midias": [],
-   "n_midias": 1
+   "n_midias": 1,
+   "url": "https://www.instagram.com/reel/Df0HLW8kveA/"
   },
   {
    "dateTime": "2026-11-16T17:00:00",
@@ -709,6 +710,16 @@
    "url": ""
   },
   {
+   "dateTime": "2026-11-18T08:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9468",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
    "dateTime": "2026-11-18T08:15:00",
    "tipo": "STORY",
    "draft": false,
@@ -759,6 +770,16 @@
    "n_midias": 1
   },
   {
+   "dateTime": "2026-11-18T09:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9861",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
    "dateTime": "2026-11-18T10:00:00",
    "tipo": "POST",
    "draft": false,
@@ -800,6 +821,16 @@
    "n_midias": 11
   },
   {
+   "dateTime": "2026-11-18T12:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8831",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
    "dateTime": "2026-11-18T13:00:00",
    "tipo": "POST",
    "draft": false,
@@ -830,6 +861,26 @@
    "n_midias": 11
   },
   {
+   "dateTime": "2026-11-18T14:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9543",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-18T14:45:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8731",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
    "dateTime": "2026-11-18T15:00:00",
    "tipo": "POST",
    "draft": false,
@@ -838,6 +889,16 @@
    "local": "São Conrado, Rio de Janeiro",
    "midias": [],
    "n_midias": 12
+  },
+  {
+   "dateTime": "2026-11-18T15:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7485",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-18T16:00:00",
@@ -868,6 +929,16 @@
    "local": "Condomínio Planície do Araguaia, Recreio dos Bandeirantes",
    "midias": [],
    "n_midias": 12
+  },
+  {
+   "dateTime": "2026-11-18T17:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9773",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-18T18:00:00",
@@ -990,6 +1061,16 @@
    "n_midias": 15
   },
   {
+   "dateTime": "2026-11-19T10:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9761",
+   "local": "Art Life, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 16
+  },
+  {
    "dateTime": "2026-11-19T11:00:00",
    "tipo": "POST",
    "draft": false,
@@ -1018,6 +1099,16 @@
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": [],
    "n_midias": 13
+  },
+  {
+   "dateTime": "2026-11-19T14:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9668",
+   "local": "Barra de Itauna, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 10
   },
   {
    "dateTime": "2026-11-19T16:00:00",
@@ -1060,12 +1151,32 @@
    "n_midias": 15
   },
   {
+   "dateTime": "2026-11-19T19:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9766",
+   "local": "Portofino, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 14
+  },
+  {
    "dateTime": "2026-11-19T20:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
    "codigo": "MU40810",
    "local": "Península, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 14
+  },
+  {
+   "dateTime": "2026-11-19T21:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9835",
+   "local": "Villa Verde, Barra da Tijuca",
    "midias": [],
    "n_midias": 14
   },
