@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T13:58",
+ "gerado_em": "2026-11-16T16:55",
  "posts": [
   {
    "dateTime": "2026-11-16T06:30:00",
@@ -82,118 +82,89 @@
    "dateTime": "2026-11-16T12:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9949",
-   "local": "Concetto Nero, Recreio dos Bandeirantes",
+   "status": "PUBLISHED",
+   "codigo": "MU9717",
+   "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 12,
-   "url": ""
+   "n_midias": 10,
+   "url": "https://www.instagram.com/p/DfzpORgG65B/"
   },
   {
    "dateTime": "2026-11-16T12:30:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-5447733403635841429.mp4"
-   ],
-   "n_midias": 1
-  },
-  {
-   "dateTime": "2026-11-16T13:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-11799938797530185695.jpeg"
-   ],
-   "n_midias": 7,
-   "url": ""
-  },
-  {
-   "dateTime": "2026-11-16T13:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-11799938797530185695.jpeg"
-   ],
-   "n_midias": 7
-  },
-  {
-   "dateTime": "2026-11-16T13:15:00",
-   "tipo": "STORY",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-12468838105745116354.mp4"
-   ],
+   "midias": [],
    "n_midias": 1,
-   "url": ""
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4031758286910533148"
+  },
+  {
+   "dateTime": "2026-11-16T13:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 7,
+   "url": "https://www.instagram.com/p/Dfzv_rvm542/"
   },
   {
    "dateTime": "2026-11-16T13:15:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
-   "midias": [
-    "https://static.metricool.com/planner/202611/7250391-file-12468838105745116354.mp4"
-   ],
-   "n_midias": 1
+   "midias": [],
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4031780684922305195"
   },
   {
    "dateTime": "2026-11-16T14:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU50771",
    "local": "Península, Barra da Tijuca",
    "midias": [],
    "n_midias": 11,
-   "url": ""
+   "url": "https://www.instagram.com/p/Dfz2liAm-go/"
   },
   {
    "dateTime": "2026-11-16T14:15:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [],
    "n_midias": 1,
-   "url": ""
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4031810743754100709"
   },
   {
    "dateTime": "2026-11-16T15:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU8116",
    "local": "Villagio Del Mare, Recreio dos Bandeirantes",
    "midias": [],
    "n_midias": 11,
-   "url": ""
+   "url": "https://www.instagram.com/p/Dfz9n9lm0fs/"
   },
   {
    "dateTime": "2026-11-16T15:15:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [],
    "n_midias": 1,
-   "url": ""
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4031841085399730796"
   },
   {
    "dateTime": "2026-11-16T16:00:00",
@@ -203,8 +174,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 6,
-   "url": ""
+   "n_midias": 6
   },
   {
    "dateTime": "2026-11-16T16:15:00",
@@ -214,8 +184,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-16T16:30:00",
@@ -225,8 +194,7 @@
    "codigo": "MU6898",
    "local": "Santa Monica Jardins, Barra da Tijuca",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-16T17:00:00",
@@ -236,8 +204,7 @@
    "codigo": "MU7233",
    "local": "Jardim do Itanhangá, Itanhangá",
    "midias": [],
-   "n_midias": 11,
-   "url": ""
+   "n_midias": 11
   },
   {
    "dateTime": "2026-11-16T17:15:00",
@@ -247,8 +214,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-16T18:00:00",
@@ -258,8 +224,7 @@
    "codigo": "MU9600",
    "local": "Maramar, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 11,
-   "url": ""
+   "n_midias": 11
   },
   {
    "dateTime": "2026-11-16T19:00:00",
@@ -269,8 +234,7 @@
    "codigo": "MU51028",
    "local": "Residencial Life, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 12,
-   "url": ""
+   "n_midias": 12
   },
   {
    "dateTime": "2026-11-16T20:00:00",
@@ -280,8 +244,7 @@
    "codigo": "MU9602",
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 10,
-   "url": ""
+   "n_midias": 10
   },
   {
    "dateTime": "2026-11-16T21:00:00",
@@ -291,8 +254,7 @@
    "codigo": "MU8007",
    "local": "Jardim do Itanhangá, Itanhangá",
    "midias": [],
-   "n_midias": 11,
-   "url": ""
+   "n_midias": 11
   },
   {
    "dateTime": "2026-11-16T21:00:00",
@@ -302,8 +264,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-16T22:00:00",
@@ -313,8 +274,7 @@
    "codigo": "MU9823",
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 11,
-   "url": ""
+   "n_midias": 11
   },
   {
    "dateTime": "2026-11-16T22:00:00",
@@ -324,8 +284,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-16T22:30:00",
@@ -335,8 +294,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-16T23:00:00",
@@ -346,8 +304,7 @@
    "codigo": "MU7914",
    "local": "Santa Monica Jardins, Barra da Tijuca",
    "midias": [],
-   "n_midias": 13,
-   "url": ""
+   "n_midias": 13
   },
   {
    "dateTime": "2026-11-17T06:30:00",
@@ -497,8 +454,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-17T13:00:00",
@@ -508,8 +464,7 @@
    "codigo": "MU900208",
    "local": "Condomínio Reserva do Itanhangá",
    "midias": [],
-   "n_midias": 12,
-   "url": ""
+   "n_midias": 12
   },
   {
    "dateTime": "2026-11-17T13:30:00",
@@ -519,8 +474,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-17T14:00:00",
@@ -530,8 +484,7 @@
    "codigo": "",
    "local": "Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 9,
-   "url": ""
+   "n_midias": 9
   },
   {
    "dateTime": "2026-11-17T14:15:00",
@@ -541,8 +494,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-17T15:00:00",
@@ -552,8 +504,7 @@
    "codigo": "MU7082",
    "local": "Carmel Village, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 11,
-   "url": ""
+   "n_midias": 11
   },
   {
    "dateTime": "2026-11-17T15:15:00",
@@ -563,8 +514,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-17T16:00:00",
@@ -574,8 +524,7 @@
    "codigo": "MU8295",
    "local": "Condomínio Sagrada Família, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 9,
-   "url": ""
+   "n_midias": 9
   },
   {
    "dateTime": "2026-11-17T16:15:00",
@@ -585,8 +534,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-17T16:30:00",
@@ -596,8 +544,7 @@
    "codigo": "MU8733",
    "local": "Condomínio Mansões, Barra da Tijuca",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-17T17:00:00",
@@ -607,8 +554,7 @@
    "codigo": "MU8068",
    "local": "Condomínio Nova Ipanema, Barra da Tijuca",
    "midias": [],
-   "n_midias": 12,
-   "url": ""
+   "n_midias": 12
   },
   {
    "dateTime": "2026-11-17T17:15:00",
@@ -618,8 +564,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-17T18:00:00",
@@ -629,8 +574,7 @@
    "codigo": "MU9706",
    "local": "Pedra de Itaúna, Barra da Tijuca",
    "midias": [],
-   "n_midias": 13,
-   "url": ""
+   "n_midias": 13
   },
   {
    "dateTime": "2026-11-17T19:00:00",
@@ -640,8 +584,7 @@
    "codigo": "MU9751",
    "local": "Condomínio Lagoa Mar Norte, Barra da Tijuca",
    "midias": [],
-   "n_midias": 11,
-   "url": ""
+   "n_midias": 11
   },
   {
    "dateTime": "2026-11-17T20:00:00",
@@ -651,8 +594,7 @@
    "codigo": "MU9738",
    "local": "Condomínio Jardins Barra Bonita, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 13,
-   "url": ""
+   "n_midias": 13
   },
   {
    "dateTime": "2026-11-17T21:00:00",
@@ -662,8 +604,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-17T21:00:00",
@@ -673,8 +614,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 7,
-   "url": ""
+   "n_midias": 7
   },
   {
    "dateTime": "2026-11-17T21:15:00",
@@ -684,8 +624,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-17T22:00:00",
@@ -695,8 +634,7 @@
    "codigo": "MU7130",
    "local": "Condomínio Parque das Palmeiras, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 10,
-   "url": ""
+   "n_midias": 10
   },
   {
    "dateTime": "2026-11-17T22:00:00",
@@ -706,8 +644,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-17T22:30:00",
@@ -717,8 +654,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-17T23:00:00",
@@ -728,8 +664,7 @@
    "codigo": "MU9143",
    "local": "Condomínio Green Wood",
    "midias": [],
-   "n_midias": 13,
-   "url": ""
+   "n_midias": 13
   },
   {
    "dateTime": "2026-11-18T06:30:00",
@@ -743,6 +678,26 @@
    "url": ""
   },
   {
+   "dateTime": "2026-11-18T07:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-18T07:45:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
    "dateTime": "2026-11-18T08:00:00",
    "tipo": "POST",
    "draft": false,
@@ -752,6 +707,56 @@
    "midias": [],
    "n_midias": 12,
    "url": ""
+  },
+  {
+   "dateTime": "2026-11-18T08:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-18T08:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-18T09:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
+   "dateTime": "2026-11-18T09:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9342",
+   "local": "Maramar, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 13
+  },
+  {
+   "dateTime": "2026-11-18T09:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-18T10:00:00",
@@ -765,15 +770,34 @@
    "url": ""
   },
   {
+   "dateTime": "2026-11-18T11:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "Dica casa geminada",
+   "midias": [],
+   "n_midias": 6
+  },
+  {
+   "dateTime": "2026-11-18T11:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
+  },
+  {
    "dateTime": "2026-11-18T12:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
    "codigo": "MU9911",
-   "local": "",
+   "local": "Condomínio Quality III, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 11,
-   "url": ""
+   "n_midias": 11
   },
   {
    "dateTime": "2026-11-18T13:00:00",
@@ -783,8 +807,7 @@
    "codigo": "MU9977",
    "local": "Bothanica Nature, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 12,
-   "url": null
+   "n_midias": 12
   },
   {
    "dateTime": "2026-11-18T13:30:00",
@@ -794,8 +817,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-18T14:00:00",
@@ -805,8 +827,7 @@
    "codigo": "MU9543",
    "local": "Condomínio Rio Mar, Barra da Tijuca",
    "midias": [],
-   "n_midias": 11,
-   "url": ""
+   "n_midias": 11
   },
   {
    "dateTime": "2026-11-18T15:00:00",
@@ -816,8 +837,7 @@
    "codigo": "MU7485",
    "local": "São Conrado, Rio de Janeiro",
    "midias": [],
-   "n_midias": 12,
-   "url": ""
+   "n_midias": 12
   },
   {
    "dateTime": "2026-11-18T16:00:00",
@@ -827,8 +847,7 @@
    "codigo": "MU8417",
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 14,
-   "url": ""
+   "n_midias": 14
   },
   {
    "dateTime": "2026-11-18T16:30:00",
@@ -838,8 +857,7 @@
    "codigo": "MU9392",
    "local": "Parque das Palmeiras, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-18T17:00:00",
@@ -849,8 +867,7 @@
    "codigo": "MU9773",
    "local": "Condomínio Planície do Araguaia, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 12,
-   "url": ""
+   "n_midias": 12
   },
   {
    "dateTime": "2026-11-18T18:00:00",
@@ -860,8 +877,7 @@
    "codigo": "MU7935",
    "local": "Barra da Tijuca",
    "midias": [],
-   "n_midias": 14,
-   "url": ""
+   "n_midias": 14
   },
   {
    "dateTime": "2026-11-18T19:00:00",
@@ -871,8 +887,7 @@
    "codigo": "MU8346",
    "local": "Condomínio Pedra Bonita, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 13,
-   "url": ""
+   "n_midias": 13
   },
   {
    "dateTime": "2026-11-18T20:00:00",
@@ -882,8 +897,7 @@
    "codigo": "MU8559",
    "local": "Blue Houses, Barra da Tijuca",
    "midias": [],
-   "n_midias": 8,
-   "url": ""
+   "n_midias": 8
   },
   {
    "dateTime": "2026-11-18T21:00:00",
@@ -893,8 +907,17 @@
    "codigo": "MU6270",
    "local": "Condomínio Arouca, Barra da Tijuca",
    "midias": [],
-   "n_midias": 13,
-   "url": ""
+   "n_midias": 13
+  },
+  {
+   "dateTime": "2026-11-18T21:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-18T22:00:00",
@@ -904,8 +927,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 7,
-   "url": ""
+   "n_midias": 7
   },
   {
    "dateTime": "2026-11-18T22:15:00",
@@ -915,8 +937,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-18T22:30:00",
@@ -926,8 +947,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 1,
-   "url": ""
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-18T23:00:00",
@@ -937,8 +957,7 @@
    "codigo": "MU6807",
    "local": "Condomínio Portinho do Massaru, Itanhangá",
    "midias": [],
-   "n_midias": 12,
-   "url": ""
+   "n_midias": 12
   },
   {
    "dateTime": "2026-11-19T06:30:00",
@@ -948,8 +967,7 @@
    "codigo": "MU8001",
    "local": "Maramar, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 12,
-   "url": ""
+   "n_midias": 12
   },
   {
    "dateTime": "2026-11-19T08:00:00",
@@ -959,8 +977,7 @@
    "codigo": "MU9661",
    "local": "Malibu, Barra da Tijuca",
    "midias": [],
-   "n_midias": 14,
-   "url": ""
+   "n_midias": 14
   },
   {
    "dateTime": "2026-11-19T09:00:00",
@@ -970,8 +987,7 @@
    "codigo": "MU8331",
    "local": "Alphaville, Barra da Tijuca",
    "midias": [],
-   "n_midias": 15,
-   "url": ""
+   "n_midias": 15
   },
   {
    "dateTime": "2026-11-19T11:00:00",
@@ -981,8 +997,7 @@
    "codigo": "MU7772",
    "local": "Condomínio Jardim do Itanhangá, Itanhangá",
    "midias": [],
-   "n_midias": 16,
-   "url": ""
+   "n_midias": 16
   },
   {
    "dateTime": "2026-11-19T12:00:00",
@@ -992,8 +1007,7 @@
    "codigo": "MU9949",
    "local": "Concetto Nero, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 12,
-   "url": ""
+   "n_midias": 12
   },
   {
    "dateTime": "2026-11-19T13:00:00",
@@ -1003,8 +1017,7 @@
    "codigo": "MU9610",
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 13,
-   "url": ""
+   "n_midias": 13
   },
   {
    "dateTime": "2026-11-19T16:00:00",
@@ -1014,8 +1027,17 @@
    "codigo": "MU9398",
    "local": "Quintas do Pontal, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 15,
-   "url": ""
+   "n_midias": 15
+  },
+  {
+   "dateTime": "2026-11-19T16:30:00",
+   "tipo": "REEL",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8059",
+   "local": "Riviera Del Sol, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 1
   },
   {
    "dateTime": "2026-11-19T17:00:00",
@@ -1025,8 +1047,7 @@
    "codigo": "MU9653",
    "local": "Carmel Village, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 14,
-   "url": ""
+   "n_midias": 14
   },
   {
    "dateTime": "2026-11-19T18:00:00",
@@ -1036,8 +1057,7 @@
    "codigo": "MU7231",
    "local": "Condomínio Jardim do Itanhangá, Itanhangá",
    "midias": [],
-   "n_midias": 15,
-   "url": ""
+   "n_midias": 15
   },
   {
    "dateTime": "2026-11-19T20:00:00",
@@ -1047,8 +1067,7 @@
    "codigo": "MU40810",
    "local": "Península, Barra da Tijuca",
    "midias": [],
-   "n_midias": 14,
-   "url": ""
+   "n_midias": 14
   },
   {
    "dateTime": "2026-11-19T22:00:00",
@@ -1058,8 +1077,7 @@
    "codigo": "MU9109",
    "local": "Lagoa Mar Norte, Barra da Tijuca",
    "midias": [],
-   "n_midias": 14,
-   "url": ""
+   "n_midias": 14
   },
   {
    "dateTime": "2026-11-19T23:00:00",
@@ -1069,8 +1087,7 @@
    "codigo": "MU7300",
    "local": "São Conrado",
    "midias": [],
-   "n_midias": 16,
-   "url": ""
+   "n_midias": 16
   }
  ]
 }
