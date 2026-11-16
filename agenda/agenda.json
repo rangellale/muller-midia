@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T17:05",
+ "gerado_em": "2026-11-16T17:58",
  "posts": [
   {
    "dateTime": "2026-11-16T06:30:00",
@@ -201,11 +201,12 @@
    "dateTime": "2026-11-16T17:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU7233",
    "local": "Jardim do Itanhangá, Itanhangá",
    "midias": [],
-   "n_midias": 11
+   "n_midias": 11,
+   "url": "https://www.instagram.com/p/Df0K53qGxKE/"
   },
   {
    "dateTime": "2026-11-16T17:15:00",
@@ -911,6 +912,16 @@
    "n_midias": 14
   },
   {
+   "status": "PENDING",
+   "local": "",
+   "codigo": "",
+   "tipo": "STORY",
+   "dateTime": "2026-11-18T16:15:00",
+   "n_midias": 1,
+   "draft": false,
+   "midias": []
+  },
+  {
    "dateTime": "2026-11-18T16:30:00",
    "tipo": "REEL",
    "draft": false,
@@ -1109,6 +1120,26 @@
    "local": "Barra de Itauna, Barra da Tijuca",
    "midias": [],
    "n_midias": 10
+  },
+  {
+   "status": "PENDING",
+   "local": "Maramar, Recreio dos Bandeirantes",
+   "codigo": "",
+   "tipo": "POST",
+   "dateTime": "2026-11-19T15:00:00",
+   "n_midias": 7,
+   "draft": false,
+   "midias": []
+  },
+  {
+   "status": "PENDING",
+   "local": "",
+   "codigo": "",
+   "tipo": "STORY",
+   "dateTime": "2026-11-19T15:15:00",
+   "n_midias": 1,
+   "draft": false,
+   "midias": []
   },
   {
    "dateTime": "2026-11-19T16:00:00",
