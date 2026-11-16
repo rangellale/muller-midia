@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-16T08:52",
+ "gerado_em": "2026-11-16T11:58",
  "posts": [
   {
    "dateTime": "2026-11-16T06:30:00",
@@ -49,34 +49,34 @@
    "dateTime": "2026-11-16T09:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU8817",
    "local": "Villaggio Felicitá, Barra da Tijuca",
    "midias": [],
    "n_midias": 12,
-   "url": ""
+   "url": "https://www.instagram.com/p/DfzUC_omyqu/"
   },
   {
    "dateTime": "2026-11-16T10:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9497",
    "local": "Village Marapendi, Barra da Tijuca",
    "midias": [],
    "n_midias": 11,
-   "url": ""
+   "url": "https://www.instagram.com/p/DfzbGclm5Dh/"
   },
   {
    "dateTime": "2026-11-16T11:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9884",
    "local": "Green Place, Recreio dos Bandeirantes",
    "midias": [],
    "n_midias": 11,
-   "url": ""
+   "url": "https://www.instagram.com/p/Dfzh77om85o/"
   },
   {
    "dateTime": "2026-11-16T12:00:00",
@@ -899,6 +899,72 @@
    "local": "",
    "midias": [],
    "n_midias": 13,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-19T06:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8001",
+   "local": "Maramar, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 7,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-19T08:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9661",
+   "local": "Malibu, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 14,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-19T12:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9949",
+   "local": "Concetto Nero, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 12,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-19T13:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9610",
+   "local": "Riviera Del Sol, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 13,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-19T16:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9398",
+   "local": "Quintas do Pontal, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 15,
+   "url": ""
+  },
+  {
+   "dateTime": "2026-11-19T22:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9109",
+   "local": "Lagoa Mar Norte, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 14,
    "url": ""
   }
  ]
