@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-17T14:52",
+ "gerado_em": "2026-11-17T15:50",
  "posts": [
   {
    "dateTime": "2026-11-17T06:30:00",
@@ -293,12 +293,12 @@
    "dateTime": "2026-11-17T15:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU7082",
    "local": "Carmel Village, Recreio dos Bandeirantes",
    "midias": [],
    "n_midias": 11,
-   "url": "",
+   "url": "https://www.instagram.com/p/Df2iHDuGNSX/",
    "rede": "instagram"
   },
   {
@@ -317,7 +317,7 @@
    "dateTime": "2026-11-17T15:15:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [],
@@ -329,7 +329,7 @@
    "dateTime": "2026-11-17T15:45:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [],
