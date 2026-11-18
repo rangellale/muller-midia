@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-17T16:50",
+ "gerado_em": "2026-11-18T13:00",
  "posts": [
   {
    "dateTime": "2026-11-17T06:30:00",
@@ -996,6 +996,30 @@
    "n_midias": 10,
    "url": "",
    "rede": "tiktok"
+  },
+  {
+   "dateTime": "2026-11-20T18:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU8056",
+   "local": "Green Place, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 15,
+   "url": "",
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-20T20:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9805",
+   "local": "Riviera Del Sol, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 15,
+   "url": "",
+   "rede": "instagram"
   }
  ]
 }
