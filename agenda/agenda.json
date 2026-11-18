@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-18T13:00",
+ "gerado_em": "2026-11-18T16:50",
  "posts": [
   {
    "dateTime": "2026-11-17T06:30:00",
@@ -701,7 +701,7 @@
    "dateTime": "2026-11-18T14:45:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [],
@@ -713,12 +713,12 @@
    "dateTime": "2026-11-18T15:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU7485",
    "local": "São Conrado, Rio de Janeiro",
    "midias": [],
    "n_midias": 12,
-   "url": "",
+   "url": "https://www.instagram.com/p/Df5HJa2D00J/",
    "rede": "instagram"
   },
   {
@@ -737,7 +737,7 @@
    "dateTime": "2026-11-18T15:15:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [],
@@ -749,19 +749,19 @@
    "dateTime": "2026-11-18T16:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU8417",
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": [],
    "n_midias": 14,
-   "url": "",
+   "url": "https://www.instagram.com/p/Df5N02gDyMF/",
    "rede": "instagram"
   },
   {
    "dateTime": "2026-11-18T16:15:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [],
@@ -773,12 +773,12 @@
    "dateTime": "2026-11-18T16:30:00",
    "tipo": "REEL",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9392",
    "local": "Parque das Palmeiras, Recreio dos Bandeirantes",
    "midias": [],
    "n_midias": 1,
-   "url": "",
+   "url": "https://www.instagram.com/reel/Df5QvXwCTHa/",
    "rede": "instagram"
   },
   {
@@ -996,6 +996,61 @@
    "n_midias": 10,
    "url": "",
    "rede": "tiktok"
+  },
+  {
+   "dateTime": "2026-11-19T08:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9838",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-19T08:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9527",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-19T09:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9331",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-19T09:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9643",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-19T22:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": null,
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "rede": "instagram"
   },
   {
    "dateTime": "2026-11-20T18:00:00",
