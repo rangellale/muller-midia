@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19T18:45+00:00",
+ "gerado_em": "2026-11-19T18:49+00:00",
  "posts": [
   {
    "dateTime": "2026-11-18T06:30:00",
@@ -111,18 +111,6 @@
   },
   {
    "dateTime": "2026-11-18T09:00:00",
-   "tipo": "TIKTOK",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9342",
-   "local": "",
-   "midias": [],
-   "n_midias": 10,
-   "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7709481414617566482",
-   "rede": "tiktok"
-  },
-  {
-   "dateTime": "2026-11-18T09:00:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PUBLISHED",
@@ -132,6 +120,18 @@
    "n_midias": 1,
    "url": "https://www.instagram.com/stories/mullerimoveis.rj/4033103970302155432",
    "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-18T09:00:00",
+   "tipo": "TIKTOK",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU9342",
+   "local": "",
+   "midias": [],
+   "n_midias": 10,
+   "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7709481414617566482",
+   "rede": "tiktok"
   },
   {
    "dateTime": "2026-11-18T09:15:00",
@@ -243,18 +243,6 @@
   },
   {
    "dateTime": "2026-11-18T13:00:00",
-   "tipo": "TIKTOK",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "",
-   "local": "Parque das Palmeiras: spawn colado na Barra",
-   "midias": [],
-   "n_midias": 8,
-   "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7709544597990427924",
-   "rede": "tiktok"
-  },
-  {
-   "dateTime": "2026-11-18T13:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PUBLISHED",
@@ -264,6 +252,18 @@
    "n_midias": 15,
    "url": "https://www.instagram.com/p/Df45t5Vm3nP/",
    "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-18T13:00:00",
+   "tipo": "TIKTOK",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "",
+   "local": "Parque das Palmeiras: spawn colado na Barra",
+   "midias": [],
+   "n_midias": 8,
+   "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7709544597990427924",
+   "rede": "tiktok"
   },
   {
    "dateTime": "2026-11-18T13:15:00",
@@ -411,18 +411,6 @@
   },
   {
    "dateTime": "2026-11-18T17:00:00",
-   "tipo": "TIKTOK",
-   "draft": false,
-   "status": "PUBLISHED",
-   "codigo": "MU9773",
-   "local": "",
-   "midias": [],
-   "n_midias": 10,
-   "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7709604568144956693",
-   "rede": "tiktok"
-  },
-  {
-   "dateTime": "2026-11-18T17:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PUBLISHED",
@@ -432,6 +420,18 @@
    "n_midias": 13,
    "url": "https://www.instagram.com/p/Df5UnSSD_Mc/",
    "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-18T17:00:00",
+   "tipo": "TIKTOK",
+   "draft": false,
+   "status": "PUBLISHED",
+   "codigo": "MU9773",
+   "local": "",
+   "midias": [],
+   "n_midias": 10,
+   "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7709604568144956693",
+   "rede": "tiktok"
   },
   {
    "dateTime": "2026-11-18T17:15:00",
@@ -591,18 +591,6 @@
   },
   {
    "dateTime": "2026-11-18T22:00:00",
-   "tipo": "TIKTOK",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "",
-   "midias": [],
-   "n_midias": 7,
-   "url": "",
-   "rede": "tiktok"
-  },
-  {
-   "dateTime": "2026-11-18T22:00:00",
    "tipo": "POST",
    "draft": false,
    "status": "PUBLISHED",
@@ -624,6 +612,18 @@
    "n_midias": 1,
    "url": "",
    "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-18T22:00:00",
+   "tipo": "TIKTOK",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 7,
+   "url": "",
+   "rede": "tiktok"
   },
   {
    "dateTime": "2026-11-18T22:15:00",
@@ -681,7 +681,7 @@
    "codigo": "MU8001",
    "local": "Maramar, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 12,
    "url": "https://www.instagram.com/p/Df6w8q6IYS2/",
    "rede": "instagram"
   },
@@ -693,8 +693,8 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
-   "url": "",
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4033781506476102990",
    "rede": "instagram"
   },
   {
@@ -705,8 +705,8 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
-   "url": "",
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4033788855374899189",
    "rede": "instagram"
   },
   {
@@ -717,8 +717,8 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
-   "url": "",
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4033798662388266965",
    "rede": "instagram"
   },
   {
@@ -729,7 +729,7 @@
    "codigo": "MU9661",
    "local": "Malibu, Barra da Tijuca",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 14,
    "url": "https://www.instagram.com/p/Df67jb-IYXR/",
    "rede": "instagram"
   },
@@ -741,8 +741,8 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
-   "url": "",
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4033812018485851333",
    "rede": "instagram"
   },
   {
@@ -753,8 +753,8 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
-   "url": "",
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4033828537685586732",
    "rede": "instagram"
   },
   {
@@ -765,7 +765,7 @@
    "codigo": "MU8331",
    "local": "Alphaville, Barra da Tijuca",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 15,
    "url": "https://www.instagram.com/p/Df7CaUGIQ0M/",
    "rede": "instagram"
   },
@@ -777,8 +777,8 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
-   "url": "",
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4033834179896728953",
    "rede": "instagram"
   },
   {
@@ -789,8 +789,8 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
-   "url": "",
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4033842036273095749",
    "rede": "instagram"
   },
   {
@@ -801,7 +801,7 @@
    "codigo": "MU8331",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 15,
    "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7709859248380923154",
    "rede": "tiktok"
   },
@@ -813,7 +813,7 @@
    "codigo": "MU9761",
    "local": "Art Life, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 16,
    "url": "https://www.instagram.com/p/Df7JaQ2oZaq/",
    "rede": "instagram"
   },
@@ -825,8 +825,8 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
-   "url": "",
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4033864640928467007",
    "rede": "instagram"
   },
   {
@@ -837,7 +837,7 @@
    "codigo": "MU7772",
    "local": "Condomínio Jardim do Itanhangá, Itanhangá",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 16,
    "url": "https://www.instagram.com/p/Df7QLkzoUci/",
    "rede": "instagram"
   },
@@ -849,7 +849,7 @@
    "codigo": "MU7772",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 16,
    "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7709882694716476680",
    "rede": "tiktok"
   },
@@ -861,8 +861,8 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
-   "url": "",
+   "n_midias": 1,
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4033909703809500521",
    "rede": "instagram"
   },
   {
@@ -873,7 +873,7 @@
    "codigo": "MU9610",
    "local": "Riviera Del Sol, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 14,
    "url": "https://www.instagram.com/p/Df7XizKIe82/",
    "rede": "instagram"
   },
@@ -885,7 +885,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 1,
    "url": "https://www.instagram.com/stories/mullerimoveis.rj/4033932702143797160",
    "rede": "instagram"
   },
@@ -897,7 +897,7 @@
    "codigo": "MU9949",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 12,
    "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7709905423339457800",
    "rede": "tiktok"
   },
@@ -909,7 +909,7 @@
    "codigo": "MU9949",
    "local": "Concetto Nero, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 12,
    "url": "https://www.instagram.com/p/Df7eiSOodkp/",
    "rede": "instagram"
   },
@@ -1167,18 +1167,6 @@
   },
   {
    "dateTime": "2026-11-19T21:00:00",
-   "tipo": "TIKTOK",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9107",
-   "local": "",
-   "midias": [],
-   "n_midias": 10,
-   "url": "",
-   "rede": "tiktok"
-  },
-  {
-   "dateTime": "2026-11-19T21:00:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
@@ -1188,6 +1176,18 @@
    "n_midias": 1,
    "url": "",
    "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-19T21:00:00",
+   "tipo": "TIKTOK",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9107",
+   "local": "",
+   "midias": [],
+   "n_midias": 10,
+   "url": "",
+   "rede": "tiktok"
   },
   {
    "dateTime": "2026-11-19T22:00:00",
@@ -1215,18 +1215,6 @@
   },
   {
    "dateTime": "2026-11-19T22:30:00",
-   "tipo": "TIKTOK",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9109",
-   "local": "",
-   "midias": [],
-   "n_midias": 14,
-   "url": "",
-   "rede": "tiktok"
-  },
-  {
-   "dateTime": "2026-11-19T22:30:00",
    "tipo": "STORY",
    "draft": false,
    "status": "PENDING",
@@ -1236,6 +1224,18 @@
    "n_midias": 1,
    "url": "",
    "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-19T22:30:00",
+   "tipo": "TIKTOK",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9109",
+   "local": "",
+   "midias": [],
+   "n_midias": 14,
+   "url": "",
+   "rede": "tiktok"
   },
   {
    "dateTime": "2026-11-19T23:00:00",
@@ -1281,7 +1281,7 @@
    "codigo": "MU7130",
    "local": "Condomínio Parque das Palmeiras, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 10,
    "url": "",
    "rede": "instagram"
   },
@@ -1293,7 +1293,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 1,
    "url": "",
    "rede": "instagram"
   },
@@ -1305,7 +1305,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 1,
    "url": "",
    "rede": "instagram"
   },
@@ -1317,7 +1317,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 1,
    "url": "",
    "rede": "instagram"
   },
@@ -1329,7 +1329,7 @@
    "codigo": "MU8346",
    "local": "Condomínio Pedra Bonita, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 13,
    "url": "",
    "rede": "instagram"
   },
@@ -1341,7 +1341,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 1,
    "url": "",
    "rede": "instagram"
   },
@@ -1353,7 +1353,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 1,
    "url": "",
    "rede": "instagram"
   },
@@ -1365,7 +1365,7 @@
    "codigo": "MU9844",
    "local": "Condomínio Lagoa Mar Norte, Barra da Tijuca",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 12,
    "url": "",
    "rede": "instagram"
   },
@@ -1377,7 +1377,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 1,
    "url": "",
    "rede": "instagram"
   },
@@ -1389,7 +1389,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 1,
    "url": "",
    "rede": "instagram"
   },
@@ -1401,7 +1401,7 @@
    "codigo": "MU6270",
    "local": "Condomínio Arouca, Barra da Tijuca",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 13,
    "url": "",
    "rede": "instagram"
   },
@@ -1413,7 +1413,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 1,
    "url": "",
    "rede": "instagram"
   },
@@ -1425,7 +1425,7 @@
    "codigo": "MU6270",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 10,
    "url": "",
    "rede": "tiktok"
   },
@@ -1437,7 +1437,7 @@
    "codigo": "MU9911",
    "local": "Condomínio Quality III, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 11,
    "url": "",
    "rede": "instagram"
   },
@@ -1449,7 +1449,7 @@
    "codigo": "MU9773",
    "local": "Condomínio Planície do Araguaia, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 12,
    "url": "",
    "rede": "instagram"
   },
@@ -1461,7 +1461,7 @@
    "codigo": "",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 1,
    "url": "",
    "rede": "instagram"
   },
@@ -1473,7 +1473,7 @@
    "codigo": "MU9224",
    "local": "Concetto Bianco, Recreio dos Bandeirantes",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 13,
    "url": "",
    "rede": "instagram"
   },
@@ -1485,7 +1485,7 @@
    "codigo": "MU9610",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 13,
    "url": "",
    "rede": "tiktok"
   },
@@ -1560,6 +1560,18 @@
    "n_midias": 1,
    "url": "",
    "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-20T15:15:00",
+   "tipo": "TIKTOK",
+   "draft": true,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 6,
+   "url": "",
+   "rede": "tiktok"
   },
   {
    "dateTime": "2026-11-20T15:30:00",
@@ -1826,6 +1838,42 @@
    "rede": "instagram"
   },
   {
+   "dateTime": "2026-11-21T06:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7231",
+   "local": "Condomínio Jardim do Itanhangá, Itanhangá",
+   "midias": [],
+   "n_midias": 15,
+   "url": "",
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-21T06:30:00",
+   "tipo": "TIKTOK",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7231",
+   "local": "",
+   "midias": [],
+   "n_midias": 15,
+   "url": "",
+   "rede": "tiktok"
+  },
+  {
+   "dateTime": "2026-11-21T08:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9668",
+   "local": "Barra de Itauna, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 10,
+   "url": "",
+   "rede": "instagram"
+  },
+  {
    "dateTime": "2026-11-21T13:00:00",
    "tipo": "TIKTOK",
    "draft": false,
@@ -1833,7 +1881,7 @@
    "codigo": "MU9977",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 12,
    "url": "",
    "rede": "tiktok"
   },
@@ -1845,7 +1893,7 @@
    "codigo": "MU8417",
    "local": "",
    "midias": [],
-   "n_midias": 0,
+   "n_midias": 10,
    "url": "",
    "rede": "tiktok"
   }
