@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19T19:55:00",
+ "gerado_em": "2026-11-19T20:55:00",
  "posts": [
   {
    "dateTime": "2026-11-18T06:30:00",
@@ -1121,36 +1121,36 @@
    "dateTime": "2026-11-19T20:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU40810",
    "local": "Península, Barra da Tijuca",
    "midias": [],
    "n_midias": 14,
-   "url": "",
+   "url": "https://www.instagram.com/p/Df8OMp5FRuX/",
    "rede": "instagram"
   },
   {
    "dateTime": "2026-11-19T20:00:00",
    "tipo": "TIKTOK",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU40810",
    "local": "",
    "midias": [],
    "n_midias": 14,
-   "url": "",
+   "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7710023136518917428",
    "rede": "tiktok"
   },
   {
    "dateTime": "2026-11-19T20:15:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [],
    "n_midias": 1,
-   "url": "",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4034166337744021507",
    "rede": "instagram"
   },
   {
@@ -1791,18 +1791,6 @@
   },
   {
    "dateTime": "2026-11-20T22:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "MU9109",
-   "local": "Lagoa Mar Norte, Barra da Tijuca",
-   "midias": [],
-   "n_midias": 14,
-   "url": "",
-   "rede": "instagram"
-  },
-  {
-   "dateTime": "2026-11-20T22:00:00",
    "tipo": "TIKTOK",
    "draft": false,
    "status": "PENDING",
@@ -1812,6 +1800,18 @@
    "n_midias": 1,
    "url": "",
    "rede": "tiktok"
+  },
+  {
+   "dateTime": "2026-11-20T22:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7036",
+   "local": "Condomínio fechado, São Conrado",
+   "midias": [],
+   "n_midias": 14,
+   "url": "",
+   "rede": "instagram"
   },
   {
    "dateTime": "2026-11-20T22:30:00",
@@ -1830,8 +1830,8 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "MU7036",
-   "local": "Condomínio fechado, São Conrado",
+   "codigo": "MU9109",
+   "local": "Lagoa Mar Norte, Barra da Tijuca",
    "midias": [],
    "n_midias": 14,
    "url": "",
