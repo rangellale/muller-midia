@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-19T19:50+00:00",
+ "gerado_em": "2026-11-19T20:55+00:00",
  "posts": [
   {
    "dateTime": "2026-11-18T06:30:00",
@@ -1037,19 +1037,19 @@
    "dateTime": "2026-11-19T17:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9653",
    "local": "Carmel Village, Recreio dos Bandeirantes",
    "midias": [],
    "n_midias": 14,
-   "url": "",
+   "url": "https://www.instagram.com/p/Df75WCrDzK8/",
    "rede": "instagram"
   },
   {
    "dateTime": "2026-11-19T17:15:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [],
@@ -1061,12 +1061,12 @@
    "dateTime": "2026-11-19T17:30:00",
    "tipo": "TIKTOK",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9653",
    "local": "",
    "midias": [],
    "n_midias": 14,
-   "url": "",
+   "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7709982726119755009",
    "rede": "tiktok"
   },
   {
@@ -1884,6 +1884,30 @@
    "n_midias": 12,
    "url": "",
    "rede": "tiktok"
+  },
+  {
+   "dateTime": "2026-11-21T18:30:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU90132",
+   "local": "Blue Houses, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 0,
+   "url": "",
+   "rede": "tiktok"
+  },
+  {
+   "dateTime": "2026-11-21T19:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU90132",
+   "local": "Blue Houses, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 0,
+   "url": "",
+   "rede": "instagram"
   },
   {
    "dateTime": "2026-11-21T19:30:00",
