@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-20T17:51:22",
+ "gerado_em": "2026-11-20T15:49:45",
  "posts": [
   {
    "dateTime": "2026-11-18T06:30:00",
@@ -1541,12 +1541,12 @@
    "dateTime": "2026-11-20T15:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9458",
    "local": "Condomínio Quality II, Recreio dos Bandeirantes",
    "midias": [],
    "n_midias": 9,
-   "url": "",
+   "url": "https://www.instagram.com/p/Df-Q5CrDya2/",
    "rede": "instagram"
   },
   {
@@ -1577,24 +1577,24 @@
    "dateTime": "2026-11-20T15:15:00",
    "tipo": "STORY",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "",
    "local": "",
    "midias": [],
    "n_midias": 1,
-   "url": "",
+   "url": "https://www.instagram.com/stories/mullerimoveis.rj/4034740211057180545",
    "rede": "instagram"
   },
   {
    "dateTime": "2026-11-20T15:30:00",
    "tipo": "TIKTOK",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU50920",
    "local": "",
    "midias": [],
    "n_midias": 1,
-   "url": "",
+   "url": "https://www.tiktok.com/@mullerimoveis.rj/video/7710323086486179073",
    "rede": "tiktok"
   },
   {
@@ -1910,18 +1910,6 @@
    "rede": "instagram"
   },
   {
-   "dateTime": "2026-11-21T12:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Barra da Tijuca (dica)",
-   "midias": [],
-   "n_midias": 8,
-   "url": "",
-   "rede": "tiktok"
-  },
-  {
    "dateTime": "2026-11-21T12:15:00",
    "tipo": "STORY",
    "draft": false,
@@ -1992,18 +1980,6 @@
    "n_midias": 6,
    "url": "",
    "rede": "instagram"
-  },
-  {
-   "dateTime": "2026-11-21T21:00:00",
-   "tipo": "POST",
-   "draft": false,
-   "status": "PENDING",
-   "codigo": "",
-   "local": "Barra e Recreio (dica vender)",
-   "midias": [],
-   "n_midias": 6,
-   "url": "",
-   "rede": "tiktok"
   },
   {
    "dateTime": "2026-11-21T21:15:00",
