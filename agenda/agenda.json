@@ -1,5 +1,5 @@
 {
- "gerado_em": "2026-11-20T15:49:45",
+ "gerado_em": "2026-11-20T20:49:10",
  "posts": [
   {
    "dateTime": "2026-11-18T06:30:00",
@@ -1649,12 +1649,12 @@
    "dateTime": "2026-11-20T17:00:00",
    "tipo": "POST",
    "draft": false,
-   "status": "PENDING",
+   "status": "PUBLISHED",
    "codigo": "MU9766",
    "local": "Portofino, Recreio dos Bandeirantes",
    "midias": [],
    "n_midias": 14,
-   "url": "",
+   "url": "https://www.instagram.com/p/Df-eJvLj0vQ/",
    "rede": "instagram"
   },
   {
@@ -1870,7 +1870,7 @@
    "local": "Condomínio Jardim do Itanhangá, Itanhangá",
    "midias": [],
    "n_midias": 15,
-   "url": "",
+   "url": null,
    "rede": "instagram"
   },
   {
@@ -1882,8 +1882,32 @@
    "local": "",
    "midias": [],
    "n_midias": 15,
-   "url": "",
+   "url": null,
    "rede": "tiktok"
+  },
+  {
+   "dateTime": "2026-11-21T07:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "url": null,
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-21T07:45:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "url": null,
+   "rede": "instagram"
   },
   {
    "dateTime": "2026-11-21T08:00:00",
@@ -1894,7 +1918,43 @@
    "local": "Barra de Itauna, Barra da Tijuca",
    "midias": [],
    "n_midias": 10,
-   "url": "",
+   "url": null,
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-21T10:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9537",
+   "local": "Crystal Lake, Barra da Tijuca",
+   "midias": [],
+   "n_midias": 14,
+   "url": null,
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-21T10:30:00",
+   "tipo": "GMB",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 0,
+   "url": null,
+   "rede": "gmb"
+  },
+  {
+   "dateTime": "2026-11-21T11:00:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "url": null,
    "rede": "instagram"
   },
   {
@@ -1902,12 +1962,24 @@
    "tipo": "POST",
    "draft": false,
    "status": "PENDING",
-   "codigo": "",
-   "local": "Barra da Tijuca (dica lado do mar x Americas)",
+   "codigo": "MU7903",
+   "local": "",
    "midias": [],
    "n_midias": 8,
-   "url": "",
+   "url": null,
    "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-21T12:00:00",
+   "tipo": "TIKTOK",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU7903",
+   "local": "",
+   "midias": [],
+   "n_midias": 8,
+   "url": null,
+   "rede": "tiktok"
   },
   {
    "dateTime": "2026-11-21T12:15:00",
@@ -1918,7 +1990,7 @@
    "local": "",
    "midias": [],
    "n_midias": 1,
-   "url": "",
+   "url": null,
    "rede": "instagram"
   },
   {
@@ -1930,8 +2002,68 @@
    "local": "",
    "midias": [],
    "n_midias": 12,
-   "url": "",
+   "url": null,
    "rede": "tiktok"
+  },
+  {
+   "dateTime": "2026-11-21T13:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "url": null,
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-21T14:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "url": null,
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-21T16:00:00",
+   "tipo": "POST",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9809",
+   "local": "Bio Barra Residências, Recreio dos Bandeirantes",
+   "midias": [],
+   "n_midias": 12,
+   "url": null,
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-21T16:00:00",
+   "tipo": "TIKTOK",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9537",
+   "local": "",
+   "midias": [],
+   "n_midias": 14,
+   "url": null,
+   "rede": "tiktok"
+  },
+  {
+   "dateTime": "2026-11-21T17:15:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "url": null,
+   "rede": "instagram"
   },
   {
    "dateTime": "2026-11-21T18:30:00",
@@ -1939,10 +2071,10 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "MU90132",
-   "local": "",
+   "local": "Blue Houses, Barra da Tijuca",
    "midias": [],
    "n_midias": 9,
-   "url": "",
+   "url": null,
    "rede": "tiktok"
   },
   {
@@ -1954,7 +2086,7 @@
    "local": "Blue Houses, Barra da Tijuca",
    "midias": [],
    "n_midias": 9,
-   "url": "",
+   "url": null,
    "rede": "instagram"
   },
   {
@@ -1966,7 +2098,7 @@
    "local": "",
    "midias": [],
    "n_midias": 10,
-   "url": "",
+   "url": null,
    "rede": "tiktok"
   },
   {
@@ -1975,11 +2107,23 @@
    "draft": false,
    "status": "PENDING",
    "codigo": "",
-   "local": "Barra e Recreio (dica vender)",
+   "local": "",
    "midias": [],
    "n_midias": 6,
-   "url": "",
+   "url": null,
    "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-21T21:00:00",
+   "tipo": "TIKTOK",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 6,
+   "url": null,
+   "rede": "tiktok"
   },
   {
    "dateTime": "2026-11-21T21:15:00",
@@ -1990,7 +2134,31 @@
    "local": "",
    "midias": [],
    "n_midias": 1,
-   "url": "",
+   "url": null,
+   "rede": "instagram"
+  },
+  {
+   "dateTime": "2026-11-21T22:00:00",
+   "tipo": "TIKTOK",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "MU9809",
+   "local": "",
+   "midias": [],
+   "n_midias": 12,
+   "url": null,
+   "rede": "tiktok"
+  },
+  {
+   "dateTime": "2026-11-21T22:30:00",
+   "tipo": "STORY",
+   "draft": false,
+   "status": "PENDING",
+   "codigo": "",
+   "local": "",
+   "midias": [],
+   "n_midias": 1,
+   "url": null,
    "rede": "instagram"
   }
  ]
