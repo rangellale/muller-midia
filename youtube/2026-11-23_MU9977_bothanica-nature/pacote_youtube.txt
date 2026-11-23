@@ -65,4 +65,7 @@ PRIVACIDADE (desfocado no vídeo)
 - Retrato do casal na parede da sala e porta-retratos do aparador (246 a 252 s do original).
 - Fotos de família na prateleira do escritório (356 a 377 s).
 - Funcionária de limpeza na escada (527,8 a 529,7 s).
-- Placa "VENDE" com telefone e número da casa 295: ficaram dentro do trecho cortado (item 1).
+- Placa "VENDE" com telefone: dentro do trecho cortado (item 1).
+- Número da casa (295) na coluna da casa: desfocado nos primeiros 68 s (correção de 23/11, o número aparecia legível ali) e fora do vídeo no trecho cortado.
+
+LEGENDA NA TELA: comum, Poppins Medium 50 px branca, até 2 linhas, acima da etiqueta. Gerada por transcrição automática; palavras corrigidas pelo contexto: suíte, térrea, cuba dupla, garagem. Trecho incerto (06:17 a 06:20 do original, "Jacob. Lava bonito.") sem legenda.
