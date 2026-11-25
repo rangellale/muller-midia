@@ -1,11 +1,11 @@
 PACOTE YOUTUBE (RASCUNHO): MU9363 Village Marapendi, Barra da Tijuca (YouTube vídeo 2)
-Status em 25/11/2026: vídeo ainda NÃO renderizado. Falta a Maia aprovar o texto da legenda e eu fechar o corte. Quando ficar pronto, esta ficha ganha os capítulos, o nome e o tamanho do arquivo e o link de download.
+Status em 25/11/2026: legenda aprovada pela Maia (APROVADO; os 6 ajustes dela foram retirados a pedido da Ale), vídeo renderizado em 1080p, 7 min 6 s. Capítulos abaixo calculados no vídeo já editado. Arquivo final no Descript (assistir, não vence): https://share.descript.com/view/5LVgOadswIE . Arquivo: 594.314.172 bytes, 1080p 30 fps, 11,15 Mbps, 7 min 6 s. O link de baixar vence em 24 h; se vencer, pedir um novo (republicar o projeto no Descript).
 Sobe como RASCUNHO PRIVADO (não publicar, não agendar). A Ale quer postar na sexta-feira, 27/11/2026; o horário a Ale combina com a Maia. Capa: layout D com o Müller, depois da foto da Vicky das fotos.
 
 TÍTULO (93 caracteres)
 Casa à venda no Village Marapendi, Barra da Tijuca | 5 suítes, piscina e academia | Cód. MU9363
 
-DESCRIÇÃO (sem preço; capítulos entram depois do corte)
+DESCRIÇÃO (sem preço)
 Casa triplex à venda no Village Marapendi, Barra da Tijuca, Rio de Janeiro: tour completo com o Müller por uma casa de 700 m² com 5 suítes, piscina com cascata, área gourmet, academia e escritório. Fale com o Müller pelo WhatsApp 21 99361-7508.
 
 FICHA DO IMÓVEL
@@ -18,7 +18,26 @@ Vagas: 5
 Código: MU9363
 
 CAPÍTULOS
-(a calcular no vídeo já editado)
+00:00 Village Marapendi: entre a Barra e o Recreio
+00:17 Terreno de 1.000 m² e 20 metros de frente
+00:29 Fachada
+00:42 Garagem e entrada lateral
+01:05 Suíte térrea
+01:21 Sala e cozinha
+01:50 Cozinha profissional
+02:06 Lazer, piscina e área gourmet
+02:49 Academia
+03:02 Escritório ou dependência
+03:10 Área de serviço e banheiro do lazer
+03:44 Decoração interna e subida para o andar de cima
+04:15 Segundo pavimento: escritório e suíte
+04:35 Varandão
+04:50 Furô com hidromassagem
+05:26 Suíte master
+05:38 Banheirão
+05:58 Vista do lazer
+06:13 Fale com o Müller
+06:56 Agende sua visita
 
 AGENDE SUA VISITA
 WhatsApp: 21 99361-7508
