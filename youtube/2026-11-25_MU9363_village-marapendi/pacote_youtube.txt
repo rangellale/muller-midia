@@ -1,5 +1,5 @@
 PACOTE YOUTUBE (RASCUNHO): MU9363 Village Marapendi, Barra da Tijuca (YouTube vídeo 2)
-Status em 25/11/2026: legenda aprovada pela Maia (APROVADO; os 6 ajustes dela foram retirados a pedido da Ale), vídeo renderizado em 1080p, 7 min 6 s. Capítulos abaixo calculados no vídeo já editado. VERSÃO v2 CORRIGIDA em 25/11 (a v1 tinha o número da casa legível em cerca de 1 s; não usar a v1). Arquivo final no Descript (assistir, não vence): https://share.descript.com/view/1DgT2vSAb4T . Arquivo: 592.739.620 bytes, 1080p 30 fps, 11,15 Mbps, 7 min 6 s. O link de baixar vence em 24 h; se vencer, pedir um novo (republicar o projeto no Descript).
+Status em 26/11/2026: VERSÃO v3, refeita com as regras novas da Ale (pausas de fala cortadas, só trecho longo acelerado, takes de abertura, título 3 s depois, música Deep House Fashion). NÃO usar a v1 nem a v2. Legenda aprovada pela Maia (APROVADO; os 6 ajustes dela foram retirados a pedido da Ale). Vídeo em 1080p, 6 min 46 s, 566.081.052 bytes, 11,2 Mbps. Assistir (não vence): https://share.descript.com/view/BeD1ETvrg4f . O link de baixar vence em 24 h; se vencer, pedir um novo (republicar o projeto no Descript). Capítulos calculados no vídeo v3 (a Maia junta o que ficar com menos de 10 s).
 Sobe como RASCUNHO PRIVADO (não publicar, não agendar). A Ale quer postar na sexta-feira, 27/11/2026; o horário a Ale combina com a Maia. Capa: layout D com o Müller, depois da foto da Vicky das fotos.
 
 TÍTULO (93 caracteres)
@@ -19,24 +19,23 @@ Código: MU9363
 
 CAPÍTULOS
 00:00 Village Marapendi: entre a Barra e o Recreio
-00:17 Terreno de 1.000 m² e 20 metros de frente
-00:29 Fachada
-00:42 Garagem e entrada lateral
-01:05 Suíte térrea
-01:21 Sala e cozinha
-01:50 Cozinha profissional
-02:06 Lazer, piscina e área gourmet
-02:49 Academia
-03:02 Escritório, área de serviço e banheiro do lazer
-03:44 Decoração interna e subida para o andar de cima
-04:15 Segundo pavimento: escritório e suíte
-04:35 Varandão
-04:50 Ofurô com hidromassagem
-05:26 Suíte master
-05:38 Banheirão
-05:58 Vista do lazer
-06:13 Fale com o Müller
-06:56 Agende sua visita
+00:16 Terreno de 1.000 m² e 20 metros de frente
+00:28 Fachada
+00:43 Garagem e entrada lateral
+01:00 Suíte térrea
+01:15 Sala e cozinha
+01:43 Cozinha profissional
+02:01 Lazer, piscina e área gourmet
+02:42 Academia
+02:54 Escritório, área de serviço e banheiro do lazer
+03:34 Decoração interna e subida para o andar de cima
+04:04 Segundo pavimento: escritório e suíte
+04:23 Varandão
+04:35 Ofurô com hidromassagem
+05:09 Suíte master
+05:20 Banheirão
+05:54 Fale com o Müller
+06:35 Agende sua visita
 
 AGENDE SUA VISITA
 WhatsApp: 21 99361-7508
