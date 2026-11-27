@@ -1,0 +1,14 @@
+Story da reuniao de equipe da Muller Imoveis RJ (03/11/2026), 31,5 s, 1080x1920.
+Editado pela Vic: cortes dos videos IMG_5125 a IMG_5128, quadro branco desfocado, logo e esfumado Muller, textos de motivacao, musica do banco do Descript (Epic Cinematic Inspirational Motivation Soundtrack Trailer). Fala original silenciada.
+
+Versao 2 (story_v2_com_voz.mp4, 31,5 s): mescla dois trechos da fala do Muller ("E a gente vai ter que dominar" e "Ontem foi o dia que deu mais visualizacao nos stories") com musica alta nos demais trechos. Musica baixa durante a fala e sobe nos silencios. Legendas nas falas. Aguardando aprovacao da Ale para postar.
+
+Versao 3 (story_v3_uniao.mp4, 31,5 s): abre com "E um demonstrativo de como a uniao da certo" (IMG_5125, transcricao conferida em 3 ferramentas: Whisper large-v3, Descript e Whisper medium diverge so no "nao"; vale large-v3 + Descript), depois "A gente vai ter que dominar" e "Isso aqui foi o nosso quadrante de forca" (IMG_5127). Musica baixa na fala e alta nos demais trechos. Aguardando aprovacao da Ale para postar.
+
+Versao 4 (story_v4_fala_longa.mp4, 49 s): tres trechos longos de fala do Muller, todos legendados (uniao; dominar e quadrante de forca; ontem foi o dia que deu mais visualizacao nos stories), musica baixa na fala e alta nos trechos so de imagem (Descript: Epic Cinematic Inspirational Motivation Soundtrack Trailer, faixa de 50 s). Cortes de silencio acima de 0,7 s. Quadro branco desfocado por trecho. Aguardando aprovacao da Ale para postar.
+
+Versao 5 (story_v5_uniao_sem_dados.mp4, 29 s): so a fala sobre uniao e mentalidade (E um demonstrativo de como a uniao da certo ... esse quadro tem que estar lotado; E a gente vai ter que dominar), sem condominios, regioes, numeros ou metricas. Voz original. Substitui a v4 (que citava Quintas do Pontal, Alphaville, Nova Ipanema e visualizacoes), a pedido da Ale em 03/11.
+
+Versao 6 (story_v6_musica_banco.mp4, 29 s): fala sobre uniao no inicio e "a gente vai ter que dominar", resto com musica alta (Beautiful Upbeat Success Corporate Promo, banco do Descript) e 3 imagens de banco (maos de equipe unidas, dois profissionais diante da janela, vista aerea de cidade a beira-mar). Sem dados internos. Montado sem depender da Ale (pedido dela). Agendado para 03/11 15h15.
+
+Versao 7 (story_v7_sem_pedro.mp4, 24,9 s): igual a v6 sem a parte em que ele fala do Pedro e de quando comecou (pedido da Ale em 03/11); no lugar entra um trecho so de imagem e musica com a palavra JUNTOS e a imagem de banco das maos unidas. Agendado para 04/11 07h55 (primeiro Story da manha).
